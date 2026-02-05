@@ -1,0 +1,6 @@
+title: Slowburn Movies
+description: Movie reviews and film news
+url: https://slowburn.mov
+
+markdown: kramdown
+permalink: /:categories/:title/
