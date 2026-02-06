@@ -43,9 +43,9 @@ layout: default
 <h3>Other opinions:</h3>
 {% for rating in page.other_ratings %}
   <div style="background: var(--badge-bg); padding: 10px; display: inline-block;">
-    <strong> {{ rating.author }}:</strong><br>
-    <strong>Score:</strong> {{ rating.rating }} / 5 ★ <br>
-    <strong>Verdict:</strong> {{ rating.verdict }}
+    <strong> {{ rating.author }}</strong><br>
+    {{ rating.rating }} / 5 ★ <br>
+    "{{ rating.verdict }}"
   </div>
 {% endfor %}
 {% endif %}
