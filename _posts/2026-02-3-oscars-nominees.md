@@ -1,6 +1,6 @@
 ---
 type: "News"
-title: "Oscar Nominees"
+title: "2026 Oscar Nominees"
 date: 2026-02-3
 image: /assets/images/camera.jpg
 alt: "Close-up of a silver Canon 514XL Super 8 camera lens"
