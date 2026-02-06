@@ -37,7 +37,7 @@ a {
   color: var(--caption-color);
 }
 
-.tag-badge {
+.type-badge {
   display: inline-block;
   background: var(--link-color);
   color: var(--bg-color);

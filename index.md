@@ -15,9 +15,7 @@ layout: default
     <li>
       <span style="color: #888;">{{ item.date | date: "%b %d" }}</span> — 
       
-      {% if item.collection == "reviews" %}
-        <strong>[Review]</strong> 
-      {% endif %}
+      <span class="type-badge">{{ item.type }}</span>
       
       <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
     </li>

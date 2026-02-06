@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Inception"
 rating: 5
 year: 2010

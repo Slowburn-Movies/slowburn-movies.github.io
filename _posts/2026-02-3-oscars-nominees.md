@@ -1,5 +1,5 @@
 ---
-layout: post
+type: "News"
 title: "Oscar Nominees"
 date: 2026-02-3
 image: /assets/images/camera.jpg

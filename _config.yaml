@@ -6,3 +6,16 @@ collections:
   reviews:
     output: true
     permalink: /reviews/:name
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "reviews"
+    values:
+      layout: "post"
+      type: "review"
