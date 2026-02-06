@@ -31,7 +31,7 @@ layout: default
 {% if page.rating %}
   <div style="background: var(--badge-bg); padding: 10px; display: inline-block;">
     <strong>Score:</strong> {{ page.rating }} / 5 ★ <br>
-    <strong>Verdict:</strong> {{ page.verdict }}
+    {% if page.verdict %}<strong>Verdict:</strong> {{ page.verdict }}{% endif %}
   </div>
 {% endif %}
 
