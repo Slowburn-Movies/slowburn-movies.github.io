@@ -2,22 +2,22 @@
 layout: default
 ---
 
-## Latest Articles
 <ul>
-  {% for post in site.posts limit: 3 %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+  {% comment %} Join the two collections into one array {% endcomment %}
+  {% assign combined_items = site.posts | concat: site.reviews %}
+  
+  {% comment %} Sort them by date (newest first) and limit to 5 {% endcomment %}
+  {% assign sorted_items = combined_items | sort: 'date' | reverse %}
 
-<hr>
-
-## Latest Reviews
-<ul>
-  {% assign latest_reviews = site.reviews | reverse %}
-  {% for review in latest_reviews limit: 3 %}
+  {% for item in sorted_items limit: 5 %}
     <li>
-      <a href="{{ review.url }}">{{ review.title }}</a> 
-      — <strong>Rating: {{ review.rating }}/5</strong>
+      <span style="color: #888;">{{ item.date | date: "%b %d" }}</span> — 
+      
+      {% if item.collection == "reviews" %}
+        <strong>[Review]</strong> 
+      {% endif %}
+      
+      <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
     </li>
   {% endfor %}
 </ul>

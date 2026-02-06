@@ -1,10 +1,10 @@
 ---
 layout: default
-title: News
-permalink: /news/
+title: Posts
+permalink: /posts/
 ---
 
-# News
+# Posts
 
 <ul>
   {% for post in site.posts %}
