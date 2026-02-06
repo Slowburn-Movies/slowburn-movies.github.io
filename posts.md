@@ -11,7 +11,7 @@ permalink: /posts/
     <li>
       <span style="color: #888;">{{ post.date | date: "%b %d, %Y" }}</span> — 
       {% if post.type %}
-        <span class="type-badge">{{ item.type }}</span> 
+        <span class="type-badge">{{ post.type }}</span> 
       {% endif %}
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </li>
