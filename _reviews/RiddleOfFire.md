@@ -1,5 +1,5 @@
 ---
-published: false
+published: True
 title: "Riddle of Fire"
 year: 2023
 author: jeffdelay
