@@ -2,6 +2,9 @@
 layout: post
 title: "Oscar Nominees"
 date: 2026-02-3
+image: /assets/images/camera.jpg
+alt: "Close-up of a silver Canon 514XL Super 8 camera lens"
+caption: "The original 1974 model found at a thrift store."
 author: Jen
 ---
 

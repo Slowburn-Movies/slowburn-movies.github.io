@@ -17,3 +17,22 @@ a {
   border-left: 5px solid var(--link-color);
   padding: 1rem;
 }
+
+.post-featured-image img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  border: 1px solid var(--badge-bg); 
+}
+
+.post-featured-image {
+  margin: 0 0 2rem 0;
+}
+
+.image-caption {
+  font-size: 0.9rem;
+  font-style: italic;
+  text-align: center;
+  margin-top: 8px;
+  color: var(--caption-color);
+}

@@ -3,6 +3,17 @@ layout: default
 ---
 <h1>{{ page.title }}</h1>
 
+{% if page.image %}
+  <figure class="post-featured-image">
+    <img src="{{ page.image | relative_url }}" 
+         alt="{% if page.alt %}{{ page.alt }}{% else %}{{ page.title }}{% endif %}">
+    
+    {% if page.caption %}
+      <figcaption class="image-caption">{{ page.caption }}</figcaption>
+    {% endif %}
+  </figure>
+{% endif %}
+
 {% if page.rating %}
   <div style="background: #eee; padding: 10px; display: inline-block;">
     <strong>Score:</strong> {{ page.rating }} / 5 ★ <br>
