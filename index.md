@@ -11,7 +11,7 @@ layout: default
 
 <hr>
 
-## My Reviews
+## Latest Reviews
 <ul>
   {% assign latest_reviews = site.reviews | reverse %}
   {% for review in latest_reviews limit: 3 %}
