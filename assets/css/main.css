@@ -18,15 +18,15 @@ a {
   padding: 1rem;
 }
 
+.post-featured-image {
+  margin: 0 0 2rem 0;
+}
+
 .post-featured-image img {
   display: block;
   max-width: 100%;
   height: auto;
   border: 1px solid var(--badge-bg); 
-}
-
-.post-featured-image {
-  margin: 0 0 2rem 0;
 }
 
 .image-caption {
@@ -35,4 +35,15 @@ a {
   text-align: center;
   margin-top: 8px;
   color: var(--caption-color);
+}
+
+.tag-badge {
+  display: inline-block;
+  background: var(--link-color);
+  color: var(--bg-color);
+  padding: 2px 10px;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  margin-right: 5px;
+  font-weight: bold;
 }
