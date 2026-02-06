@@ -28,24 +28,27 @@ permalink: /reviews/
 </table>
 
 <style>
-    th[role="columnheader"]:not(.no-sort) {
+th[role="columnheader"]:not(.no-sort) {
     cursor: pointer;
 }
 
+/* Default state: show a neutral double arrow */
 th[role="columnheader"]:after {
-    content: ' \2114'; /* Adds a small arrow icon */
+    content: " ↕";
     font-size: 0.8em;
-    color: #ccc;
+    opacity: 0.3;
 }
 
+/* Sorted Ascending: Up arrow */
 th[aria-sort="ascending"]:after {
-    content: ' \2191'; /* Up arrow */
-    color: #000;
+    content: " ↑";
+    opacity: 1;
 }
 
+/* Sorted Descending: Down arrow */
 th[aria-sort="descending"]:after {
-    content: ' \2193'; /* Down arrow */
-    color: #000;
+    content: " ↓";
+    opacity: 1;
 }
 </style>
 
