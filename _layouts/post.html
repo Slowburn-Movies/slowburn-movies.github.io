@@ -33,7 +33,7 @@ layout: default
 {% endif %}
 
 {% if page.author %}
-<h5> — {{ page.author }} {% if page.date %}, published {{ page.date | date: '%Y%m%d' }} {% endif %}</h5>
+<h5> — {{ page.author }} {% if page.date %}, published {{ page.date | date: "%b %d, %Y" }} {% endif %}</h5>
 {% endif %}
 
 {% if page.rating %}
@@ -48,7 +48,7 @@ layout: default
 </article>
 
 {% if page.other_ratings %}
-<h3>Other opinions:</h3>
+<h3>Second opinions:</h3>
 {% for rating in page.other_ratings %}
   <div style="background: var(--badge-bg); padding: 10px; display: inline-block;">
     <strong> {{ rating.author }}</strong><br>
