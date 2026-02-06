@@ -13,7 +13,7 @@ layout: default
 
   {% for item in sorted_items limit: 5 %}
     <li>
-      <span style="color: #888;">{{ item.date | date: "%b %d" }}</span> — 
+      <span style="color: var(--caption-color);">{{ item.date | date: "%b %d" }}</span> — 
       
       <span class="type-badge">{{ item.type }}</span>
       
