@@ -10,8 +10,8 @@ permalink: /posts/
   {% for post in site.posts %}
     <li>
       <span style="color: #888;">{{ post.date | date: "%b %d, %Y" }}</span> — 
-      {% if post.tag == "Interview" %}
-        <strong>[Interview]</strong> 
+      {% if post.type %}
+        <span class="type-badge">{{ item.type }}</span> 
       {% endif %}
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </li>
