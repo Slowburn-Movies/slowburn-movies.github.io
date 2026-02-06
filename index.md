@@ -1,9 +1,22 @@
-<h2>Latest Reviews</h2>
-{% for post in site.categories.reviews limit:3 %}
-  <a href="{{ post.url }}">{{ post.title }}</a><br>
-{% endfor %}
+---
+layout: default
+---
 
-<h2>Latest News</h2>
-{% for post in site.categories.news limit:3 %}
-  <a href="{{ post.url }}">{{ post.title }}</a><br>
-{% endfor %}
+## Latest Articles
+<ul>
+  {% for post in site.posts %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
+
+<hr>
+
+## My Reviews
+<ul>
+  {% for review in site.reviews %}
+    <li>
+      <a href="{{ review.url }}">{{ review.title }}</a> 
+      — <strong>Rating: {{ review.rating }}/5</strong>
+    </li>
+  {% endfor %}
+</ul>

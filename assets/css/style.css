@@ -1,0 +1,40 @@
+body {
+  font-family: sans-serif;
+  line-height: 1.6;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+  color: #333;
+}
+
+nav a { margin-right: 15px; }
+
+.review-badge {
+  background: #f4f4f4;
+  border-left: 5px solid #007bff;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+/* Dark Mode support */
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #1a1a1a;
+    color: #e0e0e0;
+  }
+
+  a {
+    color: #4da3ff;
+  }
+
+  .review-badge {
+    background: #2d2d2d;
+    border-left-color: #4da3ff;
+    color: #fff;
+  }
+
+  hr {
+    border: 0;
+    border-top: 1px solid #444;
+  }
+}
