@@ -1,6 +1,8 @@
-title: Slowburn Movies
+title: Slowburn
 description: Movie reviews and film news
 url: https://slowburn.mov
 
-markdown: kramdown
-permalink: /:categories/:title/
+collections:
+  reviews:
+    output: true
+    permalink: /reviews/:name
