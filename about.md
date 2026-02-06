@@ -5,3 +5,7 @@ permalink: /about/
 ---
 
 Some info about Slowburn
+
+[Youtube]()
+
+[Instagram]()

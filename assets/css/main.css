@@ -1,0 +1,19 @@
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  font-family: sans-serif;
+  line-height: 1.6;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+a {
+  color: var(--link-color);
+}
+
+.review-badge {
+  background: var(--badge-bg);
+  border-left: 5px solid var(--link-color);
+  padding: 1rem;
+}
