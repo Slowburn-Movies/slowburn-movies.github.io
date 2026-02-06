@@ -14,8 +14,18 @@ layout: default
   </figure>
 {% endif %}
 
+{% if page.youtube_id %}
+  <div class="video-container" style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; margin-bottom: 20px;">
+    <iframe 
+      src="https://www.youtube.com/embed/{{ page.youtube_id }}" 
+      style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;" 
+      allowfullscreen>
+    </iframe>
+  </div>
+{% endif %}
+
 {% if page.rating %}
-  <div style="background: #eee; padding: 10px; display: inline-block;">
+  <div style="background: var(--badge-bg); padding: 10px; display: inline-block;">
     <strong>Score:</strong> {{ page.rating }} / 5 ★ <br>
     <strong>Verdict:</strong> {{ page.verdict }}
   </div>
