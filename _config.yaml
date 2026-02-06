@@ -5,7 +5,7 @@ url: https://slowburn.mov
 collections:
   reviews:
     output: true
-    permalink: /:slug-review/
+    permalink: /reviews/:title-:year
 
 defaults:
   - scope:
