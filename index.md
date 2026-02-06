@@ -2,6 +2,8 @@
 layout: default
 ---
 
+## Latest 
+
 <ul>
   {% comment %} Join the two collections into one array {% endcomment %}
   {% assign combined_items = site.posts | concat: site.reviews %}

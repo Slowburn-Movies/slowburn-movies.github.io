@@ -4,7 +4,7 @@ title: Movie Reviews
 permalink: /reviews/
 ---
 
-# Movie Reviews
+## Reviews
 
 <table>
     <thead>
