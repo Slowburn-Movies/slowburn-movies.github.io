@@ -1,3 +1,8 @@
+html, body {
+  margin: 0;
+  height: 100%;
+}
+
 body {
   background-color: var(--bg-color);
   color: var(--text-color);
@@ -6,8 +11,9 @@ body {
   max-width: 800px;
   margin: 0 auto;
   padding: 2rem;
-  height: 100%;
 }
+
+
 
 .site-wrapper {
   display: flex;
@@ -15,7 +21,7 @@ body {
   min-height: 100vh; /* Takes at least 100% of the viewport height */
 }
 
-.content {
+.page-content {
   flex: 1; /* This tells the content to grow and fill the empty space */
 }
 
