@@ -2,7 +2,7 @@
 published: true
 type: blog
 title: "In Defense of Avatar"
-date: 2026-02-08
+date: 2026-02-07
 image: /assets/images/avatar-family-photo.webp
 image_alt: "A flash photo of a family of skinny blue aliens smiling at the camera"
 image_caption: "The Sully family from the Avatar movies."
