@@ -58,6 +58,7 @@ a {
 /* Base styles stay the same as your existing .type-badge */
 .type-badge {
   display: inline-block;
+  background: var(--link-color); /* Default fallback */
   color: var(--bg-color);
   padding: 2px 10px;
   border-radius: 20px;
@@ -68,16 +69,23 @@ a {
 
 /* Specific color overrides */
 .badge-review {
-  background: #e63946; /* A cinematic red */
+  background: #e63946; 
 }
 
 .badge-blog {
-  background: #457b9d; /* A culture/article blue-grey */
+  background: #98c6e2; 
 }
 
-/* Fallback if you add a new type later without a specific CSS class */
-.type-badge:not([class*="badge-"]) {
-  background: var(--link-color);
+.badge-news {
+  background: #3267d0; 
+}
+
+.badge-event {
+  background: #8b27b9; 
+}
+
+.badge-interview {
+  background: #8ac194; 
 }
 
 /* Thumbnail for the post list */

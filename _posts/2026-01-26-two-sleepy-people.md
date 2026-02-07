@@ -6,10 +6,10 @@ year: 2025
 author: jeffdelay
 rating: 4
 date: 2026-01-26
-comment-link: https://embed.letterboxd.com/jeffdelay/film/two-sleepy-people/ 
+comment_link: https://embed.letterboxd.com/jeffdelay/film/two-sleepy-people/ 
 image: /assets/images/TwoSleepyPeople.webp
-alt: "Baron Ryan and Caroline Grossman from the film Two Sleepy People."
-caption: "Baron Ryan and Caroline Grossman from the film Two Sleepy People."
+image_alt: "Baron Ryan and Caroline Grossman from the film Two Sleepy People."
+image_caption: "Baron Ryan and Caroline Grossman from the film Two Sleepy People."
 ---
 
 Two Sleepy People is a testament to the sheer willpower and determination of creative people attempting to break into the film world. Written in two weeks, filmed in under 100 days, self-funded, and distributed to more theaters than I ever thought was possible for such a small, nascent indie studio- it’s a miracle this was ever distributed at all. It’s a film that punches far above its weight, naturally flowing through its humor and emotionality, and it proudly and nostalgically wears its influences on its sleeve. 

@@ -6,8 +6,8 @@ layout: default
   {% for post in site.posts limit: 3 %}
     <a href="{{ post.url | relative_url }}" class="featured-item">
       {% if post.image %}
-        <img src="{{ post.image | relative_url }}" class="featured-image">
-      {% elsif post.youtube_id %}<img src="https://img.youtube.com/vi/{{ post.youtube_id }}/maxresdefault.jpg" class="featured-image" alt="{{ post.title }}"> 
+        <img src="{{ post.image | relative_url }}" class="featured-image" alt="{{ post.image_alt }}">
+      {% elsif post.youtube_id %}<img src="https://img.youtube.com/vi/{{ post.youtube_id }}/maxresdefault.jpg" class="featured-image" alt="{{ post.title }} video"> 
       {% else %}
         <div class="featured-image" style="background: var(--badge-bg);"></div>
       {% endif %}
@@ -25,8 +25,8 @@ layout: default
       <div class="archive-date">{{ post.date | date: "%b %d %y" }}</div>
       <div class="archive-image">
         <a href="{{ post.url | relative_url }}">
-          {% if post.image %}<img src="{{ post.image | relative_url }}" class="archive-thumb">
-          {% elsif post.youtube_id %}<img src="https://img.youtube.com/vi/{{ post.youtube_id }}/hqdefault.jpg" class="archive-thumb" alt="{{ post.title }}"> 
+          {% if post.image %}<img src="{{ post.image | relative_url }}" class="archive-thumb" alt="{{ post.image_alt }}">
+          {% elsif post.youtube_id %}<img src="https://img.youtube.com/vi/{{ post.youtube_id }}/hqdefault.jpg" class="archive-thumb" alt="{{ post.title }} video"> 
           {% else %}<div class="archive-thumb" style="background: var(--badge-bg);"></div>{% endif %}
         </a>
       </div>

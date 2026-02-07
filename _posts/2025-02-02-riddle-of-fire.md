@@ -8,8 +8,8 @@ rating: 4
 date: 2025-02-02
 comment-link: https://embed.letterboxd.com/jeffdelay/film/riddle-of-fire/ 
 image: /assets/images/RiddleOfFire.webp
-alt: "Three young actors looking from behind a pile of wood, holding paint ball guns."
-caption: "Charlie Stover, Phoebe Ferro, and Skyler Peters in Riddle of Fire."
+image_alt: "Three young actors looking from behind a pile of wood, holding paint ball guns."
+image_caption: "Charlie Stover, Phoebe Ferro, and Skyler Peters in Riddle of Fire."
 ---
 
 A beautiful film with a DIY spirit which perfectly captures the nostalgia of childhood exploration and the youthful mischief of summer. 

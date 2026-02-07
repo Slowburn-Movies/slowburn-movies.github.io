@@ -2,7 +2,7 @@
 layout: default
 ---
 {% if page.type == "review" %}
-<h1>Review: {{ page.title }} ({{page.year}})</h1>
+<h1>Review: {{ page.title }} ({{page.release_year}})</h1>
 {% else %}
 <h1>{{ page.title }}</h1>
 {% endif %}
@@ -20,10 +20,10 @@ layout: default
 {% elsif page.image %}
   <figure class="post-featured-image">
     <img src="{{ page.image | relative_url }}" 
-         alt="{% if page.alt %}{{ page.alt }}{% else %}{{ page.title }}{% endif %}">
+         alt="{% if page.alt %}{{ page.image_alt }}{% else %}{{ page.title }}{% endif %}">
     
     {% if page.caption %}
-      <figcaption class="image-caption">{{ page.caption }}</figcaption>
+      <figcaption class="image-caption">{{ page.image_caption }}</figcaption>
     {% endif %}
   </figure>
 {% endif %}
