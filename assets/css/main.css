@@ -101,3 +101,41 @@ a {
 .post-list {
   padding: 0;
 }
+
+/* Container for the archive */
+.archive-wrapper {
+  margin-top: 2rem;
+}
+
+/* The Editorial Archive List */
+.editorial-archive {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.archive-item {
+  display: grid;
+  grid-template-columns: 100px 1fr; /* Date on left, content on right */
+  gap: 1.5rem;
+  padding: 1rem 0;
+  border-bottom: 1px solid var(--badge-bg);
+  align-items: baseline; /* Aligns date with the first line of text */
+}
+
+.archive-date {
+  font-family: monospace;
+  font-size: 0.85rem;
+  color: var(--caption-color);
+  text-transform: uppercase;
+}
+
+.archive-title {
+  font-size: 1.1rem;
+  margin: 0;
+  font-weight: 600;
+}
+
+.archive-meta {
+  margin-top: 4px;
+}
