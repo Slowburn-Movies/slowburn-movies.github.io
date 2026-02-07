@@ -7,7 +7,7 @@ author: jeffdelay
 rating: 4
 date: 2026-01-26
 comment_link: https://embed.letterboxd.com/jeffdelay/film/two-sleepy-people/ 
-image: /assets/images/TwoSleepyPeople.webp
+image: /assets/images/two-sleepy-people.webp
 image_alt: "Baron Ryan and Caroline Grossman from the film Two Sleepy People."
 image_caption: "Baron Ryan and Caroline Grossman from the film Two Sleepy People."
 ---
