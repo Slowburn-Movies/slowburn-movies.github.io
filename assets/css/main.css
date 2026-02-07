@@ -102,51 +102,35 @@ a {
   padding: 0;
 }
 
-Here is the complete, production-ready code for your All Posts page. It features a cinematic Hero for your latest post and a structured, high-end editorial grid for the rest, using the 3-column layout (Date, Image, Content).
-
-1. The Full CSS
-Add this to your main.css. It incorporates your existing variables and adds the specific layout logic for the archive.
-
-CSS
-/* Archive Wrapper & Hero */
-.archive-wrapper {
-  margin-top: 1rem;
+.featured-grid {
+  display: grid;
+  /* Creates a 3-column layout that collapses to 1 column on mobile */
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 2rem;
+  margin: 1rem 0 4rem 0;
 }
 
-.hero-post {
-  margin-bottom: 3.5rem;
+.featured-item {
+  text-decoration: none;
+  color: inherit;
+  transition: transform 0.2s ease;
 }
 
-.hero-label {
-  text-transform: uppercase;
-  font-size: 0.75rem;
-  letter-spacing: 2px;
-  opacity: 0.6;
+.featured-item:hover {
+  transform: translateY(-4px);
+}
+
+.featured-image {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 4px;
+  border: 1px solid var(--badge-bg);
   margin-bottom: 1rem;
   display: block;
 }
 
-.hero-image {
-  width: 100%;
-  height: 400px;
-  object-fit: cover;
-  border-radius: 4px;
-  border: 1px solid var(--badge-bg);
-  margin-bottom: 1.5rem;
-  display: block;
-}
-
-.hero-title {
-  font-size: 2.5rem;
-  margin: 0.5rem 0;
-  line-height: 1.1;
-}
-
-.hero-title a {
-  text-decoration: none;
-}
-
-/* Editorial List View */
+/* --- Global Editorial List (Archive & Homepage Feed) --- */
 .editorial-archive {
   list-style: none;
   padding: 0;
@@ -155,17 +139,16 @@ CSS
 
 .archive-item {
   display: grid;
+  /* Column 1: Date | Column 2: Thumb | Column 3: Text */
   grid-template-columns: 100px 80px 1fr;
-  gap: 2rem;
-  padding: 1.5rem 0;
+  gap: 1.5rem;
+  padding: 1.2rem 0;
   border-bottom: 1px solid var(--badge-bg);
   align-items: center;
-  transition: background-color 0.2s ease;
 }
 
-/* Hover effect for the whole row */
-.archive-item:hover {
-  background-color: rgba(255, 255, 255, 0.02);
+.archive-item:last-child {
+  border-bottom: none;
 }
 
 .archive-date {
@@ -184,7 +167,7 @@ CSS
   display: block;
 }
 
-.archive-thumb-placeholder {
+.archive-placeholder {
   width: 80px;
   height: 80px;
   background: var(--badge-bg);
@@ -194,14 +177,12 @@ CSS
   justify-content: center;
   font-size: 0.6rem;
   font-weight: bold;
-  letter-spacing: 1px;
   color: var(--caption-color);
-  border: 1px solid transparent;
 }
 
 .archive-title {
-  font-size: 1.25rem;
-  margin: 0 0 0.4rem 0;
+  font-size: 1.2rem;
+  margin: 0 0 0.3rem 0;
 }
 
 .archive-title a {
@@ -212,21 +193,23 @@ CSS
   display: flex;
   align-items: center;
   gap: 10px;
+  font-size: 0.9rem;
 }
 
-/* Responsive adjustments */
+/* --- Mobile Fixes --- */
 @media (max-width: 650px) {
   .archive-item {
-    grid-template-columns: 70px 1fr;
+    /* Hide the date column on mobile to keep images and titles large */
+    grid-template-columns: 80px 1fr; 
     gap: 1rem;
   }
+  
   .archive-date {
     display: none;
   }
-  .hero-image {
-    height: 250px;
-  }
-  .hero-title {
-    font-size: 1.8rem;
+
+  .featured-grid {
+    gap: 1.5rem;
+    margin-bottom: 2.5rem;
   }
 }
