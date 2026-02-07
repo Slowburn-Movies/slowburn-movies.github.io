@@ -13,6 +13,7 @@ permalink: /posts/
       <div class="archive-image">
         <a href="{{ post.url | relative_url }}">
           {% if post.image %}<img src="{{ post.image | relative_url }}" class="archive-thumb">
+          {% elsif post.youtube_id %}<img src="https://img.youtube.com/vi/{{ post.youtube_id }}/hqdefault.jpg" class="archive-thumb" alt="{{ post.title }}">
           {% else %}<div class="archive-thumb" style="background: var(--badge-bg);"></div>{% endif %}
         </a>
       </div>

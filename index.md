@@ -7,6 +7,7 @@ layout: default
     <a href="{{ post.url | relative_url }}" class="featured-item">
       {% if post.image %}
         <img src="{{ post.image | relative_url }}" class="featured-image">
+      {% elsif post.youtube_id %}<img src="https://img.youtube.com/vi/{{ post.youtube_id }}/maxresdefault.jpg" class="featured-image" alt="{{ post.title }}"> 
       {% else %}
         <div class="featured-image" style="background: var(--badge-bg);"></div>
       {% endif %}
@@ -25,6 +26,7 @@ layout: default
       <div class="archive-image">
         <a href="{{ post.url | relative_url }}">
           {% if post.image %}<img src="{{ post.image | relative_url }}" class="archive-thumb">
+          {% elsif post.youtube_id %}<img src="https://img.youtube.com/vi/{{ post.youtube_id }}/maxresdefault.jpg" class="featured-image" alt="{{ post.title }}"> 
           {% else %}<div class="archive-thumb" style="background: var(--badge-bg);"></div>{% endif %}
         </a>
       </div>
