@@ -9,7 +9,8 @@ permalink: /posts/
 <div class="filter-bar" style="margin-bottom: 2rem; display: flex; gap: 10px; flex-wrap: wrap;">
   <button class="filter-btn active" onclick="filterType('all')">All</button>
   <button class="filter-btn" onclick="filterType('review')">Reviews</button>
-  <button class="filter-btn" onclick="filterType('blog')">Blog</button>
+  <button class="filter-btn" onclick="filterType('interview')">Interviews</button>
+  <button class="filter-btn" onclick="filterType('news')">News</button>
   <button class="filter-btn" onclick="filterType('event')">Events</button>
 </div>
 
