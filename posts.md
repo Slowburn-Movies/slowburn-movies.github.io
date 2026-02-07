@@ -12,6 +12,7 @@ permalink: /posts/
   <button class="filter-btn" onclick="filterType('interview')">Interviews</button>
   <button class="filter-btn" onclick="filterType('news')">News</button>
   <button class="filter-btn" onclick="filterType('event')">Events</button>
+  <button class="filter-btn" onclick="filterType('blog')">Blog</button>
 </div>
 
 <ul class="editorial-archive" id="post-list">
