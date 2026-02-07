@@ -1,5 +1,6 @@
 ---
 published: true
+hidden: true
 type: blog
 title: "In Defense of Avatar"
 date: 2026-02-07
