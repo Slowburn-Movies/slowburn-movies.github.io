@@ -2,7 +2,7 @@
 published: True
 type: review
 title: "Riddle of Fire"
-year: 2023
+release_year: 2023
 author: jeffdelay
 rating: 4
 date: 2025-02-02
