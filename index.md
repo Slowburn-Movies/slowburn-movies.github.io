@@ -30,7 +30,7 @@ layout: default
       </div>
       <div class="archive-content">
         <h3 class="archive-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
-        <span class="type-badge badge-{{ post.type | downcase }}" style="font-size: 0.7rem;">{{ post.type }}</span>
+        <span class="type-badge badge-{{ post.type | downcase }}" style="font-size: 0.7rem;">{{ post.type | capitalize }}</span>
       </div>
     </li>
   {% endfor %}

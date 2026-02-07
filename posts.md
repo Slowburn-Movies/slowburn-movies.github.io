@@ -19,7 +19,7 @@ permalink: /posts/
       <div class="archive-content">
         <h3 class="archive-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
         <div class="archive-meta">
-          <span class="type-badge badge-{{ post.type | downcase }}" style="font-size: 0.7rem;">{{ post.type }}</span>
+          <span class="type-badge badge-{{ post.type | downcase }}" style="font-size: 0.7rem;">{{ post.type | capitalize }}</span>
           {% if post.rating %}<span>★ {{ post.rating }}</span>{% endif %}
         </div>
       </div>

@@ -1,8 +1,10 @@
 ---
-published: false
+published: true
 type: interview
 title: "The Future of Cinema with Jane Doe"
 youtube_id: "dQw4w9WgXcQ"
 date: 2026-02-06
 description: "We talk to Jane Doe about indie filmmaking."
 ---
+
+This was a great interview with Jane Doe about filmmaking. 

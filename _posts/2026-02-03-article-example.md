@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 type: news
 title: "2026 Oscar Nominees"
 date: 2026-02-3
