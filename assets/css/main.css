@@ -66,4 +66,24 @@ a {
   font-weight: bold;
 }
 
+/* Thumbnail for the post list */
+.list-thumb {
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  border: 1px solid var(--badge-bg); /* Matches your existing image border style */
+  border-radius: 4px;
+  flex-shrink: 0; /* Prevents the image from squishing on mobile */
+}
 
+.post-item {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+  list-style: none;
+}
+
+.post-list {
+  padding: 0;
+}

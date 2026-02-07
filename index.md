@@ -4,24 +4,29 @@ layout: default
 
 ## Latest 
 
-<ul>
+<ul class="post-list">
   {% for item in site.posts limit: 5 %}
-    <li style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
+    <li class="post-item">
       
       {% if item.image %}
-        <img src="{{ item.image | relative_url }}" 
-             alt="{{ item.title }}" 
-             style="width: 60px; height: 60px; object-fit: cover; border-radius: 4px;">
+        <img src="{{ item.image | relative_url }}" alt="{{ item.title }}" class="list-thumb">
       {% else %}
-        <div style="width: 60px; height: 60px; background: var(--bg-color); border-radius: 4px;"></div>
+        <div class="list-thumb" style="background: var(--badge-bg);"></div>
       {% endif %}
 
-      <div>
-        <span class="type-tag" style="font-size: 0.8rem; text-transform: uppercase;">{{ item.type }}</span>
-        <h3 style="margin: 0;"><a href="{{ item.url | relative_url }}">{{ item.title }}</a></h3>
-        {% if item.type == "review" %}
-          <span>{{ item.rating }} / 5 ★ </span>
-        {% endif %}
+      <div class="post-info">
+        <div style="margin-bottom: 4px;">
+          <span class="type-badge">{{ item.type }}</span>
+          {% if item.type == "review" and item.rating %}
+            <span style="font-size: 0.9rem; opacity: 0.8;">{{ item.rating }} / 5 ★ </span>
+          {% endif %}
+        </div>
+        
+        <h3 style="margin: 0; font-size: 1.2rem;">
+          <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+        </h3>
+        
+        <small style="opacity: 0.7;">{{ item.date | date: "%b %d, %Y" }}</small>
       </div>
 
     </li>
