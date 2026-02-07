@@ -1,5 +1,6 @@
 ---
 published: false
+type: review
 title: "Inception"
 year: 2010
 author: Steve

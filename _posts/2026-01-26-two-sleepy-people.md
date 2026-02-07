@@ -1,5 +1,6 @@
 ---
 published: True
+type: review
 title: "Two Sleepy People"
 year: 2025
 author: jeffdelay

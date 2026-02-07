@@ -1,6 +1,6 @@
 ---
 published: false
-type: "Interview"
+type: interview
 title: "The Future of Cinema with Jane Doe"
 youtube_id: "dQw4w9WgXcQ"
 date: 2026-02-06

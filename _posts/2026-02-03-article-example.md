@@ -1,6 +1,6 @@
 ---
 published: false
-type: "News"
+type: news
 title: "2026 Oscar Nominees"
 date: 2026-02-3
 image: /assets/images/camera.jpg

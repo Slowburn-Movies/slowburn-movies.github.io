@@ -1,5 +1,6 @@
 ---
 published: True
+type: review
 title: "Riddle of Fire"
 year: 2023
 author: jeffdelay

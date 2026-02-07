@@ -5,19 +5,25 @@ layout: default
 ## Latest 
 
 <ul>
-  {% comment %} Join the two collections into one array {% endcomment %}
-  {% assign combined_items = site.posts | concat: site.reviews %}
-  
-  {% comment %} Sort them by date (newest first) and limit to 5 {% endcomment %}
-  {% assign sorted_items = combined_items | sort: 'date' | reverse %}
+  {% for item in site.posts limit: 5 %}
+    <li style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
+      
+      {% if item.image %}
+        <img src="{{ item.image | relative_url }}" 
+             alt="{{ item.title }}" 
+             style="width: 60px; height: 60px; object-fit: cover; border-radius: 4px;">
+      {% else %}
+        <div style="width: 60px; height: 60px; background: var(--bg-color); border-radius: 4px;"></div>
+      {% endif %}
 
-  {% for item in sorted_items limit: 5 %}
-    <li>
-      <span style="color: var(--caption-color);">{{ item.date | date: "%b %d" }}</span> — 
-      
-      <span class="type-badge">{{ item.type }}</span>
-      
-      <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+      <div>
+        <span class="type-tag" style="font-size: 0.8rem; text-transform: uppercase;">{{ item.type }}</span>
+        <h3 style="margin: 0;"><a href="{{ item.url | relative_url }}">{{ item.title }}</a></h3>
+        {% if item.type == "review" %}
+          <span>{{ item.rating }} / 5 ★ </span>
+        {% endif %}
+      </div>
+
     </li>
   {% endfor %}
 </ul>

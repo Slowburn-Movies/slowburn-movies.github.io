@@ -2,11 +2,6 @@ title: Slowburn
 description: Movie reviews and culture
 url: https://slowburn.mov
 
-collections:
-  reviews:
-    output: true
-    permalink: /reviews/:slug
-
 defaults:
   - scope:
       path: ""
@@ -14,9 +9,3 @@ defaults:
     values:
       layout: "post"
       permalink: /:slug/
-  - scope:
-      path: ""
-      type: "reviews"
-    values:
-      layout: "post"
-      type: "Review"

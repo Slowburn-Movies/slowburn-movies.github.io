@@ -16,7 +16,8 @@ permalink: /reviews/
         </tr>
     </thead>
     <tbody>
-    {% for review in site.reviews %}
+    {% assign reviews = site.posts | where: "type", "review" %}
+    {% for review in reviews %}
         <tr>
         <td><a href="{{ review.url | relative_url }}">{{ review.title }} ({{ review.year }})</a></td>
         <td>{{ review.rating }}</td>
