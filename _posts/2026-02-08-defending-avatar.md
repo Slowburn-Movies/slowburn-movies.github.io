@@ -10,7 +10,7 @@ image_caption: "The Sully family from the Avatar movies."
 author: caley
 ---
 
-It's all too common for film fanatics to look down their noses at the Avatar films. They put them in the same bucket as superhero blockbuster schlock.
+It's all too common for film fanatics to look down their noses at Avatar. I understand. They put these movies in the same bucket as superhero blockbuster slop.
 
 However, what are such people to think when renowned American filmmaker Michael Mann [recently named](https://variety.com/lists/directors-favorite-films-2025/avatar-fire-and-ash/) Avatar: Fire and Ash his favorite film of 2025? Mann said the following:
 
