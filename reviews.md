@@ -18,12 +18,14 @@ permalink: /reviews/
     <tbody>
     {% assign reviews = site.posts | where: "type", "review" %}
     {% for review in reviews %}
-        <tr>
-        <td><a href="{{ review.url | relative_url }}">{{ review.title }} ({{ review.release_year }})</a></td>
-        <td>{{ review.rating }}</td>
-        <td>{{ review.author }}</td>
-        <td data-sort="{{ review.date | date: '%Y%m%d' }}">{{ review.date | date: "%b %d, %Y" }}</td>
-        </tr>
+        {% unless review.hidden %}
+            <tr>
+            <td><a href="{{ review.url | relative_url }}">{{ review.title }} ({{ review.release_year }})</a></td>
+            <td>{{ review.rating }}</td>
+            <td>{{ review.author }}</td>
+            <td data-sort="{{ review.date | date: '%Y%m%d' }}">{{ review.date | date: "%b %d, %Y" }}</td>
+            </tr>
+        {% endunless %}
     {% endfor %}
     </tbody>
 </table>
