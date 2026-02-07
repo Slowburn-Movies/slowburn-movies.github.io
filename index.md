@@ -10,7 +10,7 @@ layout: default
       {% else %}
         <div class="featured-image" style="background: var(--badge-bg);"></div>
       {% endif %}
-      <span class="type-badge badge-{{ post.type | downcase }}">{{ post.type }}</span>
+      <span class="type-badge badge-{{ post.type | downcase }}">{{ post.type | capitalize }}</span>
       <h2 style="margin: 0.5rem 0; font-size: 1.3rem;">{{ post.title }}</h2>
     </a>
   {% endfor %}
