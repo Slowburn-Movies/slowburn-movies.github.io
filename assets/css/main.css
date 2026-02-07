@@ -55,15 +55,29 @@ a {
   color: var(--caption-color);
 }
 
+/* Base styles stay the same as your existing .type-badge */
 .type-badge {
   display: inline-block;
-  background: var(--link-color);
   color: var(--bg-color);
   padding: 2px 10px;
   border-radius: 20px;
   font-size: 0.8rem;
   margin-right: 5px;
   font-weight: bold;
+}
+
+/* Specific color overrides */
+.badge-review {
+  background: #e63946; /* A cinematic red */
+}
+
+.badge-blog {
+  background: #457b9d; /* A culture/article blue-grey */
+}
+
+/* Fallback if you add a new type later without a specific CSS class */
+.type-badge:not([class*="badge-"]) {
+  background: var(--link-color);
 }
 
 /* Thumbnail for the post list */

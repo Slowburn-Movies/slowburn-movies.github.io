@@ -16,7 +16,7 @@ layout: default
 
       <div class="post-info">
         <div style="margin-bottom: 4px;">
-          <span class="type-badge">{{ item.type }}</span>
+          <span class="type-badge badge-{{ item.type | downcase }}">{{ item.type | capitalize }}</span>
           {% if item.type == "review" and item.rating %}
             <span style="font-size: 0.9rem; opacity: 0.8;">{{ item.rating }} / 5 ★ </span>
           {% endif %}
