@@ -1,5 +1,5 @@
 ---
-published: True
+published: true
 type: review
 title: "Two Sleepy People"
 release_year: 2025

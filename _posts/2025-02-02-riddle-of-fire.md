@@ -1,5 +1,5 @@
 ---
-published: True
+published: true
 type: review
 title: "Riddle of Fire"
 release_year: 2023
