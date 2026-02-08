@@ -28,11 +28,10 @@ layout: default
   </figure>
 {% endif %}
 
-
-
 {% if page.author %}
-<h5> — {{ page.author }}{% if page.date %}, published {{ page.date | date: "%b %d, %Y" }} {% endif %}</h5>
-{% endif %}
+{% assign author_data = site.contributors | where: "short_name", page.author | first %}
+<h5> — {% if author_data %}<a href="{{ author_data.url }}">{{ page.author }}</a>{% else %}{{ page.author }}{% endif %},{% endif %}{% if page.date %} published {{ page.date | date: "%b %d, %Y" }} {% endif %}</h5>
+
 
 {% if page.rating %}
   <div style="background: var(--badge-bg); padding: 10px; display: inline-block;">

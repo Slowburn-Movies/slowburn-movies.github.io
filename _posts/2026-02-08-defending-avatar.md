@@ -7,6 +7,7 @@ date: 2026-02-07
 image: /assets/images/avatar-family-photo.webp
 image_alt: "A flash photo of a family of skinny blue aliens smiling at the camera"
 image_caption: "The Sully family from the Avatar movies."
+description: "Hollywood heavyweights praise the Avatar franchise."
 author: caley
 ---
 
@@ -20,7 +21,9 @@ At the very least, this should give us pause.
 
 ## The Spectacle
 
-Isn't Avatar just a big technology spectacle? Isn't it just meant to dazzle? Well, yes. Jim likes to push the boundaries with new technology. But people forget that film has always been about giving people new experiences with new technology. Jim's theory behind this is that if we want audiences to see movies in theaters, we need to make movies worth seeing in theaters. Film is fundamentally visual, afterall. But there is a lot more under the surface of this spectacle.
+Isn't Avatar just a big technology spectacle? Isn't it just meant to dazzle? Well, yes. Jim likes to push the boundaries with new technology. But people forget that film has always been about giving the audience new experiences with new technology. Twenty-four frames per second, the dolly, the steadycam, 3D, etc.
+
+Jim's theory behind this is that if we want audiences to see movies in theaters, we need to make movies worth seeing in theaters. Film is fundamentally visual, afterall. So seemingly, the real concern is that there is nothing *beyond* the spectacle; nothing under the surface.
 
 ## My Experience
 
@@ -32,7 +35,11 @@ A decade later, Avatar: Way of Water came out. For whatever reason, the same thi
 
 Fast forward again three years and Avatar: Fire and Ash comes out. Youtube recommended me a slew of behind the scenes footage along with James Cameron interviews nerding out about the technology behind it all. I have to admit that I got interested in this in an ironic way at first. "Yes," I thought, "Avatar is the best thing ever and I'm going to see the new one." We know how it goes, though. Irony gives way to sincerity. 
 
-I sat down and watched Avatar (2009) and Avatar: The Way of Water (2022) back-to-back to get ready for the new one. When you approach things from an ironic standpoint, you have an immense suspension of disbelief. It was this suspension that allowed me to become fully engrossed in what I was seeing. The thought of "what if it's bad" or "what if it's cheesy" never crossed my mind. I was just completely receptive to the journey on which Cameron wanted to take me. I was blown away with how much Way of Water expanded the world and characters. And the actors' performances were as award-worthy as any other drama I've seen.
+I sat down and watched Avatar (2009) and Avatar: The Way of Water (2022) back-to-back to get ready for the new one. When you approach things from an ironic standpoint, you have an immense suspension of disbelief. It was this suspension that allowed me to become fully engrossed in what I was seeing. The thought of "what if it's bad" or "what if it's cheesy" never crossed my mind. I was just completely receptive to the journey on which Cameron wanted to take me. 
+
+What I encountered was less "superhero slop" and more "psycho-sexual fever dream". 
+
+I was blown away with how much Way of Water expanded the world and characters. And the actors' performances were as award-worthy as any other drama I've seen.
 
 ## Auteur Theory
 
@@ -41,6 +48,8 @@ As a longtime fan of Titanic, something finally clicked with me. [James Cameron 
 Avatar, more than any other project, allows for a truly auteur filmmaking process. I say this because there are zero limitations in the creative process. You can put a camera anywhere, you can block the characters in any way you want. Jim has full creative license to make the exact film that he wants to author. Even directors like Truffaut had physical limitations in that regard. An inexperienced filmmaker would be terrified of this situation. 
 
 We often rely on limitations to bring out our own creative voice. But in Auteur Theory, we liken the filmmaker to an author. There is no limitation for an author as to what goes on a page. The only limit is the author's imagination. In this sense, the technology behind Avatar allows Jim to be a true author. 
+
+There are visuals in these movies that no one has ever seen before. They are so novel, so inventive and stimulating, that you will certainly go into a depression after seeing them.
 
 ## American Anime
 
@@ -56,4 +65,4 @@ Not many people know that Guillermo Del Toro and James Cameron are essentially b
 
 Approaching a movie with an ironic abandon isn't a bad thing. It can be a great tool for self-forgetfulness. We need to forget ourselves to fully immerse in a truly imaginative story. When you do so with Avatar, I think you'll be surprised with how you come away from it.
 
-If I, or Michael Mann, or Guillermo Del Toro, have inspired you to go back and watch these movies again, do so with new eyes. Think less "superhero slop" and more "psycho-sexual fever dream". Let it wash over you.
+If I, or Michael Mann, or Guillermo Del Toro, have inspired you to go back and watch these movies again, do so with new eyes. Let it wash over you. 
