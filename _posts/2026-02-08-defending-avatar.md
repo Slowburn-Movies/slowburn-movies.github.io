@@ -38,7 +38,7 @@ I sat down and watched Avatar (2009) and Avatar: The Way of Water (2022) back-to
 It struck me then how the whole concept of the story is so unique. Humans need to become friends with the native beings so they grow lifeless husks of these beings and pilot them with their consciousness. Oh, and it turns out that these beings are also very sexy. 
 
 <figure>
-  <img src="https://i.kym-cdn.com/photos/images/newsfeed/003/198/358/b30.jpeg" alt="A screenshot from an old local news broadcast describing 'Post Avatar Depression'">
+  <img src="/assets/images/avatar-depression.webp" alt="A screenshot from an old local news broadcast describing 'Post Avatar Depression'">
   <figcaption>Post Avatar Depression</figcaption>
 </figure>
 

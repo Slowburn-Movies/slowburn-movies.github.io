@@ -221,6 +221,7 @@ a {
   }
 
   .page-content figure:not(.post-featured-image) {
-    max-width: 100%;
+    max-width: 90%; 
+    margin: 2rem auto;
   }
 }
