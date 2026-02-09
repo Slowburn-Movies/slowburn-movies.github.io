@@ -155,7 +155,7 @@ a {
   margin: 0 auto;
   border-radius: 2px; /* Subtler radius than featured */
   /* Remove or lighten the border to make it less "framed" */
-  border: 1px solid rgba(var(--badge-bg-rgb), 0.5); 
+  border: 1px solid rgba(var(--badge-bg), 0.5); 
   box-shadow: none; 
 }
 
