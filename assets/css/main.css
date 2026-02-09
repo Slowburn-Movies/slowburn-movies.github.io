@@ -138,6 +138,40 @@ a {
   display: block;
 }
 
+/* --- Regular Post Images (Less "Featured") --- */
+
+/* 1. Make the container narrower so it doesn't compete with the hero */
+.page-content figure {
+  margin: 2.5rem auto;
+  max-width: 85%; /* Narrower than the 800px body */
+}
+
+/* 2. Style for the actual image */
+.page-content figure img,
+.page-content > p > img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+  border-radius: 2px; /* Subtler radius than featured */
+  /* Remove or lighten the border to make it less "framed" */
+  border: 1px solid rgba(var(--badge-bg-rgb), 0.5); 
+  box-shadow: none; 
+}
+
+/* 3. Subtler Caption */
+.page-content figcaption {
+  font-size: 0.8rem; /* Smaller than featured caption */
+  color: var(--caption-color);
+  opacity: 0.8; /* Faded slightly to look like a secondary note */
+  margin-top: 12px;
+  line-height: 1.4;
+  border-top: 1px solid var(--badge-bg); /* Optional: thin line above caption */
+  display: inline-block; /* Helps with the top border width */
+  padding-top: 5px;
+}
+
+
 /* --- Global Editorial List (Archive & Homepage Feed) --- */
 .editorial-archive {
   list-style: none;

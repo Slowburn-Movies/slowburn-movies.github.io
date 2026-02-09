@@ -20,7 +20,7 @@ layout: default
 {% elsif page.image %}
   <figure class="post-featured-image">
     <img src="{{ page.image | relative_url }}" 
-         alt="{% if page.alt %}{{ page.image_alt }}{% else %}{{ page.title }}{% endif %}">
+         alt="{% if page.image_alt %}{{ page.image_alt }}{% else %}{{ page.title }}{% endif %}">
     
     {% if page.caption %}
       <figcaption class="image-caption">{{ page.image_caption }}</figcaption>
