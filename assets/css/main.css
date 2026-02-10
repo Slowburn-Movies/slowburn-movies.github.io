@@ -152,11 +152,6 @@ a {
   margin: 1rem 0 4rem 0;
 }
 
-/* The "Hero" rule */
-.featured-grid > :first-child {
-  grid-column: 1 / -1; /* Forces it to span from the first line to the last */
-}
-
 .featured-item {
   text-decoration: none;
   color: inherit;
