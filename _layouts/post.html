@@ -55,6 +55,6 @@ layout: default
 {% endfor %}
 {% endif %}
 
-{% if page.view_link %}
+{% if page.view_link and page.rating >= 3 %}
 <p><small>Check out <a href="{{ page.view_link }}">{{ page.title }}</a>.</small></p>
 {% endif %}
