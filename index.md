@@ -25,7 +25,7 @@ layout: default
   {% for post in site.posts offset: 3 limit: 7 %}
     {% unless post.hidden %}
       <li class="archive-item">
-        <!--<div class="archive-date">{{ post.date | date: "%b %d %y" }}</div>-->
+        <div class="archive-date"><!--{{ post.date | date: "%b %d %y" }}--></div>
         <div class="archive-image">
           <a href="{{ post.url | relative_url }}">
             {% if post.image %}<img src="{{ post.image | relative_url }}" class="archive-thumb" alt="{{ post.image_alt }}">
