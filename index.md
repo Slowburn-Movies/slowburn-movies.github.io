@@ -3,7 +3,7 @@ layout: default
 ---
 
 <section class="featured-grid">
-  {% for post in site.posts limit: 3 %}
+  {% for post in site.posts limit: 6 %}
     {% unless post.hidden %}
       <a href="{{ post.url | relative_url }}" class="featured-item">
         {% if post.image %}
@@ -18,7 +18,7 @@ layout: default
     {% endunless %}
   {% endfor %}
 </section>
-
+<!--
 <hr style="border: 0; border-top: 1px solid var(--badge-bg); margin-bottom: 2rem;">
 
 <ul class="editorial-archive">
@@ -41,3 +41,4 @@ layout: default
     {% endunless %}
   {% endfor %}
 </ul>
+-->
