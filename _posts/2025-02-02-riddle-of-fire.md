@@ -6,7 +6,8 @@ release_year: 2023
 author: jeff
 rating: 4
 date: 2025-02-02
-comment-link: https://embed.letterboxd.com/jeffdelay/film/riddle-of-fire/ 
+comment_link: https://embed.letterboxd.com/jeffdelay/film/riddle-of-fire/ 
+view_link: https://yellowveilpictures.com/riddle-of-fire/
 image: /assets/images/riddle-of-fire.webp
 image_alt: "Three young actors looking from behind a pile of wood, holding paint ball guns."
 image_caption: "Charlie Stover, Phoebe Ferro, and Skyler Peters in Riddle of Fire."
@@ -29,3 +30,5 @@ Lastly, the soundtrack definitely has a DIY, underground feel to it, and the sco
 My only criticism is that the film doesn’t always maintain a consistent tone, and the late-middle to the end of the film loses some of its enchanted wonder. I think this could have easily been remedied by simply shortening the film by 15 minutes, as a 2-hour runtime may have been stretching the already fairly loose plot too far. 
 
 Altogether, it’s a wonderful film for basically any audience, and if you are looking for a lighthearted, whimsical journey that harkens back to The Goonies, Stand By Me, and the era of darker, grittier family movies, then this is definitely a film for you.
+
+Check out [Riddle of Fire]()

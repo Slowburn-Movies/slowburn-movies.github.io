@@ -54,3 +54,7 @@ layout: default
   </div>
 {% endfor %}
 {% endif %}
+
+{% if page.view_link %}
+<p><small>Check out <a href="{{ page.view_link }}">{{ page.title }}</a>.</small></p>
+{% endif %}
