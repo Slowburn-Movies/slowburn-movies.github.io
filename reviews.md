@@ -10,9 +10,9 @@ permalink: /reviews/
     <thead>
         <tr>
         <th>Title</th>
+        <th>Release Year</th>
         <th>Rating</th>
         <th>Author</th>
-        <th>Date</th>
         </tr>
     </thead>
     <tbody>
@@ -20,10 +20,11 @@ permalink: /reviews/
     {% for review in reviews %}
         {% unless review.hidden %}
             <tr>
-            <td><a href="{{ review.url | relative_url }}">{{ review.title }} ({{ review.release_year }})</a></td>
+            <td><a href="{{ review.url | relative_url }}">{{ review.title }}</a></td>
+            <td>{{ review.release_year }}</td>
             <td>{{ review.rating }}</td>
             <td>{{ review.author }}</td>
-            <td data-sort="{{ review.date | date: '%Y%m%d' }}">{{ review.date | date: "%b %d, %Y" }}</td>
+            <!--<td data-sort="{{ review.date | date: '%Y%m%d' }}">{{ review.date | date: "%b %d, %Y" }}</td>-->
             </tr>
         {% endunless %}
     {% endfor %}
