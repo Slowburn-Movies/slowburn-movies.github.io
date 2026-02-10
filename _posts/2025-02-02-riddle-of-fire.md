@@ -3,7 +3,7 @@ published: true
 type: review
 title: "Riddle of Fire"
 release_year: 2023
-author: jeffdelay
+author: jeff
 rating: 4
 date: 2025-02-02
 comment-link: https://embed.letterboxd.com/jeffdelay/film/riddle-of-fire/ 

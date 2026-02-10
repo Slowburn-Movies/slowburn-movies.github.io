@@ -8,7 +8,7 @@ image: /assets/images/avatar-family-photo.webp
 image_alt: "A flash photo of a family of skinny blue aliens smiling at the camera"
 image_caption: "The Sully family from the Avatar movies."
 description: "Hollywood heavyweights praise the Avatar franchise."
-author: caley
+author: cale
 ---
 
 It's all too common for film fanatics to look down their noses at Avatar. I understand. They put these movies in the same bucket as superhero blockbuster slop.

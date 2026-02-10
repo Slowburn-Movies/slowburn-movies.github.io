@@ -3,7 +3,7 @@ published: true
 type: review
 title: "Two Sleepy People"
 release_year: 2025
-author: jeffdelay
+author: jeff
 rating: 4
 date: 2026-01-26
 comment_link: https://embed.letterboxd.com/jeffdelay/film/two-sleepy-people/ 
