@@ -44,6 +44,16 @@ layout: default
   {{ content }}
 </article>
 
+<br>
+
+{% if page.comment_link %}
+<p><small><a href="{{ page.comment_link }}">Leave a comment on Letterboxd</a>.</small></p>
+{% endif %}
+
+{% if page.view_link and page.rating >= 3 %}
+<p><small><a href="{{ page.view_link }}">Watch {{ page.title }}</a>.</small></p>
+{% endif %}
+
 {% if page.other_ratings %}
 <h3>Second opinions:</h3>
 {% for rating in page.other_ratings %}
@@ -55,6 +65,4 @@ layout: default
 {% endfor %}
 {% endif %}
 
-{% if page.view_link and page.rating >= 3 %}
-<p><small>Check out <a href="{{ page.view_link }}">{{ page.title }}</a>.</small></p>
-{% endif %}
+
