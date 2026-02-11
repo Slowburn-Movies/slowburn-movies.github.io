@@ -27,6 +27,24 @@ footer {
   padding: 20px;
 }
 
+/* Container for title and subtitle */
+hgroup {
+  margin-bottom: 2rem; /* Space between the whole header block and the video/image */
+}
+
+hgroup h1 {
+  margin-bottom: 0.25rem;
+}
+
+.post-subtitle {
+  font-size: 1.4rem;
+  color: var(--caption-color);
+  font-weight: 300;
+  line-height: 1.3;
+  font-style: italic;
+  margin: 0; /* Reset margins since hgroup handles the spacing */
+}
+
 a {
   color: var(--link-color);
 }
@@ -37,6 +55,21 @@ a {
 .post-featured-image {
   margin: 0 0 2rem 0;
   width: 100%;
+}
+
+/* Subtitle in the Top Featured Grid */
+.featured-subtitle {
+  font-size: 0.95rem;
+  color: var(--caption-color);
+  margin: 0 0 1rem 0;
+  line-height: 1.4;
+  font-style: italic;
+  opacity: 0.9;
+  /* Limits to 2 lines for grid neatness */
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 
 .post-featured-image img {
@@ -175,6 +208,25 @@ a {
   list-style: none;
   padding: 0;
   margin: 0;
+}
+
+/* Subtitle in the Editorial List */
+.archive-subtitle {
+  font-size: 0.85rem;
+  color: var(--caption-color);
+  margin: 0.1rem 0 0.4rem 0; /* Tight gap under title, space above badge */
+  line-height: 1.3;
+  font-style: italic;
+  opacity: 0.8;
+  display: -webkit-box;
+  -webkit-line-clamp: 1; /* Keep list items compact with only 1 line */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* Ensure the title doesn't have a massive bottom margin */
+.archive-title {
+  margin-bottom: 0 !important;
 }
 
 .archive-item {
