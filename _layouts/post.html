@@ -44,14 +44,12 @@ layout: default
   {{ content }}
 </article>
 
-<br>
-
 {% if page.comment_link %}
-<p><small><a href="{{ page.comment_link }}">Leave a comment on Letterboxd</a>.</small></p>
+<p>✍️ <a href="{{ page.comment_link }}" rel="ugc">Leave a comment</a></p>
 {% endif %}
 
 {% if page.view_link and page.rating >= 3 %}
-<p><small><a href="{{ page.view_link }}">Watch {{ page.title }}</a>.</small></p>
+<p>🍿 <a href="{{ page.view_link }}">Watch {{ page.title }}</a></p>
 {% endif %}
 
 {% if page.other_ratings %}
