@@ -47,11 +47,11 @@ layout: default
 <br>
 
 {% if page.comment_link %}
-<p>✍️ <a href="{{ page.comment_link }}" rel="ugc">Leave a comment</a></p>
+<p><a href="{{ page.comment_link }}" rel="ugc">Leave a comment</a></p>
 {% endif %}
 
 {% if page.view_link and page.rating >= 3 %}
-<p>🍿 <a href="{{ page.view_link }}">Watch {{ page.title }}</a></p>
+<p><a href="{{ page.view_link }}">Watch {{ page.title }}</a></p>
 {% endif %}
 
 {% if page.other_ratings %}

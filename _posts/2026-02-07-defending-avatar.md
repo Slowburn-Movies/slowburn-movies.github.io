@@ -11,13 +11,19 @@ description: "Hollywood heavyweights praise the Avatar franchise."
 author: cale
 ---
 
-It's all too common for film fanatics to look down their noses at Avatar. I understand. They put these movies in the same bucket as superhero blockbuster slop.
+It's all too common for film fanatics to look down their noses at Avatar. I understand. They put these movies in the same bucket as superhero blockbuster slop. 
+
+However, in recent times, critically acclaimed filmmakers have come out of the woodwork praising not just the Avatar film series, but the latest entry Fire and Ash as well.
 
 However, what are such people to think when renowned American filmmaker Michael Mann [recently named](https://variety.com/lists/directors-favorite-films-2025/avatar-fire-and-ash/) Avatar: Fire and Ash his favorite film of 2025? Mann said the following:
 
 > Jim began with a blank piece of paper. No writer-director I can think of has invented as large a three-dimensional world of his own imagining as has Jim. “Fire and Ash” on its own is an incredible achievement. There are two more installments to come. From some point in the future, when regarded historically, the whole of “Avatar” will be seen as the magnum opus it truly is.
 
 At the very least, this should give us pause.
+
+
+
+
 
 ## The Spectacle
 
@@ -46,11 +52,25 @@ It's so preposterous that it becomes compelling again. "How could someone actual
 
 Beyond the basic concept behind the story, I was genuinely impressed by the actors' performances. The dialogue is simple and direct while also managing to be memorable. It's borderline pulp; that is to say, it's actually fun. And similar to Star Wars, the actors more than 'make do'. They own it. It's been a long time since I had dialogue "earworms" stuck in my head. I'm still saying "You're like a baby" in Neytiri's voice months later.
 
+Bradley Cooper recently [went on a rant about his love for the Avatar series](https://youtu.be/slYfiSb5AX4?t=8275), saying the following:
+
+> I saw a movie the other night that I didn't believe anybody in it. But I love Avatar. We watched 3, then 2, then 1. I had just gone from watching this movie where I didn't believe anything anybody was doing; the whole time. Then I'm watching Avatar for 2 seconds and they're on a thing and they're blue, but they're talking to each other ... By the way I'm like, when's 4 and 5?
+
+Cooper is also shocked by how utterly believable these performances are despite being high fantasy-sci-fi.
+
 In the Way of Water, the world and lore expands tenfold. Now having older children himself, Cameron writes a family drama from a view of experience. The underlying strained relationships between husband and wife, parents and children; thinking back, it's all evident from the family portrait in the first 10 minutes of the movie.
 
 I've never seen water look so good in a movie before.  
 
 Fire and Ash can really be thought of as Part 2 of the Way of Water. Originally, it was just one script. Cameron later split the script into two. When thought of this way, I think Fire and Ash is an excellent installment. The characters play in the same sandbox, so the focus is much more on the story and drama this time around. 
+
+There is one 2 second clip in Fire and Ash that made me realize that Cameron is actually willing to get weird with this. 
+
+In terms of courage in storytelling and freedom of creativity, I believe that the Avatar movies are the closest thing to authentic American Anime that we have. 
+
+Not many people know that Guillermo Del Toro and James Cameron are essentially brothers. They lived together in LA in the 90s. Del Toro has said that he and Jim would spend many hours watching anime together. Del Toro [summed up his love for Avatar like this](https://youtu.be/T0NGBCzF1JY?si=sb5xuBz2k1-_Tgfd&t=390):  
+
+> There are very few Americans that have created a full mythology. You have (George) Lucas, the whole Wizard of Oz mythology with Frank Baum, and Jim is creating that with Avatar. It's gonna take you places.
 
 ## Auteur Theory
 
@@ -60,18 +80,9 @@ Despite there being wildly different technical contexts across all of Cameron's 
 
 There are visuals in these movies that no one has ever seen before. They are so novel, so inventive and stimulating, that you will certainly go into a depression after seeing them.
 
-## American Anime
-
-The closest medium to which we can liken Avatar would be pure animation. There are also no limitations there. And in the world of Japanese Anime, there are even less because of the amount of freedom that these creators have.
-
-I believe that the Avatar movies are the closest thing to authentic American Anime that we have. 
-
-Not many people know that Guillermo Del Toro and James Cameron are essentially brothers. They lived together in LA in the 90s. Del Toro has said that he and Jim would spend many hours watching anime together. Del Toro [summed up his love for Avatar like this](https://youtu.be/T0NGBCzF1JY?si=sb5xuBz2k1-_Tgfd&t=390):  
-
-> There are very few Americans that have created a full mythology. You have (George) Lucas, the whole Wizard of Oz mythology with Frank Baum, and Jim is creating that with Avatar. It's gonna take you places.
 
 ## In Sum
 
 Approaching a movie with an ironic abandon isn't a bad thing. It can be a great tool for self-forgetfulness. We need to forget ourselves to fully immerse in a truly imaginative story. When you do so with Avatar, I think you'll be surprised with how you come away from it.
 
-If I, or Michael Mann, or Guillermo Del Toro, have inspired you to go back and watch these movies again, do so with new eyes. Let it wash over you. 
+If I, or Michael Mann, or Bradley Cooper, or Guillermo Del Toro have inspired you to go back and watch these movies again, do so with new eyes. Let it wash over you. 
