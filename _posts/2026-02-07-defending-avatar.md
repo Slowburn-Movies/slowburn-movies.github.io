@@ -1,6 +1,6 @@
 ---
 published: true
-hidden: false
+hidden: true
 
 type: blog
 date: 2026-02-07
