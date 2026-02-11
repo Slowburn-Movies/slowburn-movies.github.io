@@ -33,6 +33,7 @@ permalink: /posts/
             <p class="archive-subtitle">{{ post.subtitle }}</p>
           {% endif %}
           <span class="type-badge badge-{{ post.type | downcase }}" style="font-size: 0.7rem;">{{ post.type | capitalize }}</span>
+          {% if post.rating %}<span>★ {{ post.rating }}</span>{% endif %}
         </div>
       </li>
     {% endunless %}
