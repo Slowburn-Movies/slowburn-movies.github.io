@@ -8,9 +8,9 @@ body {
   background-color: var(--bg-color);
   color: var(--text-color);
   font-family: 'Faustina', serif;
-  font-size: 1.35rem;     
+  font-size: 1.25rem;     
   line-height: 1.55;     
-  font-weight: 430;
+  font-weight: 400;
 
   max-width: 760px;
   padding: 2rem;
