@@ -308,20 +308,47 @@ blockquote {
 
 /* --- 5. MOBILE FIXES --- */
 @media (max-width: 650px) {
+  /* Font & Global Adjustments */
+  body {
+    font-size: 1.15rem; 
+    line-height: 1.5;
+    padding: 1.25rem;
+  }
+
+  hgroup h1 {
+    font-size: 2.1rem; 
+    line-height: 1.1;
+    font-variation-settings: "wdth" 90; 
+    margin-bottom: 0.4rem;
+  }
+
+  .post-subtitle {
+    font-size: 1.2rem;
+    line-height: 1.3;
+  }
+
+  p {
+    margin-bottom: 1.4rem;
+  }
+
+  /* Your Original Layout Fixes */
   .archive-item {
     grid-template-columns: 80px 1fr; 
     gap: 1rem;
   }
   
-  .archive-date { display: none; }
+  .archive-date { 
+    display: none; 
+  }
 
   .featured-grid {
     gap: 1.5rem;
     margin-bottom: 2.5rem;
   }
 
+  /* Updated Figure Fix (changed to 100% for better use of space) */
   .page-content figure:not(.post-featured-image) {
-    max-width: 90%; 
-    margin: 2rem auto;
+    max-width: 100%; 
+    margin: 1.5rem auto;
   }
 }
