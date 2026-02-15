@@ -8,10 +8,18 @@ body {
   background-color: var(--bg-color);
   color: var(--text-color);
   font-family: 'Faustina', serif;
-  line-height: 1.6;
-  max-width: 800px;
+  font-size: 1.35rem;     
+  line-height: 1.55;     
+  font-weight: 430;
+
+  max-width: 760px;
   padding: 2rem;
-  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+
+}
+
+p {
+  margin-bottom: 1.8rem;
 }
 
 /* Headers: Make them punchy and slightly bolder */
@@ -108,7 +116,7 @@ a {
 .site-nav a, .archive-date, .image-caption, figcaption {
   font-family: 'Archivo', sans-serif;
   font-weight: 500;
-  font-size: 0.9rem;
+  font-size: 1rem;
   text-transform: uppercase;
   letter-spacing: 0.05em;
 }
@@ -153,11 +161,11 @@ a {
 }
 
 /* Specific Badge Colors */
-.badge-review    { background: #e63946; }
-.badge-blog      { background: #98c6e2; }
-.badge-news      { background: #3267d0; }
-.badge-event     { background: #8b27b9; }
-.badge-interview { background: #8ac194; }
+.badge-review    { background: #e63946; color: #FFF; }
+.badge-blog      { background: #98c6e2; color: #1a1a1a; }
+.badge-news      { background: #3267d0; color: #FFF; }
+.badge-event     { background: #8b27b9; color: #FFF; }
+.badge-interview { background: #8ac194; color: #1a1a1a; }
 
 .review-badge {
   background: var(--badge-bg);
