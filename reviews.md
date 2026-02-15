@@ -12,7 +12,6 @@ permalink: /reviews/
         <th>Title</th>
         <th>Release Year</th>
         <th>Rating</th>
-        <th>Author</th>
         </tr>
     </thead>
     <tbody>
@@ -23,7 +22,6 @@ permalink: /reviews/
             <td><a href="{{ review.url | relative_url }}">{{ review.title }}</a></td>
             <td>{{ review.release_year }}</td>
             <td>{{ review.rating }}</td>
-            <td>{{ review.author }}</td>
             <!--<td data-sort="{{ review.date | date: '%Y%m%d' }}">{{ review.date | date: "%b %d, %Y" }}</td>-->
             </tr>
         {% endunless %}
