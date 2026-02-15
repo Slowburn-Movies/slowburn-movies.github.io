@@ -106,7 +106,6 @@ a {
 }
 
 .image-caption {
-  font-size: 0.9rem;
   font-style: italic;
   text-align: center;
   margin-top: 8px;
@@ -116,7 +115,7 @@ a {
 .site-nav a, .archive-date, .image-caption, figcaption {
   font-family: 'Archivo', sans-serif;
   font-weight: 500;
-  font-size: 1rem;
+  font-size: 0.8rem;
   text-transform: uppercase;
   letter-spacing: 0.05em;
 }
@@ -218,6 +217,10 @@ a {
   margin: 1rem 0 4rem 0;
 }
 
+.featured-grid h2 {
+  font-size: 1.5rem;
+}
+
 .featured-item {
   text-decoration: none;
   color: inherit;
@@ -300,7 +303,7 @@ a {
 blockquote {
   font-family: 'Faustina', serif;
   font-style: italic;
-  font-size: 1.3rem;
+  font-size: 1.2rem;
   border-left: 3px solid var(--link-color);
   padding-left: 1.5rem;
   margin: 2rem 0;
