@@ -2,6 +2,7 @@
 html, body {
   margin: 0 auto;
   height: 100%;
+  font-family: 'Archivo', sans-serif;
 }
 
 body {
@@ -11,6 +12,17 @@ body {
   line-height: 1.6;
   max-width: 800px;
   padding: 2rem;
+  font-weight: 400;
+}
+
+/* Headers: Make them punchy and slightly bolder */
+h1, h2, h3, h4, .archive-title {
+  font-family: 'Archivo', sans-serif;
+  font-weight: 700;
+  line-height: 1.2;
+  /* Slightly tighter width for a more "editorial" header feel */
+  font-variation-settings: "wdth" 90; 
+  text-transform: tight;
 }
 
 .site-wrapper {
@@ -34,6 +46,7 @@ hgroup {
 
 hgroup h1 {
   margin-bottom: 0.25rem;
+  font-size: 2.5rem;
 }
 
 .post-subtitle {
@@ -241,7 +254,7 @@ a {
 .archive-item:last-child { border-bottom: none; }
 
 .archive-date {
-  font-family: monospace;
+  /* font-family: monospace; */
   font-size: 0.85rem;
   color: var(--caption-color);
   text-transform: uppercase;
@@ -257,6 +270,12 @@ a {
 
 .archive-title { font-size: 1.2rem; margin: 0; }
 .archive-title a { text-decoration: none; }
+
+.type-badge, .filter-btn, .archive-date {
+  font-family: 'Archivo', sans-serif;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
 
 /* --- 5. MOBILE FIXES --- */
 @media (max-width: 650px) {
