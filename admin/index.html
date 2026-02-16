@@ -3,33 +3,36 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-    <script>if(window.netlifyIdentity){window.netlifyIdentity.on("login",()=>{document.location.reload()})}</script>
     <title>Content Manager</title>
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head>
   <body>
     <script src="https://unpkg.com/@sveltia/cms/dist/sveltia-cms.js" type="module"></script>
+
     <script>
-    const netlifySiteURL = 'https://benevolent-dango-a936fc.netlify.app';
+      const netlifySiteURL = 'https://benevolent-dango-a936fc.netlify.app';
 
-    if (window.netlifyIdentity) {
-        // Force the URL into storage
-        window.localStorage.setItem("netlifySiteURL", netlifySiteURL);
+      // 3. Wait for the widget to be ready
+      window.addEventListener('load', () => {
+        if (window.netlifyIdentity) {
+          // Force the correct API endpoint
+          window.localStorage.setItem("netlifySiteURL", netlifySiteURL);
+          
+          window.netlifyIdentity.init({
+            APIUrl: `${netlifySiteURL}/.netlify/identity`
+          });
 
-        window.netlifyIdentity.init({
-        APIUrl: `${netlifySiteURL}/.netlify/identity`
-        });
-
-        // This is the "Magic Fix" for CORS redirects
-        window.netlifyIdentity.on("init", user => {
-        if (!user) {
-            window.netlifyIdentity.on("login", () => {
+          // Handle login/logout redirects
+          window.netlifyIdentity.on("login", () => {
             document.location.href = "/admin/";
-            });
+          });
+          window.netlifyIdentity.on("logout", () => {
+            document.location.href = "/admin/";
+          });
+        } else {
+          console.error("Netlify Identity widget failed to load.");
         }
-        });
-    }
+      });
     </script>
   </body>
 </html>
