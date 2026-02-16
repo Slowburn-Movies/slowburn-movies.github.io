@@ -37,7 +37,7 @@ title: Home
 <ul class="editorial-archive">
   {% for post in site.posts offset: 3 %}
     {% unless post.hidden %}
-      <li class="archive-item">
+      <li class="archive-item" data-type="{{ post.type | downcase }}>
         <div class="archive-date">{{ post.date | date: "%b %d %y" }}</div>
         <div class="archive-image">
           <a href="{{ post.url | relative_url }}">
