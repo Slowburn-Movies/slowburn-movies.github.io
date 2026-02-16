@@ -18,7 +18,7 @@ permalink: /posts/
 <ul class="editorial-archive">
   {% for post in site.posts %}
     {% unless post.hidden %}
-      <li class="archive-item" data-type="{{ post.type | downcase }}>
+      <li class="archive-item" data-type="{{ post.type | downcase }}">
         <div class="archive-date">{{ post.date | date: "%b %d %y" }}</div>
         <div class="archive-image">
           <a href="{{ post.url | relative_url }}">
