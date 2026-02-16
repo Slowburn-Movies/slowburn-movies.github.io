@@ -14,17 +14,17 @@
     const netlifySiteURL = 'https://benevolent-dango-a936fc.netlify.app';
 
     if (window.netlifyIdentity) {
-        // This tells the widget exactly where to find the auth server
+        // Force the URL into storage
         window.localStorage.setItem("netlifySiteURL", netlifySiteURL);
 
         window.netlifyIdentity.init({
         APIUrl: `${netlifySiteURL}/.netlify/identity`
         });
 
+        // This is the "Magic Fix" for CORS redirects
         window.netlifyIdentity.on("init", user => {
         if (!user) {
             window.netlifyIdentity.on("login", () => {
-            // After login, stay on the admin page
             document.location.href = "/admin/";
             });
         }
