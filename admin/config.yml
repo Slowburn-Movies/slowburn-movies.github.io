@@ -5,6 +5,8 @@ backend:
   site_domain: slowburn.mov # This helps Sveltia identify the site
   base_url: https://benevolent-dango-a936fc.netlify.app # Point to the Netlify instance 
   auth_endpoint: /api/auth       # Standard for Netlify Identity
+  identity_url: https://benevolent-dango-a936fc.netlify.app/.netlify/identity
+  gateway_url: https://benevolent-dango-a936fc.netlify.app/.netlify/git/github
 
 media_folder: "assets/images" 
 public_folder: "/assets/images"
