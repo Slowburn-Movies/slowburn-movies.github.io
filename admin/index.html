@@ -11,22 +11,25 @@
   <body>
     <script src="https://unpkg.com/@sveltia/cms/dist/sveltia-cms.js" type="module"></script>
     <script>
-        // Replace 'https://benevolent-dango-a936fc.netlify.app' with your actual netlify URL
-        const netlifySiteURL = 'https://benevolent-dango-a936fc.netlify.app';
+    const netlifySiteURL = 'https://benevolent-dango-a936fc.netlify.app';
 
-        if (window.netlifyIdentity) {
-            window.netlifyIdentity.init({
-            APIUrl: `${netlifySiteURL}/.netlify/identity`
-            });
+    if (window.netlifyIdentity) {
+        // This tells the widget exactly where to find the auth server
+        window.localStorage.setItem("netlifySiteURL", netlifySiteURL);
 
-            window.netlifyIdentity.on("init", user => {
-            if (!user) {
-                window.netlifyIdentity.on("login", () => {
-                document.location.href = "/admin/";
-                });
-            }
+        window.netlifyIdentity.init({
+        APIUrl: `${netlifySiteURL}/.netlify/identity`
+        });
+
+        window.netlifyIdentity.on("init", user => {
+        if (!user) {
+            window.netlifyIdentity.on("login", () => {
+            // After login, stay on the admin page
+            document.location.href = "/admin/";
             });
         }
+        });
+    }
     </script>
   </body>
 </html>
