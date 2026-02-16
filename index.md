@@ -35,7 +35,7 @@ title: Home
 </div>
 
 <ul class="editorial-archive">
-  {% for post in site.posts %}
+  {% for post in site.posts offset: 3 %}
     {% unless post.hidden %}
       <li class="archive-item">
         <div class="archive-date">{{ post.date | date: "%b %d %y" }}</div>
