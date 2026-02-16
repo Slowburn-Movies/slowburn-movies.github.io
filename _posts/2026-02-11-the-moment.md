@@ -5,7 +5,7 @@ date: 2026-02-11
 author: jeff
 
 title: "The Moment"
-subtitle: "One of the funniest (and certainly one of the best) films satirizing the music industry"
+subtitle: "One of the funniest (and certainly one of the best) satires of the music industry"
 release_year: 2026
 
 rating: 3.5

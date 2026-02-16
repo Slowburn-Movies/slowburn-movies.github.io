@@ -5,7 +5,7 @@ date: 2026-01-26
 author: jeff
 
 title: "Two Sleepy People"
-subtitle: "A subversive romantic comedy that punches far above its weight"
+subtitle: "Subversive romantic comedy that punches far above its weight"
 release_year: 2025
 
 rating: 4

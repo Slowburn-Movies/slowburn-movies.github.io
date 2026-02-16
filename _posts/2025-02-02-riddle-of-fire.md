@@ -5,7 +5,7 @@ date: 2025-02-02
 author: jeff
 
 title: "Riddle of Fire"
-subtitle: "A lighthearted, whimsical journey that harkens back to the era of darker, grittier family movies"
+subtitle: "Wonderful, whimsical journey harkens back to the era of grittier family films"
 release_year: 2023
 
 rating: 4
