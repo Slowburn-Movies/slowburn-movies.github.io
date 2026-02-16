@@ -7,7 +7,7 @@ author: jeff
 title: "The Moment"
 release_year: 2026
 
-rating: 4
+rating: 3.5
 
 comment_link: https://embed.letterboxd.com/jeffdelay/film/the-moment-2026/ 
 view_link: https://a24films.com/films/the-moment
