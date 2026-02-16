@@ -25,8 +25,17 @@ title: Home
 
 <hr style="border: 0; border-top: 1px solid var(--badge-bg); margin-bottom: 2rem;">
 
+<div class="filter-bar" style="margin-bottom: 2rem; display: flex; gap: 10px; flex-wrap: wrap;">
+  <button class="filter-btn active" onclick="filterType('all')">All</button>
+  <button class="filter-btn" onclick="filterType('review')">Reviews</button>
+  <button class="filter-btn" onclick="filterType('interview')">Interviews</button>
+  <button class="filter-btn" onclick="filterType('news')">News</button>
+  <button class="filter-btn" onclick="filterType('event')">Events</button>
+  <button class="filter-btn" onclick="filterType('blog')">Blog</button>
+</div>
+
 <ul class="editorial-archive">
-  {% for post in site.posts offset: 3 limit: 7 %}
+  {% for post in site.posts %}
     {% unless post.hidden %}
       <li class="archive-item">
         <div class="archive-date">{{ post.date | date: "%b %d %y" }}</div>
@@ -43,8 +52,33 @@ title: Home
             <p class="archive-subtitle">{{ post.subtitle }}</p>
           {% endif %}
           <span class="type-badge badge-{{ post.type | downcase }}" style="font-size: 0.7rem;">{{ post.type | capitalize }}</span>
+          {% if post.rating %}<span>★ {{ post.rating }}</span>{% endif %}
         </div>
       </li>
     {% endunless %}
   {% endfor %}
 </ul>
+
+<script>
+function filterType(type) {
+  const items = document.querySelectorAll('.archive-item');
+  const buttons = document.querySelectorAll('.filter-btn');
+  
+  // Update button active states
+  buttons.forEach(btn => {
+    btn.classList.remove('active');
+    if(btn.innerText.toLowerCase() === type || (type === 'all' && btn.innerText === 'All')) {
+      btn.classList.add('active');
+    }
+  });
+
+  // Show/Hide items
+  items.forEach(item => {
+    if (type === 'all' || item.getAttribute('data-type') === type) {
+      item.style.display = 'grid'; // Matches your existing CSS display
+    } else {
+      item.style.display = 'none';
+    }
+  });
+}
+</script>
