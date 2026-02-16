@@ -94,7 +94,7 @@ a {
   opacity: 0.9;
   /* Limits to 2 lines for grid neatness */
   display: -webkit-box;
-  -webkit-line-clamp: 2;
+  -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
@@ -253,7 +253,7 @@ a {
   font-style: italic;
   opacity: 0.8;
   display: -webkit-box;
-  -webkit-line-clamp: 1; /* Keep list items compact with only 1 line */
+  -webkit-line-clamp: 2; /* Keep list items compact with only 1 line */
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
