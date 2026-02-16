@@ -6,21 +6,33 @@
   <meta property="og:type" content="website">
   <meta property="og:url" content="{{ page.url | absolute_url }}">
   <meta property="og:title" content="{{ page.title }}">
+  <meta name="twitter:title" content="{{ page.title }}">
+
   {% if page.description %}
     <meta property="og:description" content="{{ page.description }}">
-  {% else %}
-    <meta property="og:description" content="{{ page.excerpt | strip_html | truncate: 160 }}">
-  {% endif %}
-  <meta property="og:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ '/assets/images/default-logo.png' | absolute_url }}{% endif %}">
-
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="{{ page.title }}">
-  {% if page.description %}
     <meta name="twitter:description" content="{{ page.description }}">
   {% else %}
+    <meta property="og:description" content="{{ page.excerpt | strip_html | truncate: 160 }}">
     <meta name="twitter:description" content="{{ page.excerpt | strip_html | truncate: 160 }}">
   {% endif %}
-  <meta name="twitter:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ '/assets/images/default-logo.png' | absolute_url }}{% endif %}">
+
+  {% if page.youtube_id %}
+    <meta name="twitter:card" content="player">
+    <meta property="og:video" content="https://www.youtube.com/embed/{{ page.youtube_id }}">
+    <meta name="twitter:player" content="https://www.youtube.com/embed/{{ page.youtube_id }}">
+    <meta property="og:image" content="https://img.youtube.com/vi/{{ page.youtube_id }}/maxresdefault.jpg">
+    <meta name="twitter:image" content="https://img.youtube.com/vi/{{ page.youtube_id }}/maxresdefault.jpg">
+  {% elsif page.image %}
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="og:image" content="{{ page.image | absolute_url }}">
+    <meta name="twitter:image" content="{{ page.image | absolute_url }}">
+  {% else %}
+    <meta name="twitter:card" content="summary">
+    <meta property="og:image" content="{{ '/assets/images/default-logo.png' | absolute_url }}">
+    <meta name="twitter:image" content="{{ '/assets/images/default-logo.png' | absolute_url }}">
+  {% endif %}
+
+  
 
 
 
