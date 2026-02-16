@@ -5,6 +5,7 @@ date: 2026-02-11
 author: jeff
 
 title: "The Moment"
+subtitle: "One of the funniest (and certainly one of the best) films satirizing the music industry"
 release_year: 2026
 
 rating: 3.5
@@ -23,7 +24,7 @@ Now that it’s been released, it’s certain that ‘The Moment’ delivers to 
 
 Considering that most audiences likely assumed this would be at least something of a concert film, the film is decidedly not that. Instead, it’s perhaps one of the funniest (and certainly one of the best) films satirizing the music industry that we’ve seen in years.
 
-The Moment wears its influences on its sleeve, taking equal parts from the dry British humor of ‘The Office’ as much as it pays homage to rockumentary films like ‘Spinal Tap’, CB3’, and aspects of ‘Documentary Now’, all while also carving its own unique path in the process. 
+The Moment wears its influences on its sleeve, taking equal parts from the dry British humor of ‘The Office’ as much as it pays homage to rockumentary films like ‘Spinal Tap’, ‘CB3’, and aspects of ‘Documentary Now’, all while also carving its own unique path in the process. 
 
 Clever, nuanced, and absurd conversations lead to many, many moments of hilarity throughout the film, and much of the laughs here are through silly but believable miscommunications, facial expressions and the satirization of industry absurdity. 
 

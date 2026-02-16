@@ -5,6 +5,15 @@ layout: default
 <h1>{{ page.name }}</h1>
 <p>{{ page.bio }}</p>
 
+<ul>
+  {% if page.letterboxd %}
+    <li>Letterboxd: <a href="https://embed.letterboxd.com/{{ page.letterboxd }}/">@{{}}</a></li>
+  {% endif %}
+  {% if page.instagram %}
+    <li>Instagram: <a href="https://www.instagram.com/{{ page.instagram }}/">@{{}}</a></li>
+  {% endif %}
+</ul>
+
 <h2>Articles by {{ page.name }}</h2>
 <ul>
   {% assign posts = site.posts | where: "author", page.short_name %}

@@ -6,12 +6,20 @@
   <meta property="og:type" content="website">
   <meta property="og:url" content="{{ page.url | absolute_url }}">
   <meta property="og:title" content="{{ page.title }}">
-  <meta property="og:description" content="{{ page.excerpt | strip_html | truncate: 160 }}">
+  {% if page.description %}
+    <meta property="og:description" content="{{ page.description }}">
+  {% else %}
+    <meta property="og:description" content="{{ page.excerpt | strip_html | truncate: 160 }}">
+  {% endif %}
   <meta property="og:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ '/assets/images/default-logo.png' | absolute_url }}{% endif %}">
 
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{{ page.title }}">
-  <meta name="twitter:description" content="{{ page.excerpt | strip_html | truncate: 160 }}">
+  {% if page.description %}
+    <meta name="twitter:description" content="{{ page.description }}">
+  {% else %}
+    <meta name="twitter:description" content="{{ page.excerpt | strip_html | truncate: 160 }}">
+  {% endif %}
   <meta name="twitter:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ '/assets/images/default-logo.png' | absolute_url }}{% endif %}">
 
 
@@ -37,7 +45,7 @@
       <nav class="site-nav">
         <a href="{{ '/' | relative_url }}">Home</a>
         <a href="{{ '/reviews/' | relative_url }}">Reviews</a>
-        <!-- <a href="{{ '/posts/' | relative_url }}">All Posts</a> -->
+        <a href="{{ '/posts/' | relative_url }}">All Posts</a>
         <a href="{{ '/about/' | relative_url }}">About</a>
       </nav>
     </div>

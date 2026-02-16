@@ -3,8 +3,9 @@ layout: default
 ---
 
 <hgroup>
+  <span class="type-badge badge-{{ post.type | downcase }}">{{ post.type | capitalize }}</span>
   {% if page.type == "review" %}
-    <h1>Review: {{ page.title }} ({{page.release_year}})</h1>
+    <h1>{{ page.title }} ({{page.release_year}})</h1>
   {% else %}
     <h1>{{ page.title }}</h1>
   {% endif %}

@@ -1,13 +1,18 @@
 ---
 published: true
 type: review
-title: "Riddle of Fire"
-release_year: 2023
-author: jeff
-rating: 4
 date: 2025-02-02
+author: jeff
+
+title: "Riddle of Fire"
+subtitle: "A lighthearted, whimsical journey that harkens back to the era of darker, grittier family movies"
+release_year: 2023
+
+rating: 4
+
 comment_link: https://embed.letterboxd.com/jeffdelay/film/riddle-of-fire/ 
 view_link: https://yellowveilpictures.com/riddle-of-fire/
+
 image: /assets/images/riddle-of-fire.webp
 image_alt: "Three young actors looking from behind a pile of wood, holding paint ball guns."
 image_caption: "Charlie Stover, Phoebe Ferro, and Skyler Peters in Riddle of Fire."

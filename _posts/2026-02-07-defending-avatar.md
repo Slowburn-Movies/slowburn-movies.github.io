@@ -8,32 +8,26 @@ author: cale
 
 title: "In Defense of Avatar"
 subtitle: "Hollywood heavyweights praise the Avatar franchise"
-description: "Hollywood heavyweights praise the Avatar franchise."
+description: "Hollywood heavyweights praise the Avatar franchise despite movie buffs often looking down on it. What is the disconnect?"
 
 image: /assets/images/avatar-family-photo.webp
 image_alt: "A flash photo of a family of skinny blue aliens smiling at the camera"
 image_caption: "The Sully family from the Avatar movies."
 ---
 
-It's all too common for film fanatics to look down their noses at Avatar. I understand. They put these movies in the same bucket as superhero blockbuster slop. 
+It's all too common for film fanatics to look down their noses at Avatar. I understand. They mentally put these movies in the same bucket as superhero blockbuster slop. However, in recent times, critically acclaimed filmmakers have come out of the woodwork praising not just the first Avatar film, but also the latest entry, Fire and Ash.
 
-However, in recent times, critically acclaimed filmmakers have come out of the woodwork praising not just the Avatar film series, but the latest entry Fire and Ash as well.
-
-However, what are such people to think when renowned American filmmaker Michael Mann [recently named](https://variety.com/lists/directors-favorite-films-2025/avatar-fire-and-ash/) Avatar: Fire and Ash his favorite film of 2025? Mann said the following:
+For example, Michael Mann (the director of Heat, The Insider, Collatoral, and The Last of the Mohicans) [recently named](https://variety.com/lists/directors-favorite-films-2025/avatar-fire-and-ash/) Avatar: Fire and Ash his favorite film of 2025. Mann said the following:
 
 > Jim began with a blank piece of paper. No writer-director I can think of has invented as large a three-dimensional world of his own imagining as has Jim. “Fire and Ash” on its own is an incredible achievement. There are two more installments to come. From some point in the future, when regarded historically, the whole of “Avatar” will be seen as the magnum opus it truly is.
 
 At the very least, this should give us pause.
 
-
-
-
-
 ## The Spectacle
 
-Isn't Avatar just a big technology spectacle? Isn't it just meant to dazzle? Well, yes. Jim likes to push the boundaries with new technology. But people forget that film has always been about giving the audience new experiences with new technology. Twenty-four frames per second, the dolly, the steadycam, 3D, etc.
+Isn't Avatar just a big technology spectacle? Isn't it just meant to dazzle? Well, yes. The director of the films, James Cameron, likes to push the boundaries with new technology. But people forget that film has always been about giving the audience new experiences with new technology. When motion pictures were first invented, no doubt there were art snobs that saw it as an spectacle that was meant to dazzle and nothing more. Twenty-four frames per second, the dolly, the steadycam, 3D, so it goes.
 
-Jim's theory behind this is that if we want audiences to see movies in theaters, we need to make movies worth seeing in theaters. Film is fundamentally visual, afterall. So seemingly, the real concern is that there is nothing *beyond* the spectacle; nothing under the surface.
+Jim's theory behind this is that if we want audiences to see movies in theaters, we need to make movies worth seeing in theaters. Film is fundamentally visual, afterall. So seemingly, the real concern from movie buffs is that there is nothing *beyond* the spectacle; nothing under the surface.
 
 ## My Experience
 
