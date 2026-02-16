@@ -13,7 +13,7 @@ title: Home
         {% else %}
           <div class="featured-image" style="background: var(--badge-bg);"></div>
         {% endif %}
-        <span class="type-badge badge-{{ post.type | downcase }}">{{ post.type | capitalize }}</span>
+        <!-- <span class="type-badge badge-{{ post.type | downcase }}">{{ post.type | capitalize }}</span> -->
         <h2 style="margin: 0.5rem 0 0.2rem 0;">{{ post.title }}</h2>
         {% if post.subtitle %}
           <p class="featured-subtitle">{{ post.subtitle }}</p>
