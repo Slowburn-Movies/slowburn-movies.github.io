@@ -2,7 +2,8 @@ backend:
   name: github
   repo: Slowburn-Movies/slowburn-movies.github.io
   branch: main 
-  base_url: https://slowburn.mov 
+  site_domain: slowburn.mov # This helps Sveltia identify the site
+  base_url: https://benevolent-dango-a936fc.netlify.app # Point to the Netlify instance 
   auth_endpoint: /api/auth       # Standard for Netlify Identity
 
 media_folder: "assets/images" 

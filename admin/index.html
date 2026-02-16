@@ -10,5 +10,23 @@
   </head>
   <body>
     <script src="https://unpkg.com/@sveltia/cms/dist/sveltia-cms.js" type="module"></script>
+    <script>
+        // Replace 'https://benevolent-dango-a936fc.netlify.app' with your actual netlify URL
+        const netlifySiteURL = 'https://benevolent-dango-a936fc.netlify.app';
+
+        if (window.netlifyIdentity) {
+            window.netlifyIdentity.init({
+            APIUrl: `${netlifySiteURL}/.netlify/identity`
+            });
+
+            window.netlifyIdentity.on("init", user => {
+            if (!user) {
+                window.netlifyIdentity.on("login", () => {
+                document.location.href = "/admin/";
+                });
+            }
+            });
+        }
+    </script>
   </body>
 </html>
