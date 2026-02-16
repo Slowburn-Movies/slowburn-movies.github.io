@@ -2,13 +2,13 @@
 published: false
 hidden: true
 
-type: blog
+type: feature
 date: 2026-02-07
 author: cale
 
-title: "In Defense of Avatar"
-subtitle: "Hollywood heavyweights praise the Avatar franchise"
-description: "Hollywood heavyweights praise the Avatar franchise despite movie buffs often looking down on it. What is the disconnect?"
+title: "The Appeal of Pandora"
+subtitle: "Why Hollywood giants and factory workers alike are all-in on Avatar."
+description: "Exploring why Hollywood filmmakers Michael Mann, Guillermo Del Toro, and Bradley Cooper love the Avatar films, despite movie buffs often sidelining it."
 
 image: /assets/images/avatar-family-photo.webp
 image_alt: "A flash photo of a family of skinny blue aliens smiling at the camera"
@@ -17,7 +17,7 @@ image_caption: "The Sully family from the Avatar movies."
 
 It's all too common for film fanatics to look down their noses at Avatar. I understand. They mentally put these movies in the same bucket as superhero blockbuster slop. However, in recent times, critically acclaimed filmmakers have come out of the woodwork praising not just the first Avatar film, but also the latest entry, Fire and Ash.
 
-For example, Michael Mann (the director of Heat, The Insider, Collatoral, and The Last of the Mohicans) [recently named](https://variety.com/lists/directors-favorite-films-2025/avatar-fire-and-ash/) Avatar: Fire and Ash his favorite film of 2025. Mann said the following:
+For example, Michael Mann (Heat, The Insider, Collateral, The Last of the Mohicans) [recently named](https://variety.com/lists/directors-favorite-films-2025/avatar-fire-and-ash/) Avatar: Fire and Ash his favorite film of 2025. Mann said the following:
 
 > Jim began with a blank piece of paper. No writer-director I can think of has invented as large a three-dimensional world of his own imagining as has Jim. “Fire and Ash” on its own is an incredible achievement. There are two more installments to come. From some point in the future, when regarded historically, the whole of “Avatar” will be seen as the magnum opus it truly is.
 
@@ -27,11 +27,11 @@ At the very least, this should give us pause.
 
 Isn't Avatar just a big technology spectacle? Isn't it just meant to dazzle? Well, yes. The director of the films, James Cameron, likes to push the boundaries with new technology. But people forget that film has always been about giving the audience new experiences with new technology. When motion pictures were first invented, no doubt there were art snobs that saw it as an spectacle that was meant to dazzle and nothing more. Twenty-four frames per second, the dolly, the steadycam, 3D, so it goes.
 
-Jim's theory behind this is that if we want audiences to see movies in theaters, we need to make movies worth seeing in theaters. Film is fundamentally visual, afterall. So seemingly, the real concern from movie buffs is that there is nothing *beyond* the spectacle; nothing under the surface.
+Jim's theory behind this is that if we want audiences to see movies in theaters, we need to make movies worth seeing in theaters. Film is fundamentally visual, after all. So seemingly, the real concern from movie buffs is that there is nothing *beyond* the spectacle; nothing under the surface.
 
 ## My Experience
 
-I saw Avatar much later than its original release date of 2009. I was too busy with my freshman year of college to make time for a "Fern Gully knock-off". One Summer day in 2012, when I was working on the packing line at a furniture factory, my Jugallo co-worker told me about how much he loved this movie. The next day he brought me the DVD from his collection. When my shift ended at 10pm, I cracked open the Barefoot Moscato and put it on my 27" CRT fullscreen living room television.
+I saw Avatar much later than its original release date of 2009. I was too busy with my freshman year of college to make time for a "Fern Gully knock-off". One Summer day in 2012, when I was working on the packing line at a furniture factory, my Juggalo co-worker told me about how much he loved this movie. The next day he brought me the DVD from his collection. When my shift ended at 10pm, I cracked open the Barefoot Moscato and put it on my 27" CRT fullscreen living room television.
 
 I couldn't explain it then, but I was astounded by what I saw. This was back before I had a smartphone, so my attention span was a non-issue. Regardless, I was engrossed in the story. Nevertheless, I told my coworker how much I loved the movie and really just left it at that.
 
@@ -50,7 +50,7 @@ It's so preposterous that it becomes compelling again. "How could someone actual
 
 Beyond the basic concept behind the story, I was genuinely impressed by the actors' performances. The dialogue is simple and direct while also managing to be memorable. It's borderline pulp; that is to say, it's actually fun. And similar to Star Wars, the actors more than 'make do'. They own it. It's been a long time since I had dialogue "earworms" stuck in my head. I'm still saying "You're like a baby" in Neytiri's voice months later.
 
-Bradley Cooper recently [went on a rant about his love for the Avatar series](https://youtu.be/slYfiSb5AX4?t=8275), saying the following:
+Bradley Cooper (A Star is Born, Maestro, Silver Linings Playbook) recently [went on a rant about his love for the Avatar series](https://youtu.be/slYfiSb5AX4?t=8275), saying the following:
 
 > I saw a movie the other night that I didn't believe anybody in it. But I love Avatar. We watched 3, then 2, then 1. I had just gone from watching this movie where I didn't believe anything anybody was doing; the whole time. Then I'm watching Avatar for 2 seconds and they're on a thing and they're blue, but they're talking to each other ... By the way I'm like, when's 4 and 5?
 
@@ -66,7 +66,7 @@ There is one 2 second clip in Fire and Ash that made me realize that Cameron is 
 
 In terms of courage in storytelling and freedom of creativity, I believe that the Avatar movies are the closest thing to authentic American Anime that we have. 
 
-Not many people know that Guillermo Del Toro and James Cameron are essentially brothers. They lived together in LA in the 90s. Del Toro has said that he and Jim would spend many hours watching anime together. Del Toro [summed up his love for Avatar like this](https://youtu.be/T0NGBCzF1JY?si=sb5xuBz2k1-_Tgfd&t=390):  
+Not many people know that Guillermo Del Toro (Pan's Labyrinth, The Shape of Water, Frankenstein) and James Cameron lived together in LA in the 90s. Del Toro has said that he and Jim would spend many hours watching anime together. Del Toro [summed up his love for Avatar like this](https://youtu.be/T0NGBCzF1JY?si=sb5xuBz2k1-_Tgfd&t=390):  
 
 > There are very few Americans that have created a full mythology. You have (George) Lucas, the whole Wizard of Oz mythology with Frank Baum, and Jim is creating that with Avatar. It's gonna take you places.
 

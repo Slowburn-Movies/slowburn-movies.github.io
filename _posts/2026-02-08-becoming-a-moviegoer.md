@@ -1,14 +1,19 @@
 ---
 published: false
 hidden: true
-type: blog
-title: "How to become a Moviegoer"
+
+type: feature
 date: 2026-02-08
+author: cale
+
+title: "How to become a Moviegoer"
+subtitle: ""
+description: "Hollywood heavyweights praise the Avatar franchise."
+
+
 image: /assets/images/avatar-family-photo.webp
 image_alt: "A flash photo of a family of skinny blue aliens smiling at the camera"
 image_caption: "The Sully family from the Avatar movies."
-description: "Hollywood heavyweights praise the Avatar franchise."
-author: cale
 ---
 
 Going to the movie theater is special today, but it isn't as special as it could be.
