@@ -25,7 +25,7 @@ title: Home
 
 <hr style="border: 0; border-top: 1px solid var(--badge-bg); margin-bottom: 2rem;">
 
-<div class="filter-bar" style="margin-bottom: 2rem; display: flex; gap: 10px; flex-wrap: wrap;">
+<div class="filter-bar" style="margin-bottom: 2rem; display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
   <button class="filter-btn active" onclick="filterType('all')">All</button>
   <button class="filter-btn" onclick="filterType('review')">Reviews</button>
   <button class="filter-btn" onclick="filterType('interview')">Interviews</button>
