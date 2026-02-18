@@ -18,7 +18,7 @@ image_alt: "Charli XCX sitting on top of a comically large green credit card tha
 image_caption: "Charli XCX in The Moment."
 ---
 
-When ‘The Moment’ was announced, it was sure to appeal to core fans of Charli XCX, but it was also cleverly marketed in a vague enough way to entice chronically curious movie-goers to wonder how exactly it would pan out. It’s teasers and branding promised either a unique take on a documentary concert film, or perhaps a more satirical, artsy take on Charli’s XCXs monumental rise to fame during her ubiquitous ‘brat’ era. 
+When ‘The Moment’ was announced, it was sure to appeal to core fans of Charli XCX, but it was also cleverly marketed in a vague enough way to entice chronically curious movie-goers to wonder how exactly it would pan out. Its teasers and branding promised either a unique take on a documentary concert film, or perhaps a more satirical, artsy take on Charli’s XCXs monumental rise to fame during her ubiquitous ‘brat’ era. 
 
 Now that it’s been released, it’s certain that ‘The Moment’ delivers to a much wider audience than anyone could have expected. It is surprisingly entertaining as a project in its own right- enjoyable and unpredictable enough to succeed as its own film, even when removed from Charli XCX lore and music. 
 
