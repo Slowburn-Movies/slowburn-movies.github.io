@@ -2,14 +2,14 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="159.55681mm"
-   height="159.55679mm"
-   viewBox="0 0 159.55681 159.55679"
+   width="159.55701mm"
+   height="159.55699mm"
+   viewBox="0 0 159.55701 159.55699"
    version="1.1"
    id="svg1"
-   inkscape:export-filename="slowburn-fav48.png"
-   inkscape:export-xdpi="7.6411653"
-   inkscape:export-ydpi="7.6411653"
+   inkscape:export-filename="slowburn-logo-48.png"
+   inkscape:export-xdpi="7.6411562"
+   inkscape:export-ydpi="7.6411562"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    sodipodi:docname="slowburn-logo3.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -26,24 +26,51 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="1.4929298"
-     inkscape:cx="-877.46926"
-     inkscape:cy="449.78672"
+     inkscape:zoom="1.0556608"
+     inkscape:cx="-882.85935"
+     inkscape:cy="403.06508"
      inkscape:window-width="2560"
      inkscape:window-height="1377"
-     inkscape:window-x="1912"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2" />
+     inkscape:current-layer="g13" />
   <defs
-     id="defs1" />
+     id="defs1">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter19"
+       x="-0.19200001"
+       y="-0.19200001"
+       width="1.384"
+       height="1.384">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="8.5565259"
+         id="feGaussianBlur19" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter20"
+       x="-0.060688779"
+       y="-0.060811347"
+       width="1.1213776"
+       height="1.1216227">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.5869478"
+         id="feGaussianBlur20" />
+    </filter>
+  </defs>
   <g
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="dusty rose bg"
      sodipodi:insensitive="true"
      style="display:none"
-     transform="translate(309.99354,-44.98656)">
+     transform="translate(309.99354,-44.986357)">
     <rect
        style="fill:#c87f71;fill-opacity:1;stroke:#000000;stroke-width:0.499999"
        id="rect1"
@@ -57,9 +84,9 @@
      inkscape:groupmode="layer"
      id="g3"
      inkscape:label="blue bg"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true"
-     transform="translate(309.99354,-44.98656)">
+     transform="translate(309.99354,-44.986357)">
     <rect
        style="fill:#1fa4cc;fill-opacity:1;stroke:none;stroke-width:0.443213"
        id="rect3"
@@ -70,12 +97,83 @@
        ry="1.8511421e-13" />
   </g>
   <g
+     inkscape:groupmode="layer"
+     id="g12"
+     inkscape:label="blue bg copy"
+     style="display:none"
+     sodipodi:insensitive="true"
+     transform="translate(309.99354,-44.986357)">
+    <rect
+       style="fill:#2e6bff;fill-opacity:1;stroke:none;stroke-width:0.443213"
+       id="rect12"
+       width="159.55679"
+       height="159.55679"
+       x="-309.99353"
+       y="44.986557"
+       ry="1.8511421e-13" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g14"
+     inkscape:label="outer flame"
+     style="display:inline"
+     transform="translate(309.99354,-44.986357)">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.443213"
+       id="rect14"
+       width="159.55679"
+       height="159.55679"
+       x="-309.99353"
+       y="44.986557"
+       ry="1.8511421e-13" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g13"
+     inkscape:label="mid flame"
+     style="display:inline"
+     transform="translate(309.99354,-44.986357)">
+    <ellipse
+       style="mix-blend-mode:normal;fill:#1a1a1a;fill-opacity:1;stroke-width:0.723683;filter:url(#filter20)"
+       id="path16"
+       cx="-230.21503"
+       cy="124.76495"
+       rx="70.924767"
+       ry="70.781815" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g8"
+     inkscape:label="inner flame"
+     style="display:inline"
+     transform="translate(309.99354,-44.986357)">
+    <circle
+       style="mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke-width:0.822219;filter:url(#filter19)"
+       id="path15"
+       cx="-230.21513"
+       cy="124.76495"
+       r="53.478287" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g20"
+     inkscape:label="border ring"
+     style="display:inline"
+     transform="translate(309.99354,-44.986357)">
+    <circle
+       style="mix-blend-mode:normal;fill:none;fill-opacity:1;stroke:#5e8ed8;stroke-width:5.98105;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse20"
+       cx="-230.21503"
+       cy="124.76485"
+       r="76.787971" />
+  </g>
+  <g
      inkscape:label="words"
      inkscape:groupmode="layer"
      id="layer1"
      style="display:none"
      sodipodi:insensitive="true"
-     transform="translate(309.99354,-44.98656)">
+     transform="translate(309.99354,-44.986357)">
     <text
        xml:space="preserve"
        style="font-size:50.8px;line-height:1.5;font-family:Consolas;-inkscape-font-specification:Consolas;letter-spacing:-2.64583px;word-spacing:0px;stroke-width:0.955012"
@@ -150,40 +248,59 @@
      inkscape:groupmode="layer"
      id="g7"
      style="display:inline"
-     transform="translate(309.99354,-44.98656)">
+     transform="translate(309.99354,-44.986357)">
     <text
        xml:space="preserve"
-       style="font-size:50.8px;line-height:1.5;font-family:Consolas;-inkscape-font-specification:Consolas;letter-spacing:-2.64583px;word-spacing:0px;stroke-width:0.955012"
+       style="font-size:50.8px;line-height:1.5;font-family:Consolas;-inkscape-font-specification:Consolas;letter-spacing:-2.64583px;word-spacing:0px;fill:#e0e0e0;fill-opacity:1;stroke-width:0.955012"
        x="-259.03629"
        y="141.12929"
        id="text2"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.8px;line-height:1.5;font-family:Archivo;-inkscape-font-specification:'Archivo Bold';letter-spacing:-2.64583px;stroke-width:0.955012"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.8px;line-height:1.5;font-family:Archivo;-inkscape-font-specification:'Archivo Bold';letter-spacing:-2.64583px;fill:#e0e0e0;fill-opacity:1;stroke-width:0.955012"
          x="-259.03629"
          y="141.12929"
          id="tspan1">sb</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:43.8872px;line-height:1.5;font-family:Consolas;-inkscape-font-specification:Consolas;letter-spacing:-1.82863px;word-spacing:0px;display:inline;stroke-width:0.660043"
+       style="font-size:43.8872px;line-height:1.5;font-family:Consolas;-inkscape-font-specification:Consolas;letter-spacing:-1.82863px;word-spacing:0px;display:inline;fill:#e0e0e0;fill-opacity:1;stroke-width:0.660043"
        x="-298.54221"
        y="132.17664"
        id="text3"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.8872px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:-1.82863px;stroke-width:0.660043"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.8872px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:-1.82863px;fill:#e0e0e0;fill-opacity:1;stroke-width:0.660043"
          x="-298.54221"
          y="132.17664"
          id="tspan2">『</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:43.8872px;line-height:1.5;font-family:Consolas;-inkscape-font-specification:Consolas;letter-spacing:-1.82863px;word-spacing:0px;display:inline;stroke-width:0.660043"
+       style="font-size:43.8872px;line-height:1.5;font-family:Consolas;-inkscape-font-specification:Consolas;letter-spacing:-1.82863px;word-spacing:0px;display:inline;fill:#e0e0e0;fill-opacity:1;stroke-width:0.660043"
        x="162.99422"
        y="-114.43027"
        id="text3-4"
        transform="scale(-1)"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.8872px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:-1.82863px;stroke-width:0.660043"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.8872px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:-1.82863px;fill:#e0e0e0;fill-opacity:1;stroke-width:0.660043"
          x="162.99422"
          y="-114.43027"
          id="tspan2-3">『</tspan></text>
+  </g>
+  <g
+     inkscape:label="words copy"
+     inkscape:groupmode="layer"
+     id="g10"
+     style="display:none"
+     sodipodi:insensitive="true"
+     transform="translate(309.99354,-44.986357)">
+    <text
+       xml:space="preserve"
+       style="font-size:21.1667px;line-height:1.5;font-family:Consolas;-inkscape-font-specification:Consolas;letter-spacing:0px;word-spacing:0px;fill:#e0e0e0;fill-opacity:1;stroke-width:0.955012"
+       x="-303.62222"
+       y="129.01251"
+       id="text8"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.1667px;line-height:1.5;font-family:Archivo;-inkscape-font-specification:'Archivo Bold';letter-spacing:0px;fill:#e0e0e0;fill-opacity:1;stroke-width:0.955012"
+         x="-303.62222"
+         y="129.01251"
+         id="tspan8">『 Slowburn 』</tspan></text>
   </g>
 </svg>
