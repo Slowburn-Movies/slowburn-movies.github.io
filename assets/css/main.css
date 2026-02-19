@@ -53,7 +53,7 @@ h1, h2, h3, h4,
 }
 
 .site-title img {
-  max-height: 70px; /* Adjust to your preferred height */
+  height: 70px; /* Adjust to your preferred height */
   width: auto;
   display: block;
 }
@@ -377,7 +377,7 @@ blockquote {
   }
 
   .site-title img {
-    max-height: 50px; /* Adjust to your preferred height */
+    height: 55px; /* Adjust to your preferred height */
     width: auto;
     display: block;
   }
