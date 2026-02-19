@@ -36,6 +36,15 @@ h1, h2, h3, h4,
   text-transform: tight;
 }
 
+/* The Brand Logo Style */
+.site-title, .brand-logo {
+  font-family: "Fraunces", serif;
+  font-optical-sizing: auto; /* This tells the browser to pick the best 'opsz' for the size */
+  font-weight: 800;          /* Adjust between 100-900 based on your brand "weight" */
+  font-variation-settings: "SOFT" 50, "WONK" 1; /* Gives it that custom, slightly quirky character */
+  letter-spacing: -0.01em;
+}
+
 .site-wrapper {
   display: flex;
   flex-direction: column;
