@@ -52,6 +52,12 @@ h1, h2, h3, h4,
   text-decoration: none;
 }
 
+.site-title img {
+  height: 50px; /* Adjust to your preferred height */
+  width: auto;
+  display: block;
+}
+
 .site-wrapper {
   display: flex;
   flex-direction: column;
