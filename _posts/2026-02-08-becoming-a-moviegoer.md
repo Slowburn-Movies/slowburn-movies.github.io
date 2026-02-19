@@ -7,13 +7,13 @@ date: 2026-02-08
 author: cale
 
 title: "How to become a Moviegoer"
-subtitle: ""
+subtitle: "The New Normal for Theater Subscription Power Users"
 description: "Hollywood heavyweights praise the Avatar franchise."
 
 
-image: /assets/images/avatar-family-photo.webp
-image_alt: "A flash photo of a family of skinny blue aliens smiling at the camera"
-image_caption: "The Sully family from the Avatar movies."
+image: /assets/images/edward-hopper-new-york-movie.webp
+image_alt: "A female usher standing pensively on the edge of a movie theater while a movie is playing"
+image_caption: "Edward Hopper's painting 'New York Movie'"
 ---
 
 Going to the movie theater is special today, but it isn't as special as it could be.
