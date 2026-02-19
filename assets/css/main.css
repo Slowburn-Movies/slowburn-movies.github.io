@@ -39,10 +39,17 @@ h1, h2, h3, h4,
 /* The Brand Logo Style */
 .site-title, .brand-logo {
   font-family: "Fraunces", serif;
-  font-optical-sizing: auto; /* This tells the browser to pick the best 'opsz' for the size */
-  font-weight: 800;          /* Adjust between 100-900 based on your brand "weight" */
-  font-variation-settings: "SOFT" 50, "WONK" 1; /* Gives it that custom, slightly quirky character */
-  letter-spacing: -0.01em;
+  font-style: italic; /* Required for those specific 'l' and 'b' curves */
+  font-weight: 400;    /* Matches the 'Regular 400' in your image */
+  font-size: 4rem;     /* Adjust to fit your header */
+  
+  font-variation-settings: 
+    "opsz" 144,  /* Max contrast for that elegant thin-to-thick look */
+    "WONK" 1,    /* Enables the vintage, irregular letterforms */
+    "SOFT" 0;    /* Keeps the edges sharp like the image */
+    
+  letter-spacing: -0.03em; /* Tighter tracking for a high-end logo feel */
+  text-decoration: none;
 }
 
 .site-wrapper {
