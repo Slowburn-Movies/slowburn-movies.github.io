@@ -15,7 +15,7 @@ image_alt: "A flash photo of a family of skinny blue aliens smiling at the camer
 image_caption: "The Sully family from the Avatar movies."
 ---
 
-It's all too common for film fanatics to look down their noses at Avatar. I understand. They mentally put these movies in the same bucket as superhero blockbuster slop. However, in recent times, critically acclaimed filmmakers have come out of the woodwork praising not just the first Avatar film, but also the latest entry, Fire and Ash.
+It's all too common for cinephiles to look down their noses at Avatar. I understand. They mentally put these movies in the same bucket as superhero blockbuster slop. However, in recent times, critically acclaimed filmmakers have come out of the woodwork praising not just the first Avatar film, but also the latest entry, Fire and Ash.
 
 For example, Michael Mann (Heat, The Insider, Collateral, The Last of the Mohicans) [recently named](https://variety.com/lists/directors-favorite-films-2025/avatar-fire-and-ash/) Avatar: Fire and Ash his favorite film of 2025. Mann said the following:
 
@@ -55,6 +55,10 @@ Bradley Cooper (A Star is Born, Maestro, Silver Linings Playbook) recently [went
 > I saw a movie the other night that I didn't believe anybody in it. But I love Avatar. We watched 3, then 2, then 1. I had just gone from watching this movie where I didn't believe anything anybody was doing; the whole time. Then I'm watching Avatar for 2 seconds and they're on a thing and they're blue, but they're talking to each other ... By the way I'm like, when's 4 and 5?
 
 Cooper is also shocked by how utterly believable these performances are despite being high fantasy-sci-fi.
+
+In a [Q&A event](https://youtu.be/QRUiEcrq7b4?t=213), Jim said:
+
+> There is an intimacy and sense of reality in the character moments despite all the world-building. [...] People often ask me "when are you going to do something small and intimate?" Well, I do on every one of these movies. I just don't *just* do that. [...] The scene where Neytiri and Jake challenge each other about them being an interracial marriage with mixed race children, and it just devastates her, and he tries to apologize, but you see that she isn't buying the whole 'family as a fortress' thing anymore... I'm probably more proud of that scene than the whole battle at the end. Just because it was simple and it was clean. It was just writing and acting. 
 
 In the Way of Water, the world and lore expands tenfold. Now having older children himself, Cameron writes a family drama from a view of experience. The underlying strained relationships between husband and wife, parents and children; thinking back, it's all evident from the family portrait in the first 10 minutes of the movie.
 
