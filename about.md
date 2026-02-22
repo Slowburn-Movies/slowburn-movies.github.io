@@ -10,4 +10,4 @@ Started by a group of friends in Las Vegas, Nevada.
 
 [Youtube]()
 
-[Instagram]()
+[Instagram](https://www.instagram.com/slowburn_mov)
