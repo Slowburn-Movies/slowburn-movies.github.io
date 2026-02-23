@@ -323,7 +323,7 @@ a {
 
 blockquote {
   font-family: 'Faustina', serif;
-  font-style: italic;
+  /* font-style: italic; */
   font-size: 1.2rem;
   border-left: 3px solid var(--link-color);
   padding-left: 1.5rem;

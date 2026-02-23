@@ -41,13 +41,21 @@ Mark told the audience that filming <cite>The Puffy Chair</cite> was the freest 
 **Mark Duplass**: 
 
 > So this was made for about $10,000 to $15,000, roughly. Of course, it gets more expensive when you go to Sundance, you have to do all that stuff without production and getting it done. So for <cite>Baghead</cite>, Katie and I moved to LA, we got our agents, and it was a little easier to get writing and directing work than it was for us to get acting work, for whatever reason.
+
 > Jay and I signed a blind deal with Universal to write a script that paid us $100,000. Holy shit. So it was like, immediately, what do you do? We gotta blow this on another project! 
+
 > So we wrote <cite>Baghead</cite>, well, we had a couple of studio movies in development, one of them was <cite>Cyrus</cite>, and I was like, I can make this for $50,000 where everybody gets maybe a little bit, and I could use some of this Universal money to pay for it. 
+
 > Everybody in the industry really responded to us as a team after <cite>The Puffy Chair</cite>, and everybody was like, 'we want to fund the next movie, we want to fund it!'.
+
 > So, I came up with a model in my mind, I was like, I'm going to go out and ask these people for $250,000, I'm going to offer them a 50% return on their investment. So, we get to go to Sundance and sell it big, they [the buyer] can do well, but my only rule is, they just have to cut (us) the check. 
+
 > I'll give them all the producer credits, I'll make them look cool, pictures on the red carpet, but I gotta do the thing [maintain creative control]. And then all- I mean, like 15 people came flying in. I was like, yes, of course, of course.
+
 > I Started making phone calls, one by one. [I thought] Absolutely, just cut us the check. They just kept saying the same thing, "...well, there's just this one thing about the ending, can we change that?" and we just went, "nope".
+
 > Then it was, "but would you consider casting this person? She's an actress on the WB". We said "nope". It just kept coming and kept coming, so we literally couldn't find any financier who would do what we wanted, so we paid for it ourselves. Then I was like, ahh, we can't live without paying ourselves. And then we brought it to Sundance, and we sold it for like a high six-figure deal.
+
 > And in that moment, we sort of realized like- oh, this actually might be better- to own our own stuff. And I kind of precipitated that model going forward- to try to pay for things ourselves. 
 
 **Interviewer**: "And did you give your parents back the 15 grand [for financing <cite>The Puffy Chair</cite>]?" 
