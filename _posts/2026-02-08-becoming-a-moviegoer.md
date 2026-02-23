@@ -48,21 +48,11 @@ Now, all of these numbers are nothing to scoff at. 10 movies in a month is still
 
 These higher numbers really got me thinking. Could you just go to the theater after work and see whatever is playing on that day?
 
+Everyone replied that they always pick from the theater schedule before they go. Some even have a sort of "meal prep" type ritual.
+
 > **bdougherty** - I plan my week ahead of time on Tuesday/Wednesday once the times are up.
 
-> **JakeAscotia** - I always have a specific movie in mind. I never go without a plan.
-
-> **netanalyze** - Typically I schedule a main movie I want to see in advance. If there are other releases I haven't seen yet and I have the time I will sometimes do a doubleheader. I don't think I have ever gone to the theater without a "main" movie in mind.
-
-> **Mammoth-Roof-8118** - No every time I have a set list like movie and time cause I usually try to go and see more than 1 at a time.
-
-> **Business_Coffee_9421** - I will check out showtimes when I'm going and select a movie to see. I like to see as many movies as possible so I just pick what works for me at that time.
-
-> **cpowell342** - I always go for specific movies. Research ahead of time to look for stuff that I'm interested in.
-
-> **hksrevenge** - No, most of the time I plan exactly what I am seeing that day. Unless I get to the theater too late and miss the opening scene, I'll find something else to watch at the theater itself.
-
-That process of picking what to watch from a theater schedule sounds very appealing in an age of infinite choice. We browse Netflix for an hour just to find something that we turn off after 10 minutes. Theaters give you a much more limited choice. Take it or leave it. Freedom from the analysis paralysis of streaming platforms.
+That process of picking what to watch from a theater schedule sounds very appealing in an age of infinite choice. We browse Netflix for an hour just to find something that we turn off after 10 minutes. Theaters give you a much more limited choice. Take it or leave it. It sounds like freedom compared to the [analysis paralysis](https://en.wikipedia.org/wiki/Analysis_paralysis) of streaming platforms.
 
 ## What to watch?
 
@@ -112,7 +102,7 @@ Psychologically, this is a powerful situation for a viewer.
 
 I recently saw [The Fellowship of the Ring in theaters](https://www.fathomentertainment.com/news/lord-of-the-rings-trilogy-25th-anniversary-event-rings-up-11m-in-worldwide-box-office/). I've seen this movie probably 40 times since I was 11 years old, but I never saw it in the theaters. I expected the theatrical experience to be visually impressive, but I was mostly surprised by something else. I felt real fear. When watching a movie with any kind of horror or thrill to it at home, there's always the option to pause, fast forward, etc. Because there is always this escape hatch, things are just less scary at home. Even horror as mild as Lord of the Rings gets ratcheted up in the theater though.
 
-Typically, people reserve the theaters for a massive film like [Avatar](/appeal-of-pandora), but they'll watch most other movies at home. I think this bifurcation is a mistake. Watching movies at home, no matter how nice your setup is, is robbing yourself of a deeper experience. If you don't feel like you're strapped into the Clockwork Orange chair, are you really open to having an experience?
+Typically, people reserve the theaters for a massive film like [Avatar](/the-appeal-of-pandora), but they'll watch most other movies at home. I think this bifurcation is a mistake. Watching movies at home, no matter how nice your setup is, is robbing yourself of a deeper experience. If you don't feel like you're strapped into the Clockwork Orange chair, are you really open to having an experience?
 
 Finally, I would add myself that the theater is a shared experience. I'm reminded of the Wayne's World poster that reads "You'll laugh. You'll cry. You'll hurl." And you'll do it together.
 
@@ -176,10 +166,4 @@ The differences in answers on the last question makes me think that there are di
 
 > **hksrevenge** - I try to catch any and everything I can in theaters as I just generally prefer the theater experience much more. If you ever decide to watch a movie at home, it would be due to the inability and time to see in theaters. In most cases those would be movies not showing near me or very very limited in showings and there is just no way I can see it at the theaters.
 
-
-
-
-
-
-
-
+I'd like to thank each of these kind RU subscribers for giving their perspectives and insights. 
