@@ -39,7 +39,7 @@ Just to get the bonafides out of the way, I will introduce our interviewees with
 
 > **cpowell342** - 16 last month
 
-> **hksrevenge** - around 10. I'm sure though if I had RU in summer of 2025 last year it would have been around 20 or more.
+> **[chefremyguini](https://embed.letterboxd.com/chefremyguini/)** - around 10. I'm sure though if I had RU in summer of 2025 last year it would have been around 20 or more.
 
 Now, all of these numbers are nothing to scoff at. 10 movies in a month is still 2-3 movies per week. 57 though is 2 movies per *day*. 
 
@@ -67,9 +67,9 @@ Both AMC and Regal have been placing a heavy emphasis on re-releases of older mo
 
 > **Business_Coffee_9421** - I've seen <cite>Sunset Boulevard</cite>, <cite>The Creature From the Black Lagoon</cite>, and other classics. I definitely think this is a good thing.
 
-> **hksrevenge** - Unfortunately my home theater hasn't got a majority of the monthly re-releases which results in me having to travel to a nearby state to see them. I do hope they continue to do these re-releases with more theaters getting them, more showtime availability, and perhaps instead of showing them for one day; doing two days for people who truly cannot make their life/work/school schedule work for the showtimes. Otherwise I am very happy with the re-releases.
+> **chefremyguini** - Unfortunately my home theater hasn't got a majority of the monthly re-releases which results in me having to travel to a nearby state to see them. I do hope they continue to do these re-releases with more theaters getting them, more showtime availability, and perhaps instead of showing them for one day; doing two days for people who truly cannot make their life/work/school schedule work for the showtimes. Otherwise I am very happy with the re-releases.
 
-I definitely sympathize with bdougherty and hksrevenge that these older re-releases could be fewer with more days. As of now, each of them play on one single day. Regal likely wants to have less empty theaters by turning these re-releases into more of an event. In that sense, it almost harkens back to the era of small town theaters with only 1-3 screens.
+I definitely sympathize with bdougherty and chefremyguini that these older re-releases could be fewer with more days. As of now, each of them play on one single day. Regal likely wants to have less empty theaters by turning these re-releases into more of an event. In that sense, it almost harkens back to the era of small town theaters with only 1-3 screens.
 
 ## Why the theater?
 
@@ -81,7 +81,7 @@ In the modern mindset of home theater owners, many of these re-releases wouldn't
 
 > **cpowell342** - The main thing is just the experience and the ability to focus better and feel more fully immersed. Bigger screen, better sound, and the act of being out of the house just makes the movie have a bigger impact on me than watching at home.
 
-> **hksrevenge** - Immersion and escape. Watching at home results in far more distractions (phone usage being an easy one) and having the ability to pause a movie and get sidetracked is very easy. On the other hand, being at the theater creates an isolated and immersive experience that I just cannot get watching a movie at home. (This of course means if the audience has good theater etiquette and are not disruptive during the movie).
+> **chefremyguini** - Immersion and escape. Watching at home results in far more distractions (phone usage being an easy one) and having the ability to pause a movie and get sidetracked is very easy. On the other hand, being at the theater creates an isolated and immersive experience that I just cannot get watching a movie at home. (This of course means if the audience has good theater etiquette and are not disruptive during the movie).
 
 There's a lot of really good points in here. Firstly, you're getting out of the house. Remember [Third Spaces](https://www.psychologytoday.com/au/blog/live-long-and-prosper/201503/comforting-third-spaces)?
 
@@ -105,7 +105,7 @@ At this point, I'm thinking about how I spend my free time. If I had something l
 
 > **cpowell342** - I'd say home TV usage has gone down slightly but not majorly. Still watch some stuff at home but probably not quite as much.
 
-> **hksrevenge** - Before subscribing to RU I barely watched movies on my at home TV. Having the RU membership just provided more reason to see a movie in theaters than to wait for a streaming release. I do continue to watch my shows though as frequently as I did previously.
+> **chefremyguini** - Before subscribing to RU I barely watched movies on my at home TV. Having the RU membership just provided more reason to see a movie in theaters than to wait for a streaming release. I do continue to watch my shows though as frequently as I did previously.
 
 Everyone confirmed that their home TV usage declined or stayed the same (often not being very high to begin with). Just practically speaking, I don't know how I could see 1 movie a day in theaters (or even 4 per week) without my home TV usage going down.
 
