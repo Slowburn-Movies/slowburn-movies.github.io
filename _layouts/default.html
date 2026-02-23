@@ -44,7 +44,17 @@
 
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ site.title }} - {{ page.title }}</title>
+  <title>
+  {% if page.type == "review" %}
+    {{ page.title }} ({{ page.release_year }}) Review | {{ site.title }}
+  {% else %}
+    {% if page.title %}
+      {{ page.title }} | {{ site.title }}
+    {% else %}
+      {{ site.title }}
+    {% endif %}
+  {% endif %}
+  </title>
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

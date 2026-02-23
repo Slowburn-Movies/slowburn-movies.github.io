@@ -5,7 +5,7 @@ layout: default
 <hgroup>
   <span class="type-badge badge-{{ page.type | downcase }}">{{ page.type | capitalize }}</span>
   {% if page.type == "review" %}
-    <h1>{{ page.title }} ({{page.release_year}})</h1>
+    <h1><cite>{{ page.title }}</cite> ({{page.release_year}}) Review</h1>
   {% else %}
     <h1>{{ page.title }}</h1>
   {% endif %}
