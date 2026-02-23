@@ -7,7 +7,7 @@ author: jeff
 
 title: "The Puffy Chair: 20th Anniversary Screening and Q&A"
 subtitle: "Mark Duplass and Katie Aselton visit Las Vegas for the re-release event"
-description: "The Puffy Chair was re-released by Ink Films and shown at the Beverly Theater in Las Vegas on February 21st 2026. We cover the event and what it was like."
+description: "The Puffy Chair was re-released by Ink Films and shown at the Beverly Theater with a question and answer from Mark Duplass and Katie Aselton in Las Vegas on February 21st 2026. We cover the event and what it was like."
 
 image: /assets/images/the-puffy-chair-q-and-a.webp
 image_alt: "Katie Aselton and Mark Duplass sitting on a couch in front of the movie screen, answering question."
@@ -16,7 +16,7 @@ image_caption: "Katie Aselton and Mark Duplass answering questions."
 
 When <cite>The Puffy Chair</cite> wrapped filming 20 years ago, the Duplass Brothers saw it as a scrappy, low budget, minimalistic film, and an obvious labour of love. They slept and worked in the very van that Mark Duplass drives in the film, and the entire film is colored by the real-life relationship and the natural  improvisation of Mark Duplass and his then girlfriend, Katie Aselton. The film had an impossibly small crew consisting mainly of the cast, and of course, Mark's brother Jay Duplass behind the camera. 
 
-The reception to the film, however, was anything but small or scrappy, and the film (and the Duplass Brothers) received a sudden mass of accolades and notoriety. More importantly, the success of <cite>The Puffy Chair</cite> helped to legitimize mumblecore films' aesthetic and tactics as a viable strategy to actually make a living from film. <cite>The Puffy Chair</cite> inspired an entire generation of filmmakers to pick up whatever shitty camera and mic they could afford,  and to go out and make something- anything- that they were passionate about. 
+The reception to the film, however, was anything but small or scrappy, and the film (and the Duplass Brothers) received a sudden mass of accolades and notoriety. More importantly, the success of <cite>The Puffy Chair</cite> helped to legitimize mumblecore films' aesthetic and tactics as a viable strategy to actually make a living from film. <cite>The Puffy Chair</cite> inspired an entire generation of filmmakers to pick up whatever shitty camera and mic they could afford,  and to go out and make something- *anything*- that they were passionate about. 
 
 Collaborators like Greta Gerwig, and prospective film makers like the Safdie brothers, were clearly inspired by the early days of mumblecore, and <cite>The Puffy Chair</cite> was really a massive inspiration to basically anyone with an empty wallet and a dream. Without <cite>The Puffy Chair</cite>, a momentous film like <cite>Francis Ha</cite> may never have gotten the funding it needed to even begin shooting. 
 
@@ -43,9 +43,9 @@ Mark told the audience that filming <cite>The Puffy Chair</cite> was the freest 
 
 > So this was made for about $10,000 to $15,000, roughly. Of course, it gets more expensive when you go to Sundance, you have to do all that stuff without production and getting it done. So for <cite>Baghead</cite>, Katie and I moved to LA, we got our agents, and it was a little easier to get writing and directing work than it was for us to get acting work, for whatever reason.
 
-> Jay and I signed a blind deal with Universal to write a script that paid us $100,000. Holy shit. So it was like, immediately, what do you do? We gotta blow this on another project! 
+> Jay and I signed a blind deal with Universal to write a script that paid us $100,000. *Holy shit*. So it was like, immediately, what do you do? We gotta blow this on another project! 
 
-> So we wrote <cite>Baghead</cite>, well, we had a couple of studio movies in development, one of them was <cite>Cyrus</cite>, and I was like, I can make this for $50,000 where everybody gets maybe a little bit, and I could use some of this Universal money to pay for it. 
+> So we wrote <cite>Baghead</cite>, well, we had a couple of studio movies in development, one of them was <cite>Cyrus</cite>, and I was like, I can make this for $50,000 where everybody gets *maybe* a little bit, and I could use some of this Universal money to pay for it. 
 
 > Everybody in the industry really responded to us as a team after <cite>The Puffy Chair</cite>, and everybody was like, 'we want to fund the next movie, we want to fund it!'.
 
@@ -53,11 +53,11 @@ Mark told the audience that filming <cite>The Puffy Chair</cite> was the freest 
 
 > I'll give them all the producer credits, I'll make them look cool, pictures on the red carpet, but I gotta do the thing [maintain creative control]. And then all- I mean, like 15 people came flying in. I was like, yes, of course, of course.
 
-> I Started making phone calls, one by one. [I thought] Absolutely, just cut us the check. They just kept saying the same thing, "...well, there's just this one thing about the ending, can we change that?" and we just went, "nope".
+> I started making phone calls, one by one. [I thought] Absolutely, *just cut us the check*. They just kept saying the same thing, "...well, there's just this *one thing* about the ending, can we change that?" and we just went, "nope".
 
-> Then it was, "but would you consider casting this person? She's an actress on the WB". We said "nope". It just kept coming and kept coming, so we literally couldn't find any financier who would do what we wanted, so we paid for it ourselves. Then I was like, ahh, we can't live without paying ourselves. And then we brought it to Sundance, and we sold it for like a high six-figure deal.
+> Then it was, "but would you consider casting *this* person? She's an actress on the WB". We said "nope". It just kept coming and kept coming, so we literally couldn't find any financier who would do what we wanted, so we paid for it ourselves. Then I was like, *ahh, we can't live without paying ourselves*. And then we brought it to Sundance, and we sold it for like a high six-figure deal.
 
-> And in that moment, we sort of realized like- oh, this actually might be better- to own our own stuff. And I kind of precipitated that model going forward- to try to pay for things ourselves. 
+> And in that moment, we sort of realized like- oh, this actually might be better- to *own* our own stuff. And I kind of precipitated that model going forward- to try to pay for things ourselves. 
 
 **Interviewer**: "And did you give your parents back the 15 grand [for financing <cite>The Puffy Chair</cite>]?" 
 
