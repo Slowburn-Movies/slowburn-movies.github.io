@@ -73,4 +73,36 @@ layout: default
 {% endfor %}
 {% endif %}
 
+{% if page.type == "review" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "itemReviewed": {
+    "@type": "Movie",
+    "name": {{ page.title | jsonify }},
+    "datePublished": {{ page.release_year | jsonify }}{% if page.image %},
+    "image": {{ page.image | absolute_url | jsonify }}{% endif %}
+  },
+  "author": {
+    "@type": "Person",
+    "name": {% if author_data %}{{ author_data.name | jsonify }}{% else %}{{ page.author | jsonify }}{% endif %}{% if author_data and author_data.url %},
+    "url": {{ author_data.url | absolute_url | jsonify }}{% endif %}
+  },
+  "datePublished": {{ page.date | date: "%Y-%m-%d" | jsonify }},
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": {{ page.rating | jsonify }},
+    "bestRating": "5",
+    "worstRating": "1"
+  }{% if page.youtube_id %},
+  "video": {
+    "@type": "VideoObject",
+    "name": {{ page.title | append: " Review" | jsonify }},
+    "embedUrl": {{ "https://www.youtube.com/embed/" | append: page.youtube_id | jsonify }},
+    "url": {{ "https://www.youtube.com/watch?v=" | append: page.youtube_id | jsonify }}
+  }{% endif %}
+}
+</script>
+{% endif %}
 
