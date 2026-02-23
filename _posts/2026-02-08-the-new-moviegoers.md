@@ -6,10 +6,9 @@ type: feature
 date: 2026-02-08
 author: cale
 
-title: "How to become a Moviegoer"
-subtitle: "The New Normal for Theater Subscription Power Users"
+title: "The New Moviegoers"
+subtitle: "Learning about the Theater Subscription lifestyle from Power Users"
 description: "Slowburn speaks to Regal Unlimited subscribers about their experience of using the service and how it has affected their view of the theater vs watching at home."
-
 
 image: /assets/images/edward-hopper-new-york-movie.webp
 image_alt: "A female usher standing pensively on the edge of a movie theater while a movie is playing"
