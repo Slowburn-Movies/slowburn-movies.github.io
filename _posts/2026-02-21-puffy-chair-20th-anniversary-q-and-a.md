@@ -1,6 +1,5 @@
 ---
 published: true
-hidden: true
 type: event
 date: 2026-02-21
 author: jeff
