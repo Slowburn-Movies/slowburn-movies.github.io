@@ -5,7 +5,8 @@ type: event
 date: 2026-02-21
 author: jeff
 
-title: "The Puffy Chair: 20th Anniversary Screening and Q&A with Mark Duplass and Katie Aselton"
+title: "The Puffy Chair: 20th Anniversary Screening and Q&A"
+subtitle: "Mark Duplass and Katie Aselton visit Las Vegas for the re-release event"
 description: "The Puffy Chair was re-released by Ink Films and shown at the Beverly Theater in Las Vegas on February 21st 2026. We cover the event and what it was like."
 
 image: /assets/images/the-puffy-chair-q-and-a.webp
