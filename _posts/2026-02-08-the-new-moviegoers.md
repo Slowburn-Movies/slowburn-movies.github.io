@@ -61,11 +61,11 @@ Both AMC and Regal have been placing a heavy emphasis on re-releases of older mo
 
 > **bdougherty** - I've been able to see a bunch of movies I hadn't seen (but should have). It's kind of a lot though and I wish that they'd do fewer movies and schedule them across multiple days.
 
-> **JakeAscotia** - There's a ton of classics I haven't seen before that it's been nice catching on the big screen. Plus, it's introduced me to a number of movies I never would've looked at. Like Steel Magnolias played in November and it's now one of my favorite movies of all time.
+> **JakeAscotia** - There's a ton of classics I haven't seen before that it's been nice catching on the big screen. Plus, it's introduced me to a number of movies I never would've looked at. Like <cite>Steel Magnolias</cite> played in November and it's now one of my favorite movies of all time.
 
 > **netanalyze** - Older releases have been a boon for me. Over the years I typically have hit up the blockbusters, superhero type movies. Often smaller releases were never on my radar. Additionally kids and family had priorities when a lot of these re-releases originally came out. The [Regal FEBS schedule](https://www.reddit.com/r/RegalUnlimited/comments/1q7hsxq/febs_february_series_megathread/) was super exciting for me as just about all of them I have not seen before, let alone in the theater. I have seen 14 of the current 18 FEBS releases, with a few more this weekend. [Regal MARS](https://www.reddit.com/r/RegalUnlimited/comments/1qki92g/march_series_megathread/) is lining up some Best Picture movies I missed on original release.
 
-> **Business_Coffee_9421** - I've seen Sunset Boulevard, The Creature From the Black Lagoon, and other classics. I definitely think this is a good thing.
+> **Business_Coffee_9421** - I've seen <cite>Sunset Boulevard</cite>, <cite>The Creature From the Black Lagoon</cite>, and other classics. I definitely think this is a good thing.
 
 > **hksrevenge** - Unfortunately my home theater hasn't got a majority of the monthly re-releases which results in me having to travel to a nearby state to see them. I do hope they continue to do these re-releases with more theaters getting them, more showtime availability, and perhaps instead of showing them for one day; doing two days for people who truly cannot make their life/work/school schedule work for the showtimes. Otherwise I am very happy with the re-releases.
 
@@ -73,7 +73,7 @@ I definitely sympathize with bdougherty and hksrevenge that these older re-relea
 
 ## Why the theater?
 
-In the modern mindset of home theater owners, many of these re-releases wouldn't warrant a full "theater experience". Do I really need to see She's All That on the big screen? So for RU subscribers, what is the biggest difference between seeing something in theaters vs seeing it at home?
+In the modern mindset of home theater owners, many of these re-releases wouldn't warrant a full "theater experience". Do I really need to see <cite>She's All That</cite> on the big screen? So for RU subscribers, what is the biggest difference between seeing something in theaters vs seeing it at home?
 
 > **bdougherty** - That I'm out of the house lol. I've always loved the theaters, but I use a Vision Pro at home to watch movies and that is pretty great too. Since I've had Unlimited and am going to the theater so much, I've met some other people who also have Unlimited and it's cool being able to discuss movies with them. Also I've become friendly with some employees at one of the theaters, and it's cool to talk to them about movies too.
 
@@ -87,10 +87,15 @@ There's a lot of really good points in here. Firstly, you're getting out of the 
 
 Secondly, a home theater can never turn you into a captive audience. In a theater, you don't have control. You either sit there or you walk out. Psychologically, this is a powerful situation for a viewer. 
 
-I recently saw The Fellowship of the Ring in theaters, [thanks to Fathom Entertainment](https://www.fathomentertainment.com/news/lord-of-the-rings-trilogy-25th-anniversary-event-rings-up-11m-in-worldwide-box-office/). I've seen this movie probably 40 times since I was 11 years old, but I never saw it in the theaters. I expected the theatrical experience to be visually impressive, but I was mostly surprised by something else. I felt real fear. When watching a movie with any kind of horror or thrill to it at home, there's always the option to pause, fast forward, etc. Because there is always this escape hatch, things are just less scary at home. Even horror as mild as Lord of the Rings gets ratcheted up in the theater though.
+I recently saw <cite>The Fellowship of the Ring</cite> in theaters, [thanks to Fathom Entertainment](https://www.fathomentertainment.com/news/lord-of-the-rings-trilogy-25th-anniversary-event-rings-up-11m-in-worldwide-box-office/). I've seen this movie probably 40 times since I was 11 years old, but I never saw it in the theaters. I expected the theatrical experience to be visually impressive, but I was mostly surprised by something else. I felt real fear. When watching a movie with any kind of horror or thrill to it at home, there's always the option to pause, fast forward, etc. Because there is always this escape hatch, things are just less scary at home. Even horror as mild as <cite>Lord of the Rings</cite> gets ratcheted up in the theater though.
 
 
-Finally, I would add myself that the theater is a shared experience. I'm reminded of the Wayne's World poster that reads "You'll laugh. You'll cry. You'll hurl." And you'll do it together.
+Finally, I would add myself that the theater is a shared experience. I'm reminded of the <cite>Wayne's World</cite> poster that reads "You'll laugh. You'll cry. You'll hurl." And you'll do it together.
+
+<figure>
+  <img src="/assets/images/waynes-world-poster.webp" alt="Wayne Campbell and Garth Algar from Wayne's World flying off of their couch above the planet Earth below.">
+  <figcaption><cite>Wayne's World</cite> poster.</figcaption>
+</figure>
 
 ## Home TV
 
@@ -126,7 +131,7 @@ Downgrading my home setup and combining that with an RU subscription does sound 
 
 The differences in answers on the last question makes me think that there are different mentalities when it comes to what they're looking for out of a theater experience. 
 
-Typically, people reserve the theaters for a massive film like [Avatar](/the-appeal-of-pandora), but they'll watch most other movies at home.
+Typically, people reserve the theaters for a massive film like <cite>[Avatar](/the-appeal-of-pandora)</cite>, but they'll watch most other movies at home.
 
 How do these users choose when to go to the theater vs when to watch at home?
 
@@ -136,4 +141,4 @@ How do these users choose when to go to the theater vs when to watch at home?
 
 > **hksrevenge** - If I ever decide to watch a movie at home, it would be due to the inability and time to see in theaters. In most cases those would be movies not showing near me or very, very limited in showings and there is just no way I can see it at the theaters.
 
-I'd like to thank each of these kind RU subscribers for giving their perspectives and insights. 
+I'd like to thank each of these kind RU subscribers for giving their perspectives and insights.
