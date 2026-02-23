@@ -127,18 +127,4 @@ There were a lot of mixed responses here. While many still enjoy a good home set
 
 Downgrading my home setup and combining that with an RU subscription does sound like a fun experiment. As netanalyze also pointed out, maybe a simple iPhone is the new "home theater" setup anyway.
 
-## Theater vs Home
-
-The differences in answers on the last question makes me think that there are different mentalities when it comes to what they're looking for out of a theater experience. 
-
-Typically, people reserve the theaters for a massive film like <cite>[Avatar](/the-appeal-of-pandora)</cite>, but they'll watch most other movies at home.
-
-How do these users choose when to go to the theater vs when to watch at home?
-
-> **bdougherty** - For me it's basically: if it's in theaters, I'll watch it there. I guess I don't really think of anything as bad for theaters, except maybe movies that I know will have terrible audiences, but for those I try to just go at times where they won't be there. IMAX movies with expanded aspect ratio are definitely a priority for me to see in theaters.
-
-> **cpowell342** - In general my viewing doesn't necessarily differ between home and theaters. If there's a movie I'm really interested in that is going to be in theaters I will do my best to see it in theaters just because I know I'll likely enjoy it more than I would watching it at home later on.
-
-> **hksrevenge** - If I ever decide to watch a movie at home, it would be due to the inability and time to see in theaters. In most cases those would be movies not showing near me or very, very limited in showings and there is just no way I can see it at the theaters.
-
 I'd like to thank each of these kind RU subscribers for giving their perspectives and insights.
