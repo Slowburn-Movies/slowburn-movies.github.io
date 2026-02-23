@@ -1,21 +1,16 @@
 ---
-published: false
+published: true
+hidden: true
 type: event
 date: 2026-02-21
 author: jeff
 
 title: "The Puffy Chair: 20th Anniversary Screening and Q&A with Mark Duplass and Katie Aselton"
-subtitle: "Fantastically paced and surprisingly witty comedic drama"
-release_year: 2026
+description: "The Puffy Chair was re-released by Ink Films and shown at the Beverly Theater in Las Vegas on February 21st 2026. We cover the event and what it was like."
 
-rating: 4
-
-comment_link: https://embed.letterboxd.com/jeffdelay/film/how-to-make-a-killing-2026/ 
-view_link: https://a24films.com/films/how-to-make-a-killing
-
-image: /assets/images/how-to-make-a-killing.webp
-image_alt: "Glen Powell in a neon lit night club wearing a disguise."
-image_caption: "Glen Powell in How to Make a Killing."
+image: /assets/images/the-puffy-chair-q-and-a.webp
+image_alt: "Katie Aselton and Mark Duplass sitting on a couch in front of the movie screen, answering question."
+image_caption: "Katie Aselton and Mark Duplass answering questions."
 ---
 
 When <cite>The Puffy Chair</cite> wrapped filming 20 years ago, the Duplass Brothers saw it as a scrappy, low budget, minimalistic film, and an obvious labour of love. They slept and worked in the very van that Mark Duplass drives in the film, and the entire film is colored by the real-life relationship and the natural  improvisation of Mark Duplass and his then girlfriend, Katie Aselton. The film had an impossibly small crew consisting mainly of the cast, and of course, Mark's brother Jay Duplass behind the camera. 
@@ -24,7 +19,12 @@ The reception to the film, however, was anything but small or scrappy, and the f
 
 Collaborators like Greta Gerwig, and prospective film makers like the Safdie brothers, were clearly inspired by the early days of mumblecore, and <cite>The Puffy Chair</cite> was really a massive inspiration to basically anyone with an empty wallet and a dream. Without <cite>The Puffy Chair</cite>, a momentous film like <cite>Francis Ha</cite> may never have gotten the funding it needed to even begin shooting. 
 
-Now, 20 years later, we're sitting in a theater with about 100 other people in preparation to rewatch <cite>The Puffy Chair</cite>, which was lovingly re-released by Beverly Theater. 
+Now, 20 years later, we're sitting in a theater with about 100 other people in preparation to rewatch <cite>The Puffy Chair</cite>, which was lovingly re-released by [Ink Films](https://www.inkfilms.com) and shown at the [Beverly Theater](https://www.thebeverlytheater.com/) in downtown Las Vegas.
+
+<figure>
+  <img src="/assets/images/slowburn-at-the-puffy-chair.webp" alt="Slowburn contributor at sitting in a replica of the red puffy chair from the film, which is set up on a red carpet photo area in front of the theater.">
+  <figcaption>Slowburn at The Puffy Chair event.</figcaption>
+</figure>
 
 Seeing the film again for the first time in over a decade, I was reminded of what made me such a big fan of the Duplass Brothers to begin with; that scrappy sincerity, and their clear love for their flawed characters shown bright on the screen, and an entire audience of young people and prospective filmmakers were now watching the film for the first time.
 
@@ -36,7 +36,7 @@ Mark and his wife went into the intimate details relating to the creation of the
 
 Mark told the audience that filming <cite>The Puffy Chair</cite> was the freest and most creatively in-control he's ever been while crafting a film. He followed this up by describing his experience with their most commercially successful film, <cite>Cyrus</cite>, as being a "dogfight" in terms of creative control. He warned future filmmakers in the audience about the strings that always come with funding, so we ended up asking a question about their follow up to <cite>The Puffy Chair</cite>, 2008's <cite>Baghead</cite>.
 
-**Slowburn**: "Mark, you mentioned the creative control and freedom you had as a small crew when you filmed <cite>Puffy Chair</cite>, and your struggle with producer meddling while shooting <cite>Cyrus</cite>- when you filmed <cite>Baghead</cite> a few years after <cite>Puffy Chair</cite> blew up, where you able to maintain the same style of small crew and creative control as with <cite>Puffy Chair</cite>?" 
+**Slowburn**: "Mark, you mentioned the creative control and freedom you had as a small crew when you filmed <cite>Puffy Chair</cite>, and your struggle with producer meddling while shooting <cite>Cyrus</cite>- when you filmed <cite>Baghead</cite> a few years after <cite>Puffy Chair</cite> blew up, were you able to maintain the same style of small crew and creative control as with <cite>Puffy Chair</cite>?" 
 
 **Mark Duplass**: 
 
@@ -50,14 +50,12 @@ Mark told the audience that filming <cite>The Puffy Chair</cite> was the freest 
 > Then it was, "but would you consider casting this person? She's an actress on the WB". We said "nope". It just kept coming and kept coming, so we literally couldn't find any financier who would do what we wanted, so we paid for it ourselves. Then I was like, ahh, we can't live without paying ourselves. And then we brought it to Sundance, and we sold it for like a high six-figure deal.
 > And in that moment, we sort of realized like- oh, this actually might be better- to own our own stuff. And I kind of precipitated that model going forward- to try to pay for things ourselves. 
 
-
 **Interviewer**: "And did you give your parents back the 15 grand [for financing <cite>The Puffy Chair</cite>]?" 
-
 
 **Mark**: 
 
 > We never paid them back. Yeah. They'll be the first ones to tell you that. No, they were great about it [laughs]. 
 
-We at Slowburn were able to film the first 10 minutes of the Q&A- the part of the Q&A that was most related to <cite>The Puffy Chair</cite>- and this will be uploaded to Slowburn.mov fairly soon. 
+Ink Films is planning more cities for the re-release and Q&A tour, so [follow them](https://www.instagram.com/inkfilmspresents) to keep up with where they're headed next.
 
 Thank you all for reading, and go enjoy some Duplass films!
