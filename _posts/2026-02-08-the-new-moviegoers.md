@@ -7,7 +7,7 @@ date: 2026-02-08
 author: cale
 
 title: "The New Moviegoers"
-subtitle: "Learning about the Theater Subscription lifestyle from Power Users"
+subtitle: "Learning about the Theater Subscription Lifestyle from Power Users"
 description: "Slowburn speaks to Regal Unlimited subscribers about their experience of using the service and how it has affected their view of the theater vs watching at home."
 
 image: /assets/images/edward-hopper-new-york-movie.webp
