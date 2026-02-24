@@ -10,7 +10,7 @@ release_year: 2026
 
 rating: 3.5
 
-comment_link: https://embed.letterboxd.com/jeffdelay/film/the-moment-2026/ 
+comment_link: https://letterboxd.com/jeffdelay/film/the-moment-2026/ 
 view_link: https://a24films.com/films/the-moment
 
 image: /assets/images/the-moment.webp

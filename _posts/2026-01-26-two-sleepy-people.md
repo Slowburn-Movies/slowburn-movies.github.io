@@ -10,7 +10,7 @@ release_year: 2025
 
 rating: 4
 
-comment_link: https://embed.letterboxd.com/jeffdelay/film/two-sleepy-people/ 
+comment_link: https://letterboxd.com/jeffdelay/film/two-sleepy-people/ 
 view_link: https://www.twosleepypeople.com/
 
 image: /assets/images/two-sleepy-people.webp

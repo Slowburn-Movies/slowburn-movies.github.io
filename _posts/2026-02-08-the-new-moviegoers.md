@@ -39,7 +39,7 @@ Just to get the bonafides out of the way, I will introduce our interviewees with
 
 > **cpowell342** - 16 last month
 
-> **[chefremyguini](https://embed.letterboxd.com/chefremyguini/)** - around 10. I'm sure though if I had RU in summer of 2025 last year it would have been around 20 or more.
+> **[chefremyguini](https://letterboxd.com/chefremyguini/)** - around 10. I'm sure though if I had RU in summer of 2025 last year it would have been around 20 or more.
 
 Now, all of these numbers are nothing to scoff at. 10 movies in a month is still 2-3 movies per week. 57 though is 2 movies per *day*. 
 

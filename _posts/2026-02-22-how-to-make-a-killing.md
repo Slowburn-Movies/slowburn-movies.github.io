@@ -10,7 +10,7 @@ release_year: 2026
 
 rating: 4
 
-comment_link: https://embed.letterboxd.com/jeffdelay/film/how-to-make-a-killing-2026/ 
+comment_link: https://letterboxd.com/jeffdelay/film/how-to-make-a-killing-2026/ 
 view_link: https://a24films.com/films/how-to-make-a-killing
 
 image: /assets/images/how-to-make-a-killing.webp
