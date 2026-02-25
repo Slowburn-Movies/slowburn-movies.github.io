@@ -73,36 +73,39 @@ layout: default
 {% endfor %}
 {% endif %}
 
-{% if page.type == "review" %}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Review",
-  "itemReviewed": {
-    "@type": "Movie",
-    "name": {{ page.title | jsonify }},
-    "datePublished": {{ page.release_year | jsonify }}{% if page.image %},
-    "image": {{ page.image | absolute_url | jsonify }}{% endif %}
-  },
+  "@type": "{% if page.type == "review" %}Review{% else %}Article{% endif %}",
+  "headline": {{ page.title | jsonify }},
+  "datePublished": {{ page.date | date: "%Y-%m-%d" | jsonify }},
+  {% if page.image %}
+  "image": {{ page.image | absolute_url | jsonify }},
+  {% endif %}
   "author": {
     "@type": "Person",
     "name": {% if author_data %}{{ author_data.name | jsonify }}{% else %}{{ page.author | jsonify }}{% endif %}{% if author_data and author_data.url %},
     "url": {{ author_data.url | absolute_url | jsonify }}{% endif %}
-  },
-  "datePublished": {{ page.date | date: "%Y-%m-%d" | jsonify }},
+  }{% if page.type == "review" %},
+  "itemReviewed": {
+    "@type": "Movie",
+    "name": {{ page.title | jsonify }}{% if page.release_year %},
+    "datePublished": {{ page.release_year | jsonify }}{% endif %}{% if page.image %},
+    "image": {{ page.image | absolute_url | jsonify }}{% endif %}
+  }{% if page.rating %},
   "reviewRating": {
     "@type": "Rating",
     "ratingValue": {{ page.rating | jsonify }},
     "bestRating": "5",
     "worstRating": "1"
-  }{% if page.youtube_id %},
+  }{% endif %}{% endif %}{% if page.youtube_id %},
   "video": {
     "@type": "VideoObject",
-    "name": {{ page.title | append: " Review" | jsonify }},
+    "name": {{ page.title | jsonify }},
     "embedUrl": {{ "https://www.youtube.com/embed/" | append: page.youtube_id | jsonify }},
-    "url": {{ "https://www.youtube.com/watch?v=" | append: page.youtube_id | jsonify }}
+    "url": {{ "https://www.youtube.com/watch?v=" | append: page.youtube_id | jsonify }},
+    "uploadDate": {{ page.date | date: "%Y-%m-%d" | jsonify }}
   }{% endif %}
 }
 </script>
-{% endif %}
 
