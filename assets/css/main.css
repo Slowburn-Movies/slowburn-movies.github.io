@@ -287,11 +287,11 @@ a {
 
 .archive-item {
   display: grid;
-  grid-template-columns: 100px 80px 1fr;
+  grid-template-columns: 100px 1fr; /* Two columns: Date and Content */
   gap: 1.5rem;
   padding: 1.2rem 0;
   border-bottom: 1px solid var(--badge-bg);
-  align-items: center;
+  align-items: start;
 }
 
 .archive-item:last-child { border-bottom: none; }
@@ -357,12 +357,13 @@ blockquote {
 
   /* Your Original Layout Fixes */
   .archive-item {
-    grid-template-columns: 80px 1fr; 
+    grid-template-columns: 75px 1fr; 
     gap: 1rem;
+    align-items: start;
   }
   
   .archive-date { 
-    display: none; 
+    font-size: 0.75rem;   
   }
 
   .featured-grid {
