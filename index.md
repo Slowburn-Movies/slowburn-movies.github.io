@@ -3,8 +3,8 @@ layout: default
 ---
 
 <section class="featured-grid">
-  {% assign featured_posts = site.posts | where_exp: "item", "item.hidden != true" | limit: 6 %}
-  {% for post in featured_posts %}
+  {% assign featured_posts = site.posts | where_not: "hidden", true %}
+  {% for post in featured_posts limit: 6 %}
       <a href="{{ post.url | relative_url }}" class="featured-item">
         <div class="featured-image-container">
           {% if post.image %}
