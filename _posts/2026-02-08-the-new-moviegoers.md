@@ -1,6 +1,6 @@
 ---
 published: true
-hidden: true
+hidden: false
 
 type: feature
 date: 2026-02-08
