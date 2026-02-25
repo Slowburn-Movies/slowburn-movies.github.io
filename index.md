@@ -3,47 +3,30 @@ layout: default
 ---
 
 <section class="featured-grid">
-  {% for post in site.posts limit: 3 %}
-    {% unless post.hidden %}
+  {% assign featured_posts = site.posts | where_exp: "item", "item.hidden != true" | limit: 6 %}
+  {% for post in featured_posts %}
       <a href="{{ post.url | relative_url }}" class="featured-item">
-        {% if post.image %}
-          <img src="{{ post.image | relative_url }}" class="featured-image" alt="{{ post.image_alt }}">
-        {% elsif post.youtube_id %}<img src="https://img.youtube.com/vi/{{ post.youtube_id }}/maxresdefault.jpg" class="featured-image" alt="{{ post.title }} video"> 
-        {% else %}
-          <div class="featured-image" style="background: var(--badge-bg);"></div>
-        {% endif %}
+        <div class="featured-image-container">
+          {% if post.image %}
+            <img src="{{ post.image | relative_url }}" class="featured-image" alt="{{ post.image_alt }}" loading="lazy">
+          {% elsif post.youtube_id %}
+            <img src="https://img.youtube.com/vi/{{ post.youtube_id }}/maxresdefault.jpg" class="featured-image" alt="{{ post.title }} video" loading="lazy"> 
+          {% else %}
+            <div class="featured-image" style="background: var(--badge-bg);"></div>
+          {% endif %}
+        </div>
+        
         <span class="type-badge badge-{{ post.type | downcase }}">{{ post.type | capitalize }}</span>
-        <h2 style="margin: 0.5rem 0 0.2rem 0;">{{ post.title }}</h2>
+        <h2 class="featured-title">{{ post.title }}</h2>
+        
         {% if post.subtitle %}
           <p class="featured-subtitle">{{ post.subtitle }}</p>
         {% endif %}
       </a>
-    {% endunless %}
   {% endfor %}
 </section>
 
-<hr style="border: 0; border-top: 1px solid var(--badge-bg); margin-bottom: 2rem;">
+<div style="text-align: center; margin-top: 2rem;">
+  <a href="{{ '/posts/' | relative_url }}" class="filter-btn" style="text-decoration: none; display: inline-block;">View All Posts</a>
+</div>
 
-<ul class="editorial-archive">
-  {% for post in site.posts offset: 3 limit: 7 %}
-    {% unless post.hidden %}
-      <li class="archive-item">
-        <div class="archive-date">{{ post.date | date: "%b %d %y" }}</div>
-        <div class="archive-image">
-          <a href="{{ post.url | relative_url }}">
-            {% if post.image %}<img src="{{ post.image | relative_url }}" class="archive-thumb" alt="{{ post.image_alt }}">
-            {% elsif post.youtube_id %}<img src="https://img.youtube.com/vi/{{ post.youtube_id }}/hqdefault.jpg" class="archive-thumb" alt="{{ post.title }} video"> 
-            {% else %}<div class="archive-thumb" style="background: var(--badge-bg);"></div>{% endif %}
-          </a>
-        </div>
-        <div class="archive-content">
-          <h3 class="archive-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
-          {% if post.subtitle %}
-            <p class="archive-subtitle">{{ post.subtitle }}</p>
-          {% endif %}
-          <span class="type-badge badge-{{ post.type | downcase }}" style="font-size: 0.7rem;">{{ post.type | capitalize }}</span>
-        </div>
-      </li>
-    {% endunless %}
-  {% endfor %}
-</ul>
