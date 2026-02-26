@@ -30,9 +30,14 @@ Seeing the film again for the first time in over a decade, I was reminded of wha
 
 After the credits rolled, Mark Duplass and Katie Aselton came out and discussed their early career, as well as the process of how The Puffy Chair came to be. The discussion was guided by Mike Plante, the Senior Programmer for Short Film at Sundance Film Festival.
 
-<details class="clamped-details">
+<details>
   <summary>
     <span class="summary-btn">Read the transcript of the first 10 minutes of Q&A</span>
+    
+    <div class="transcript-preview">
+      <p><strong>Katie Aselton:</strong> This is so cool!</p>
+      <p><strong>Mark Duplass:</strong> Oh, wow! What a radical act, you all came to see a movie in a movie theater that you could have streamed online! This is rebellion. You guys are fucking awesome.</p>
+    </div>
   </summary>
   <!-- <div class="video-inline">
     <iframe
@@ -44,8 +49,6 @@ After the credits rolled, Mark Duplass and Katie Aselton came out and discussed 
     </iframe>
   </div> -->
   <div class="transcript">
-    <p><strong>Katie Aselton:</strong> This is so cool!</p>
-    <p><strong>Mark Duplass:</strong> Oh, wow! What a radical act, you all came to see a movie in a movie theater that you could have streamed online! This is rebellion. You guys are fucking awesome.</p>
     <p><strong>Mike Plante:</strong> You know, they actually want to ask: Is this anyone’s [in the audience] first time you've seen <cite>The Puffy Chair</cite>?</p>
     <p><em>(most of the audience raises their hands “yes”)</em></p>
     <p><strong>Mark:</strong> What?! What are you doing?! I'm so grateful.</p>
