@@ -23,13 +23,13 @@ But here we are 10 years later and pretty much all chains now have some equivale
 
 AMC A-Lister, Cinemark Movie Club, and the top dog of movie-going madness: Regal Unlimited.
 
-AMC A-Lister allows 4 movies per week. So in order for someone to truly get the most value from Regal Unlimited (RU), they'd need to see more than 16 movies per month. Seven users from [/r/RegalUnlimited](https://www.reddit.com/r/RegalUnlimited/) that achieved that threshold were kind enough to speak with me about their experiences.
+AMC A-Lister allows 4 movies per week. So in order for someone to truly get the most value from Regal Unlimited (RU), they'd need to see more than 16 movies per month. Seven users from [/r/RegalUnlimited](https://www.reddit.com/r/RegalUnlimited/){:rel="nofollow"} that achieved that threshold were kind enough to speak with me about their experiences.
 
 ## Power Level
 
 Just to get the bonafides out of the way, I will introduce our interviewees with their most movies seen in a month. 
 
-> **[bdougherty](https://letterboxd.com/bdougherty/)** - 57 with Unlimited (Jan 2026)
+> **[bdougherty](https://letterboxd.com/bdougherty/){:rel="nofollow"}** - 57 with Unlimited (Jan 2026)
 
 > **JakeAscotia** - Current top spot is August 2025 with 45
 
@@ -41,7 +41,7 @@ Just to get the bonafides out of the way, I will introduce our interviewees with
 
 > **cpowell342** - 16 last month
 
-> **[chefremyguini](https://letterboxd.com/chefremyguini/)** - around 10. I'm sure though if I had RU in summer of 2025 last year it would have been around 20 or more.
+> **[chefremyguini](https://letterboxd.com/chefremyguini/){:rel="nofollow"}** - around 10. I'm sure though if I had RU in summer of 2025 last year it would have been around 20 or more.
 
 Now, all of these numbers are nothing to scoff at. 10 movies in a month is still 2-3 movies per week. 57 though is 2 movies per *day*. 
 
@@ -65,7 +65,7 @@ Both AMC and Regal have been placing a heavy emphasis on re-releases of older mo
 
 > **JakeAscotia** - There's a ton of classics I haven't seen before that it's been nice catching on the big screen. Plus, it's introduced me to a number of movies I never would've looked at. Like <cite>Steel Magnolias</cite> played in November and it's now one of my favorite movies of all time.
 
-> **netanalyze** - Older releases have been a boon for me. Over the years I typically have hit up the blockbusters, superhero type movies. Often smaller releases were never on my radar. Additionally kids and family had priorities when a lot of these re-releases originally came out. The [Regal FEBS schedule](https://www.reddit.com/r/RegalUnlimited/comments/1q7hsxq/febs_february_series_megathread/) was super exciting for me as just about all of them I have not seen before, let alone in the theater. I have seen 14 of the current 18 FEBS releases, with a few more this weekend. [Regal MARS](https://www.reddit.com/r/RegalUnlimited/comments/1qki92g/march_series_megathread/) is lining up some Best Picture movies I missed on original release.
+> **netanalyze** - Older releases have been a boon for me. Over the years I typically have hit up the blockbusters, superhero type movies. Often smaller releases were never on my radar. Additionally kids and family had priorities when a lot of these re-releases originally came out. The [Regal FEBS schedule](https://www.reddit.com/r/RegalUnlimited/comments/1q7hsxq/febs_february_series_megathread/){:rel="nofollow"} was super exciting for me as just about all of them I have not seen before, let alone in the theater. I have seen 14 of the current 18 FEBS releases, with a few more this weekend. [Regal MARS](https://www.reddit.com/r/RegalUnlimited/comments/1qki92g/march_series_megathread/){:rel="nofollow"} is lining up some Best Picture movies I missed on original release.
 
 > **Business_Coffee_9421** - I've seen <cite>Sunset Boulevard</cite>, <cite>The Creature From the Black Lagoon</cite>, and other classics. I definitely think this is a good thing.
 
