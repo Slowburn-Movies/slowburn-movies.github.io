@@ -266,44 +266,92 @@ a {
   display: block;
 }
 
-details {
+/* 1. The Clamping Container */
+details.clamped-details {
   margin: 2.5rem 0;
   border-top: 1px solid var(--badge-bg);
   padding-top: 1.25rem;
+  
+  /* The "Peek" Logic: Shows a preview when closed */
+  display: block;
+  height: 12rem; 
+  overflow: hidden;
+  position: relative;
+  transition: height 0.3s ease;
 }
 
-details > summary {
+details.clamped-details[open] {
+  height: auto;
+}
+
+/* 2. The Interactive Toggle (Summary) */
+details.clamped-details > summary {
   font-family: monospace;
   font-weight: bold;
   font-size: 0.85rem;
   text-transform: uppercase;
-  color: var(--caption-color);
   cursor: pointer;
   list-style: none;
+  
+  /* Keeps summary opaque and above the clashing text below */
+  position: relative;
+  z-index: 10;
+  background: var(--bg-color); 
+  padding-bottom: 10px;
 }
 
-details > summary::-webkit-details-marker {
+/* Specific styling for the inner button span */
+.summary-btn {
+  color: var(--link-color);
+  transition: opacity 0.2s ease;
+}
+
+details.clamped-details > summary:hover .summary-btn {
+  text-decoration: underline;
+  opacity: 0.8;
+}
+
+details.clamped-details > summary::-webkit-details-marker {
   display: none;
 }
 
-details > summary::after {
-  content: " [+]";
+/* [+] and [–] indicators */
+details.clamped-details > summary::after { 
+  content: " [+]"; 
+  color: var(--caption-color); 
+}
+details.clamped-details[open] > summary::after { 
+  content: " [–]"; 
 }
 
-details[open] > summary::after {
-  content: " [–]";
+/* 3. The Fade-Out (Only when closed) */
+details.clamped-details:not([open])::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 6rem;
+  /* Fades into your background color */
+  background: linear-gradient(transparent, var(--bg-color)); 
+  pointer-events: none;
+  z-index: 5;
 }
 
+/* 4. The Transcript Styling */
 .transcript {
-  margin-top: 1.75rem;
+  margin-top: 0.5rem;
   padding: 1.5rem;
   background: var(--badge-bg);
   border-radius: 8px;
   font-size: 0.95rem;
   line-height: 1.65;
   color: var(--text-color);
+  border: 1px solid var(--badge-bg);
+  border-left: 3px solid var(--caption-color);
 }
 
+/* 5. Typography inside Transcript */
 .transcript strong {
   font-family: monospace;
   font-weight: bold;
@@ -319,14 +367,6 @@ details[open] > summary::after {
 .transcript em {
   font-style: italic;
   color: var(--caption-color);
-}
-
-.transcript {
-  border: 1px solid var(--border-color);
-}
-
-.transcript {
-  border-left: 3px solid var(--border-color);
 }
 
 /* Container: 2 columns instead of auto-fit for a "bigger" feel */

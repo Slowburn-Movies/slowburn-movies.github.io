@@ -30,8 +30,10 @@ Seeing the film again for the first time in over a decade, I was reminded of wha
 
 After the credits rolled, Mark Duplass and Katie Aselton came out and discussed their early career, as well as the process of how The Puffy Chair came to be. The discussion was guided by Mike Plante, the Senior Programmer for Short Film at Sundance Film Festival.
 
-<details>
-  <summary>Read the transcript of the first 10 minutes of Q&A</summary>
+<details class="clamped-details">
+  <summary>
+    <span class="summary-btn">Read the transcript of the first 10 minutes of Q&A</span>
+  </summary>
   <!-- <div class="video-inline">
     <iframe
       src="https://www.youtube.com/embed/YOUTUBE_ID"
