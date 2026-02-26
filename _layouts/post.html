@@ -76,9 +76,16 @@ layout: default
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "{% if page.type == "review" %}Review{% else %}Article{% endif %}",
+  "@type": "{% if page.type == 'review' %}Review{% else %}Article{% endif %}",
   "headline": {{ page.title | jsonify }},
+  {% if page.subtitle %}
+  "alternativeHeadline": {{ page.subtitle | jsonify }},
+  {% endif %}
+  "description": {{ page.description | default: page.excerpt | strip_html | normalize_whitespace | jsonify }},
   "datePublished": {{ page.date | date: "%Y-%m-%d" | jsonify }},
+  {% if page.last_modified_at %}
+  "dateModified": {{ page.last_modified_at | date: "%Y-%m-%d" | jsonify }},
+  {% endif %}
   {% if page.image %}
   "image": {{ page.image | absolute_url | jsonify }},
   {% endif %}
@@ -86,22 +93,28 @@ layout: default
     "@type": "Person",
     "name": {% if author_data %}{{ author_data.name | jsonify }}{% else %}{{ page.author | jsonify }}{% endif %}{% if author_data and author_data.url %},
     "url": {{ author_data.url | absolute_url | jsonify }}{% endif %}
-  }{% if page.type == "review" %},
+  },
+  {% if page.type == "review" %}
+  "reviewBody": {{ page.content | strip_html | jsonify }},
   "itemReviewed": {
     "@type": "Movie",
     "name": {{ page.title | jsonify }}{% if page.release_year %},
     "datePublished": {{ page.release_year | jsonify }}{% endif %}{% if page.image %},
     "image": {{ page.image | absolute_url | jsonify }}{% endif %}
-  }{% if page.rating %},
+  },
+  {% if page.rating %}
   "reviewRating": {
     "@type": "Rating",
     "ratingValue": {{ page.rating | jsonify }},
     "bestRating": "5",
     "worstRating": "1"
-  }{% endif %}{% endif %}{% if page.youtube_id %},
+  }{% endif %}{% else %}
+  "articleBody": {{ page.content | strip_html | jsonify }}{% endif %}{% if page.youtube_id %},
   "video": {
     "@type": "VideoObject",
     "name": {{ page.title | jsonify }},
+    "description": {{ page.description | default: page.excerpt | strip_html | jsonify }},
+    "thumbnailUrl": {{ page.image | absolute_url | jsonify }},
     "embedUrl": {{ "https://www.youtube.com/embed/" | append: page.youtube_id | jsonify }},
     "url": {{ "https://www.youtube.com/watch?v=" | append: page.youtube_id | jsonify }},
     "uploadDate": {{ page.date | date: "%Y-%m-%d" | jsonify }}
