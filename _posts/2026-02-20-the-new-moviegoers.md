@@ -29,7 +29,7 @@ AMC A-Lister allows 4 movies per week. So in order for someone to truly get the 
 
 Just to get the bonafides out of the way, I will introduce our interviewees with their most movies seen in a month. 
 
-> **bdougherty** - 57 with Unlimited (Jan 2026)
+> **[bdougherty](https://letterboxd.com/bdougherty/)** - 57 with Unlimited (Jan 2026)
 
 > **JakeAscotia** - Current top spot is August 2025 with 45
 
