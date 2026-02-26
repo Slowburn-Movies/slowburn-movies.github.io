@@ -28,7 +28,73 @@ Now, 20 years later, we're sitting in a theater with about 100 other people in p
 
 Seeing the film again for the first time in over a decade, I was reminded of what made me such a big fan of the Duplass Brothers to begin with; that scrappy sincerity, and their clear love for their flawed characters shown bright on the screen, and an entire audience of young people and prospective filmmakers were now watching the film for the first time.
 
-After the credits rolled, the audience broke into a mass of applause, and out came Mark Duplass and his wife and co-star Katie Aselton. 
+After the credits rolled, Mark Duplass and Katie Aselton came out and discussed their early career, as well as the process of how The Puffy Chair came to be. The discussion was guided by Mike Plante, the Senior Programmer for Short Film at Sundance Film Festival.
+
+<details>
+  <summary>Read the transcript of the first 10 minutes of Q&A</summary>
+  <!-- <div class="video-inline">
+    <iframe
+      src="https://www.youtube.com/embed/YOUTUBE_ID"
+      title="The Puffy Chair Q&A – First 10 Minutes"
+      loading="lazy"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen>
+    </iframe>
+  </div> -->
+  <div class="transcript">
+    <p><strong>Katie Aselton:</strong> This is so cool!</p>
+    <p><strong>Mark Duplass:</strong> Oh, wow! What a radical act — you all came to see a movie in a movie theater that you could have streamed online! This is rebellion. You guys are fucking awesome.</p>
+    <p><strong>Mike Plante:</strong> You know, they actually want to ask: Is this anyone’s first time you’ve seen <cite>The Puffy Chair</cite>?</p>
+    <p><em>(Most of the audience raises their hands.)</em></p>
+    <p><strong>Mark:</strong> What?! What are you doing?! I’m so grateful.</p>
+    <p><strong>Katie:</strong> Were you like, “What is this?! This film looks terrible!” … You’re right, it does! But oh, man. I’m proud of what we did.</p>
+    <p><strong>Mike:</strong> And also, Mark and Katie were jealous that you get to see this for the first time. Yeah, because it’s a movie that should be seen in theaters.</p>
+    <p>We had a screening in L.A., and it was the first time you had both seen it in quite a while.</p>
+    <p><strong>Katie:</strong> Since 2005.</p>
+    <p><strong>Mike:</strong> Do you have emotions?</p>
+    <p><strong>Katie:</strong> I was — I mean — I looked so good… even in low-res! My skin is… poreless!</p>
+    <p><strong>Mark:</strong> The whole night it was just a new comment every 30 seconds. We were laying in bed like, “I wasn’t even wearing any makeup!” Then you’d be quiet for a little bit.</p>
+    <p><strong>Katie:</strong> It was such a strange experience to make this movie because it really was just us making a movie and making it up as we went along in a lot of ways. And so when it premiered at Sundance and got bought and all these things, I was just like, “I don’t get it!”</p>
+    <p>I was so confused. I was like, “But this isn’t how movies are made…” It was very hard to process at the time. I think there was a little part of me that was like, it’s small, it’s tiny, it’s whatever — we didn’t know what we were doing!</p>
+    <p>And then I just watched it in L.A. We sat there and thought: Holy shit, it’s beautiful.</p>
+    <p>It really is. I’m really so proud of what we made. I couldn’t see it back when we made it because we were young and by ourselves.</p>
+    <p><strong>Mark:</strong> I was in an existential time machine watching it again. The people who play Josh’s parents — that’s my mom and dad. My dad is only seven years older than I am now.</p>
+    <p>Our oldest daughter is 18, an actress, and looks just like Katie did at 24 making this movie. I was in “everything, everywhere, all at once.” I was just like, “I don’t know what’s happening!”</p>
+    <p><strong>Mike:</strong> You had made some attempts at features before this. Were they more traditional — dolly shots, professional acting?</p>
+    <p><strong>Mark:</strong> Yeah. Our journey to get here was very circuitous.</p>
+    <p>You hear those stories from the ’90s — “Maxed out my credit cards and made my $30,000 16mm film.” That wasn’t us.</p>
+    <p>We worked as editors for a long time. We made a lot of bad 16mm short films.</p>
+    <p>Eventually we saved enough money and made a documentary for a Fortune 500 company in Austin called Carton. We under-bid them and said, “Give us $200,000 and we’ll make you a documentary.” They said, “That’s so cheap.”</p>
+    <p>We made it for $15,000.</p>
+    <p>Then we took a bunch of that money and made what was going to be the next great independent film — which was not <cite>The Puffy Chair</cite>. No one’s ever seen that one.</p>
+    <p>Yes, we were doing dolly shots. Scripted dialogue. The kinds of things we loved watching — like the Coen brothers — that sense of control and cinema.</p>
+    <p>We thought that’s what we were going to be. Turns out, we weren’t good at that.</p>
+    <p>One day in 2003, Jay and I grabbed our parents’ video camera and made a little improvised short in the kitchen. We sent it to Sundance.</p>
+    <p>In the first program screening it was like, “This looks like shit, sounds like shit, and is shit — reject it.”</p>
+    <p>But someone else was there — Mike Plante from Sundance. He saw something in it. It was maybe the ugliest, worst-sounding film to ever play Sundance.</p>
+    <p><strong>Katie:</strong> Maybe ever.</p>
+    <p><strong>Mark:</strong> Maybe ever! But he programmed us.</p>
+    <p>That short film created a new methodology for us: stumbling into the art, trusting our instincts, improvising, building something from what was in front of us.</p>
+    <p>That chase led us to <cite>The Puffy Chair</cite>. Seven of us total — cast and crew. The van was the production vehicle and the picture vehicle.</p>
+    <p>I was a musician, so I had that van. We built a $10,000 movie around what we call the “available materials school of filmmaking.”</p>
+    <p>We found two identical chairs for $500 and figured we could light one on fire.</p>
+    <p><strong>Katie:</strong> That chair was not flammable!</p>
+    <p><strong>Mark:</strong> No, it was not!</p>
+    <p><strong>Katie:</strong> Setting that thing on fire was the hardest thing we’ve ever done.</p>
+    <p><strong>Mike:</strong> Katie, what did you do before this?</p>
+    <p><strong>Katie:</strong> I had literally just graduated acting school the day before we started shooting. I was studying theater and film in New York. Before that I’d lived in L.A. and had a couple small TV jobs. I realized I wasn’t very good there.</p>
+    <p>While I was in school, we made <cite>Scrapple</cite>, their second short film. That also went to Sundance.</p>
+    <p>My teachers threatened to throw me out of school. I was like, “Okay!” They did. I graduated and went straight into <cite>The Puffy Chair</cite>.</p>
+    <p><strong>Mike:</strong> A lot of people talk about the cheapness of <cite>The Puffy Chair</cite>, but it wouldn’t work if the characters and love story weren’t believable. How much was scripted versus based on your real relationship?</p>
+    <p><strong>Mark:</strong> The central love story is basically “shit or get off the pot.” Are we getting married or breaking up? Are we giving each other the best years of our lives?</p>
+    <p>This was an epidemic in our friend group — especially among struggling artists, afraid we wouldn’t make it, afraid there wouldn’t be enough money.</p>
+    <p>I still had that Southern male mentality: “I’ve got to make a living before I can get serious with a girl.” That was evident in my relationship with Katie, in Jay’s relationship with his girlfriend — now wife — and in all our friends.</p>
+    <p>If you’re under 30 and your filmmaking skills aren’t fully developed, people say: make something close to home so you can capture truth. We felt like we knew this subject.</p>
+    <p><strong>Katie:</strong> It wasn’t based directly on us, but I definitely got to say things I wanted to say — just in the guise of being in character.</p>
+    <p><strong>Mike:</strong> Was there weirdness after some of the intimate scenes?</p>
+    <p><strong>Katie:</strong> No. I felt very clear.</p>
+  </div>
+</details>
 
 Mark Duplass came across as one of the most genuine and humble actors/producers/directors that we've ever had the pleasure of meeting, and he stayed for far longer than we thought, with the Q&A clocking in at a little over an hour. 
 
@@ -58,7 +124,7 @@ Mark told the audience that filming <cite>The Puffy Chair</cite> was the freest 
 
 > And in that moment, we sort of realized like- oh, this actually might be better- to *own* our own stuff. And I kind of precipitated that model going forward- to try to pay for things ourselves. 
 
-**Interviewer**: "And did you give your parents back the 15 grand [for financing <cite>The Puffy Chair</cite>]?" 
+**Mike Plante**: "And did you give your parents back the 15 grand [for financing <cite>The Puffy Chair</cite>]?" 
 
 **Mark**: 
 
