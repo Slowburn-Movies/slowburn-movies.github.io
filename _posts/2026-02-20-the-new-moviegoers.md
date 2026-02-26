@@ -3,7 +3,7 @@ published: true
 hidden: false
 
 type: feature
-date: 2026-02-24
+date: 2026-02-20
 author: cale
 
 title: "The New Moviegoers"
