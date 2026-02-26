@@ -58,15 +58,15 @@ After the credits rolled, Mark Duplass and Katie Aselton came out and discussed 
     <p>I was so confused, I was like, “but this isn't how movies are made…” It was very, like, hard to process at the time, and I think there was a little part of me that was like, it's this small, it's tiny, it's whatever! We didn’t know what we were doing! And then I just watched it, and it's in L.A., we just sat there and thought, Holy shit, it's <em>beautiful</em>.</p>
     <p>It really is...I'm really so proud of what we made, and I couldn't see it [back] when we made it because we were young and by ourselves.</p>
     <p><strong>Mark:</strong> I just was in an existential time machine watching it again, because, you know, the people who play Josh, my character's parents, that's my mom and my dad, and, like, my dad is only seven years older than I am now.</p>
-    <p>Our oldest daughter is 18, is an actress and looks just like Katie, who was 24 making this movie. And so I was just like, I was in “everything, everywhere, all at once”. I was just like, “I don't know what's happening!”</p>
+    <p>Our oldest daughter is 18, is an actress and looks just like Katie, who was 24 making this movie. And so I was just like, I was in <cite>Everything, Everywhere, All at Once</cite>. I was just like, “I don't know what's happening!”</p>
     <p><strong>Mike:</strong> And you had made some attempts at making features before this, were they sort of straight, like dolly shots, and professional acting?</p>
-    <p><strong>Mark:</strong> Yeah. I mean, I think our journey to get here was a very circuitous one.</p>
+    <p><strong>Mark:</strong> Yeah. I mean, I think our journey to get here was a very <em>circuitous</em> one.</p>
     <p>You know, you hear those stories, in the 90s, you know, there's all those stories of just like, you know, “maxed out my credit cards and made my $30,000, 60mm film” and it was great back then. And, you know, that was <em>not</em> us.</p>
     <p>We [Mark and Jay Duplass] worked as editors for a long time. And we made a lot of bad, bad 16 millimeter short films.</p>
-    <p>And then we eventually saved up enough money, and we we made this documentary for one of those fortune 500 companies called Carton, and they were in Austin and we were living there, and we under-bid them and said, “yeah, give us 200,000$ and we’ll make you a documentary”. And they were like, “oh, that's so cheap”.</p>
+    <p>And then we eventually saved up enough money, and we we made this documentary for one of those fortune 500 companies called <em>Carton</em>, and they were in Austin and we were living there, and we under-bid them and said, “yeah, give us 200,000$ and we’ll make you a documentary”. And they were like, “oh, that's so cheap”.</p>
     <p>So, we made them a documentary for $15,000.</p>
     <p>And then, you know, we took a bunch of that money and we made what was going to be the next great independent film—which was <em>not</em> this [<cite>The Puffy Chair</cite>], this is a movie <em>no one</em> has ever seen.</p>
-    <p>And, so yes, we were doing dolly shots, we were doing scripted dialog, we were doing a lot of the things that we loved watching, you know, like the Coen brothers—that sense of control and cinema.</p>
+    <p>And, so yes, we were doing dolly shots, we were doing scripted dialog, we were doing a lot of the things that we loved <em>watching</em>, you know, like the Coen brothers—that sense of control and cinema.</p>
     <p>I think we thought <em>that's</em> what we were going to be. But, it turns out we weren't good at that.</p>
     <p>And then it was literally one day, and we were in our kitchen and it was 2003, and Jay [Duplass] and I grabbed our parents video camera, just me and Jay, we made this little short film improvised in the kitchen on a larp, and sent it to Sundance.</p>
     <p>And in the first program they watched it, and it was like, “this <em>looks</em> like shit, this <em>sounds</em> like shit and it <em>is</em> shit—put it in the rejection file.”</p>
@@ -75,7 +75,7 @@ After the credits rolled, Mark Duplass and Katie Aselton came out and discussed 
     <p><strong>Mark:</strong> Yeah, maybe ever! But, he saw something in there and programmed us in Sundance.</p>
     <p>So, I guess that's my long way of saying, that short film created a new methodology for us, which was, stumbling into the art, trusting our instincts and going with the improvisation and, and trying to build something that was in front of us.</p>
     <p>The chase of that, all led us to this, <cite>The Puffy Chair</cite>. It was seven of us, cast and crew total. The van was the production vehicle, and also the picture vehicle.</p>
-    <p>I was a musician, so I had that van at the time, I mean, and we just we built this $10,000 movie around what I—what we—love to call the the “available materials school of filmmaking”.</p>
+    <p>I was a musician, so I had that van at the time, I mean, and we just we built this $10,000 movie around what I—what we—love to call the the “<em>available materials school of filmmaking</em>”.</p>
     <p>For the film, we found two identical chairs for 500 bucks, and we can light one of those sons of bitches on fire.</p>
     <p><strong>Katie:</strong> That chair was <em>not</em> flammable!</p>
     <p><strong>Mark:</strong> No, it was not! Yeah. They really, they knew we were for them.</p>
