@@ -3,7 +3,7 @@ published: true
 hidden: false
 
 type: feature
-date: 2026-02-08
+date: 2026-02-24
 author: cale
 
 title: "The New Moviegoers"
@@ -17,7 +17,9 @@ image_caption: "Edward Hopper's painting 'New York Movie'"
 
 With the exception of the mega Hollywood blockbuster, box office sales are down. Streaming services give customers hundreds of choices at their fingertips. Televisions worthy of the "home theater" moniker have never been cheaper. One good result of this situation is that it has forced movie theater chains to come up with more customer-centric solutions to get people back in the door. 
 
-Pretty much all chains now have some equivalent to a monthly membership that is an insanely good deal for customers.
+The first to try this was MoviePass, way back in 2015. [And that did not go well](https://www.slashfilm.com/1536025/moviepass-downfall-worse-than-you-realize/).
+
+But here we are 10 years later and pretty much all chains now have some equivalent program that is an insanely good deal for customers.
 
 AMC A-Lister, Cinemark Movie Club, and the top dog of movie-going madness: Regal Unlimited.
 
