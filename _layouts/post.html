@@ -54,23 +54,31 @@ layout: default
 
 <br>
 
-{%- assign link_array = "" | split: "," -%}
+{%- assign links = "" | split: "," -%}
 
-{%- comment -%} 1. Find any frontmatter key ending in _link {%- endcomment -%}
-{%- for item in page -%}
-  {%- if item[0] contains "_link" -%}
-    {%- assign platform = item[0] | replace: "_link", "" | capitalize -%}
-    {%- capture link_tag -%}<a href="{{ item[1] }}" rel="ugc">{{ platform }}</a>{%- endcapture -%}
-    {%- assign link_array = link_array | push: link_tag -%}
-  {%- endif -%}
-{%- endfor -%}
+{%- if page.instagram_link -%}
+  {%- capture link_tag -%}<a href="{{ page.instagram_link }}" rel="me">Instagram</a>{%- endcapture -%}
+  {%- assign tag_array = link_tag | split: "|||" -%}
+  {%- assign links = links | concat: tag_array -%}
+{%- endif -%}
 
-{%- comment -%} 2. Display with clean "Oxford Comma" grammar {%- endcomment -%}
-{%- if link_array.size > 0 -%}
+{%- if page.reddit_link -%}
+  {%- capture link_tag -%}<a href="{{ page.reddit_link }}" rel="nofollow ugc">Reddit</a>{%- endcapture -%}
+  {%- assign tag_array = link_tag | split: "|||" -%}
+  {%- assign links = links | concat: tag_array -%}
+{%- endif -%}
+
+{%- if page.letterboxd_link -%}
+  {%- capture link_tag -%}<a href="{{ page.letterboxd_link }}" rel="me">Letterboxd</a>{%- endcapture -%}
+  {%- assign tag_array = link_tag | split: "|||" -%}
+  {%- assign links = links | concat: tag_array -%}
+{%- endif -%}
+
+{%- if links.size > 0 -%}
   <p>Leave a comment on 
-    {% for link in link_array %}
-      {{ link }}{% if link_array.size > 2 and forloop.last == false %}, {% endif %}
-      {% if forloop.index == link_array.size | minus: 1 %} or {% endif %}
+    {% for link in links %}
+      {{ link }}{% if links.size > 2 and forloop.last == false %}, {% endif %}
+      {% if forloop.index == links.size | minus: 1 %} or {% endif %}
     {% endfor %}
   </p>
 {%- endif -%}
