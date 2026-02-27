@@ -77,8 +77,16 @@ layout: default
 {%- if links.size > 0 -%}
   <p>Leave a comment on 
     {% for link in links %}
-      {{ link }}{% if links.size > 2 and forloop.last == false %}, {% endif %}
-      {% if forloop.index == links.size | minus: 1 %} or {% endif %}
+      {{ link }}
+      {%- if links.size == 2 and forloop.first -%}
+        &nbsp;or&nbsp;
+      {%- elsif links.size > 2 -%}
+        {%- if forloop.index == links.size | minus: 1 -%}
+          , or&nbsp;
+        {%- elsif forloop.last == false -%}
+          ,&nbsp;
+        {%- endif -%}
+      {%- endif -%}
     {% endfor %}
   </p>
 {%- endif -%}
