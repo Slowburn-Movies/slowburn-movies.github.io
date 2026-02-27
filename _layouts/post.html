@@ -54,9 +54,26 @@ layout: default
 
 <br>
 
-{% if page.comment_link %}
-<p><a href="{{ page.comment_link }}" rel="ugc">Leave a comment</a></p>
-{% endif %}
+{%- assign link_array = "" | split: "," -%}
+
+{%- comment -%} 1. Find any frontmatter key ending in _link {%- endcomment -%}
+{%- for item in page -%}
+  {%- if item[0] contains "_link" -%}
+    {%- assign platform = item[0] | replace: "_link", "" | capitalize -%}
+    {%- capture link_tag -%}<a href="{{ item[1] }}" rel="ugc">{{ platform }}</a>{%- endcapture -%}
+    {%- assign link_array = link_array | push: link_tag -%}
+  {%- endif -%}
+{%- endfor -%}
+
+{%- comment -%} 2. Display with clean "Oxford Comma" grammar {%- endcomment -%}
+{%- if link_array.size > 0 -%}
+  <p>Leave a comment on 
+    {% for link in link_array %}
+      {{ link }}{% if link_array.size > 2 and forloop.last == false %}, {% endif %}
+      {% if forloop.index == link_array.size | minus: 1 %} or {% endif %}
+    {% endfor %}
+  </p>
+{%- endif -%}
 
 {% if page.view_link and page.rating >= 3 %}
 <p><a href="{{ page.view_link }}">Watch {{ page.title }}</a></p>

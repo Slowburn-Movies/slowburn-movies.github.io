@@ -10,7 +10,7 @@ release_year: 2023
 
 rating: 4
 
-comment_link: https://letterboxd.com/jeffdelay/film/riddle-of-fire/ 
+letterboxd_link: https://letterboxd.com/jeffdelay/film/riddle-of-fire/ 
 view_link: https://yellowveilpictures.com/riddle-of-fire/
 
 image: /assets/images/riddle-of-fire.webp

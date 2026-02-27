@@ -8,7 +8,7 @@ title: "The Puffy Chair: 20th Anniversary Screening and Q&A"
 subtitle: "Mark Duplass and Katie Aselton visit Las Vegas for the re-release event"
 description: "The Puffy Chair was re-released by Ink Films and shown at the Beverly Theater with a question and answer from Mark Duplass and Katie Aselton in Las Vegas on February 21st 2026. We cover the event and what it was like."
 
-comment_link: https://www.instagram.com/p/DVRCkSiEV9i/?igsh=YXkyMzgwZnYyNzgw
+instagram_link: https://www.instagram.com/p/DVRCkSiEV9i/?igsh=YXkyMzgwZnYyNzgw
 
 image: /assets/images/the-puffy-chair-q-and-a.webp
 image_alt: "Katie Aselton and Mark Duplass sitting on a couch in front of the movie screen, answering question."

@@ -10,6 +10,8 @@ title: "The New Moviegoers"
 subtitle: "Learning about the Theater Subscription Lifestyle from Power Users"
 description: "Slowburn speaks to Regal Unlimited subscribers about their experience of using the service and how it has affected their view of the theater vs watching at home."
 
+reddit_link: https://www.reddit.com/r/RegalUnlimited/comments/1rfi24k/the_new_moviegoers_learning_about_the_theater/
+
 image: /assets/images/edward-hopper-new-york-movie.webp
 image_alt: "A female usher standing pensively on the edge of a movie theater while a movie is playing"
 image_caption: "Edward Hopper's painting 'New York Movie'"
