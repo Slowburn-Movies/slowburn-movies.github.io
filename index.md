@@ -3,8 +3,9 @@ layout: default
 ---
 
 <section class="featured-grid">
-  {% assign featured_posts = site.posts | where_not: "hidden", true %}
-  {% for post in featured_posts limit: 6 %}
+  {% assign count = 0 %}
+  {% for post in site.posts %}
+    {% unless post.hidden or count >= 6 %}
       <a href="{{ post.url | relative_url }}" class="featured-item">
         <div class="featured-image-container">
           {% if post.image %}
@@ -23,6 +24,8 @@ layout: default
           <p class="featured-subtitle">{{ post.subtitle }}</p>
         {% endif %}
       </a>
+      {% assign count = count | plus: 1 %}
+    {% endunless %}
   {% endfor %}
 </section>
 
