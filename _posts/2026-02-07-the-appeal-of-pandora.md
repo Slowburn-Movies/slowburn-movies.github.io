@@ -51,7 +51,7 @@ It's so preposterous that it becomes compelling again. "How could someone actual
 
 When you go into these movies, you're going to see something you've never seen before. It sounds so simple, but think of all the movies out there with shots that you've seen hundreds of times. Cameron presents a visual feast that is so novel, so inventive and stimulating, that you will certainly go into a depression after consuming it.
 
-Not every movie needs to be uplifting and "feelgood". But it's something special when you see a movie and think "God, I want that to be real". It's a kind of magic spell that gets the whole world manifesting a certain positive reality. Which is exactly what Cameron wants with the strong political themes in the series.
+It's something special when you see a movie and think "God, I want that to be real". It's a kind of magic spell that gets the whole world manifesting a certain positive reality. Which is exactly what Cameron wants with the strong political themes in the series.
 
 ## Characters and Performances 
 
