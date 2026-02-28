@@ -23,6 +23,8 @@ p {
 }
 
 cite {
+  display: inline;
+  border-bottom: 1.5px solid var(--badge-bg);
   letter-spacing: 0.03em;
   font-variant: small-caps;
   font-style: normal;
