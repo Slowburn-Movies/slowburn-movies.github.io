@@ -23,8 +23,10 @@ p {
 }
 
 cite {
-  letter-spacing: 0.02em;
+  letter-spacing: 0.03em;
   font-variant: small-caps;
+  font-style: normal;
+  font-weight: 500;
 }
 
 /* Headers: Make them punchy and slightly bolder */

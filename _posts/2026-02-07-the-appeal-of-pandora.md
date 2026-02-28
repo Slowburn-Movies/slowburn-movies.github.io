@@ -7,7 +7,7 @@ date: 2026-02-07
 author: cale
 
 title: "The Appeal of Pandora"
-subtitle: "Why Hollywood giants and factory workers alike are all-in on <cite>Avatar</cite>"
+subtitle: "Why Hollywood giants and factory workers alike are all-in on Avatar"
 description: "Exploring why Hollywood filmmakers Michael Mann, Guillermo Del Toro, and Bradley Cooper love the Avatar films, despite cinephiles often sidelining it."
 
 image: /assets/images/avatar-family-photo.webp
