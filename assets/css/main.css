@@ -23,17 +23,17 @@ p {
 }
 
 cite {
-  display: inline;
-  border-bottom: 1.5px solid var(--caption-color);
+  /* display: inline;
+  border-bottom: 1.5px solid var(--caption-color); */
   letter-spacing: 0.03em;
   font-variant: small-caps;
   font-style: normal;
   /* font-weight: 500; */
 }
 
-a cite {
+/* a cite {
     border-bottom-color: var(--link-color);
-}
+} */
 
 /* Headers: Make them punchy and slightly bolder */
 h1, h2, h3, h4, 
