@@ -22,6 +22,11 @@ p {
   margin-bottom: 1.8rem;
 }
 
+/* cite {
+  letter-spacing: 0.02em;
+  font-variant: small-caps;
+} */
+
 /* Headers: Make them punchy and slightly bolder */
 h1, h2, h3, h4, 
 .site-header, 
