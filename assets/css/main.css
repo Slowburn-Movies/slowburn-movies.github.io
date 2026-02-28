@@ -24,11 +24,11 @@ p {
 
 cite {
   display: inline;
-  border-bottom: 1.5px solid var(--badge-bg);
+  border-bottom: 1.5px solid var(--caption-bg);
   letter-spacing: 0.03em;
   font-variant: small-caps;
   font-style: normal;
-  font-weight: 500;
+  /* font-weight: 500; */
 }
 
 /* Headers: Make them punchy and slightly bolder */
