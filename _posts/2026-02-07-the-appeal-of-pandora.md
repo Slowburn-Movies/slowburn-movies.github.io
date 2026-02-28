@@ -7,7 +7,7 @@ date: 2026-02-07
 author: cale
 
 title: "The Appeal of Pandora"
-subtitle: "Why Hollywood giants and factory workers alike are all-in on Avatar."
+subtitle: "Why Hollywood giants and factory workers alike are all-in on Avatar"
 description: "Exploring why Hollywood filmmakers Michael Mann, Guillermo Del Toro, and Bradley Cooper love the Avatar films, despite cinephiles often sidelining it."
 
 image: /assets/images/avatar-family-photo.webp
@@ -39,9 +39,9 @@ A decade later, <cite>Avatar: The Way of Water</cite> came out. For whatever rea
 
 I sat down and watched <cite>Avatar</cite> (2009) and <cite>Avatar: The Way of Water</cite> (2022) back-to-back to get ready for the new one. When you approach things from an ironic standpoint, you have an immense suspension of disbelief. It was this suspension that allowed me to become fully engrossed in what I was seeing. The thought of "what if it's bad" or "what if it's cheesy" never crossed my mind. I was just completely receptive to the journey on which Cameron wanted to take me. 
 
-It struck me then how the whole concept of the story is more unique than people give it credit for. Humans need to become friends with the native beings so they grow lifeless husks of these beings and pilot them with their consciousness. Oh, and it turns out that these beings are also very sexy. 
+Humans need to become friends with the native beings so they grow lifeless husks of these beings and pilot them with their consciousness? Makes sense. Oh, and these beings are also very sexy? Even better.
 
-It's so preposterous that it becomes compelling again. "How could someone actually write this story," one thinks. It's very similar to anime in terms of its inventiveness and courage to "just do things". 
+It's so preposterous that it becomes compelling again. "How could someone actually write this story," one thinks. 
 
 
 <figure>
@@ -51,7 +51,7 @@ It's so preposterous that it becomes compelling again. "How could someone actual
 
 When you go into these movies, you're going to see something you've never seen before. It sounds so simple, but think of all the movies out there with shots that you've seen hundreds of times. Cameron presents a visual feast that is so novel, so inventive and stimulating, that you will certainly go into a depression after consuming it.
 
-Not every movie needs to be uplifting and "feelgood". But it's something special when you see a movie and think "God, I want that to be real" rather than "God, why is that real?". The former is a kind of magic spell that gets the whole world manifesting a certain positive reality. Which is exactly what Cameron wants with the strong political themes in the series.
+Not every movie needs to be uplifting and "feelgood". But it's something special when you see a movie and think "God, I want that to be real". It's a kind of magic spell that gets the whole world manifesting a certain positive reality. Which is exactly what Cameron wants with the strong political themes in the series.
 
 ## Characters and Performances 
 
@@ -59,7 +59,7 @@ Beyond the basic concept behind the story, I was genuinely impressed by the acto
 
 Bradley Cooper (<cite>A Star is Born</cite>, <cite>Maestro</cite>, <cite>Silver Linings Playbook</cite>) recently [went on a rant about his love for the Avatar series](https://youtu.be/slYfiSb5AX4?t=8275), saying the following:
 
-> I saw a movie the other night that I didn't believe anybody in it. But I love Avatar. We watched 3, then 2, then 1. I had just gone from watching this movie where I didn't believe anything anybody was doing; the whole time. Then I'm watching Avatar for 2 seconds and they're on a thing and they're blue, but they're talking to each other ... By the way I'm like, when's 4 and 5?
+> I saw a movie the other night that I didn't believe anybody in it. But I love <cite>Avatar</cite>. We watched 3, then 2, then 1. I had just gone from watching this movie where I didn't believe anything anybody was doing; the whole time. Then I'm watching <cite>Avatar</cite> for 2 seconds and they're on a thing and they're blue, but they're talking to each other ... By the way I'm like, when's 4 and 5?
 
 Cooper is also shocked by how utterly believable these performances are despite being high fantasy/sci-fi.
 
@@ -71,26 +71,26 @@ In <cite>The Way of Water</cite>, the world and lore expands tenfold. You're not
 
 Yes, the spectacle is still there. I've never seen water look so good in a movie before. But if it wasn't evident from the first movie that character and performance is a first class citizen, <cite>Way of Water</cite> makes it so.
 
-## Fire and Ash
-
 <cite>Fire and Ash</cite> can really be thought of as Part 2 of <cite>The Way of Water</cite>. Originally, it was just one script. Cameron later split the script into two. When thought of this way, <cite>Fire and Ash</cite> is an excellent installment. This time around, the world doesn't expand nearly as much. The characters play in the same sandbox; which is great, because it allows the focus to be much more on the story and drama and characters (see the quote from Cameron above).
 
-Where the world does expand in this installment, it expands deeper rather than more broadly. We go deeper into things like the nature of Eywa and how the "rules" of the world work. There is a 2 second clip in <cite>Fire and Ash</cite> that solidified for me that Cameron is willing to get weird with this. It reminds me of what [George Lucas wished he could have done](https://fandomwire.com/they-feed-off-the-force-george-lucas-canceled-sequel-trilogy-plans-involved-introducing-a-stupendously-unique-force-sensitive-species/) with a sequel trilogy.
+## Mythology
 
-Not many people know that Guillermo Del Toro (<cite>Pan's Labyrinth</cite>, <cite>The Shape of Water</cite>, <cite>Frankenstein</cite>) and James Cameron briefly lived together in LA in the 90s. Del Toro has said that he and Jim would spend many hours watching anime together. Del Toro [summed up his love for Avatar like this](https://youtu.be/T0NGBCzF1JY?si=sb5xuBz2k1-_Tgfd&t=390):  
+Where the world does expand in <cite>Fire and Ash</cite>, it expands deeper rather than more broadly. We go deeper into things like the nature of Eywa and how the "rules" of the world work. There is a 2 second clip in <cite>Fire and Ash</cite> that solidified for me that Cameron is willing to get weird with this. It reminds me of what [George Lucas wished he could have done](https://fandomwire.com/they-feed-off-the-force-george-lucas-canceled-sequel-trilogy-plans-involved-introducing-a-stupendously-unique-force-sensitive-species/) with a <cite>Star Wars</cite> sequel trilogy.
 
-> There are very few Americans that have created a full mythology. You have (George) Lucas, the whole Wizard of Oz mythology with Frank Baum, and Jim is creating that with Avatar. It's gonna take you places.
+Guillermo Del Toro (<cite>Pan's Labyrinth</cite>, <cite>The Shape of Water</cite>, <cite>Frankenstein</cite>) [summed up his love for Avatar like this](https://youtu.be/T0NGBCzF1JY?si=sb5xuBz2k1-_Tgfd&t=390):  
 
-In terms of courage in storytelling and freedom of creativity, I believe that the <cite>Avatar</cite> movies are the closest thing to authentic American Anime that we have. 
+> There are very few Americans that have created a full mythology. You have (George) Lucas, the whole <cite>Wizard of Oz</cite> mythology with Frank Baum, and Jim is creating that with <cite>Avatar</cite>. It's gonna take you places.
 
-## Auteur Theory
+<cite>Fire and Ash</cite> definitely makes me believe that the next stories are going places that we do not expect. Not many people know that Del Toro and Cameron briefly lived together in LA in the 90s. Del Toro has said that he and Jim would spend many hours watching anime together. 
 
-Any fan of <cite>Titanic</cite> will recognize the subtle nods during <cite>The Way of Water</cite>. I smiled from ear to ear when I saw the main characters rushing through a hallway flooding with water. But these aren't the only "nods" in the series. [James Cameron is an auteur](https://visionpersistence.wordpress.com/2015/03/07/james-cameron-the-auteur/). Auteur filmmaking is a theory of film analysis that says the filmmaker is similar to the author of a book. You can see recurring themes and devices across the body of the filmmakers' work because they have the skill (and the will) to manifest these things in their projects. For Cameron, it's the hubris of human achievement against the sheer power of nature. It's the white picket fence fantasy of family vs its messy reality. It's tactile blue-collar environments full of buttons and switches and knobs and hoses. 
+Knowing that Cameron is a fan of anime explains a lot. Like anime, the world and lore of <cite>Avatar</cite> is completely unrestricted (there are no technical limitations or producer meddling). 
 
-Despite there being wildly different technical contexts across all of Cameron's films, he maintains a consistent vision and voice. Technologically, <cite>Avatar</cite> is a blank canvas for Cameron. And yet, what he produces is the most Cameron film yet, synthesizing everything he's done. 
+There is also a level of sincerity in <cite>Avatar</cite> that is only matched by anime, which westerners see as  refreshingly void of irony or self-awareness. <cite>Avatar</cite> is the closest thing to authentic American Anime that we have and [Cameron is an auteur](https://visionpersistence.wordpress.com/2015/03/07/james-cameron-the-auteur/) (author) filmmaker akin to Katsuhiro Otomo (<cite>Akira</cite>) or Mamoru Oshii (<cite>Ghost in the Shell</cite>) or Hayao Miyazaki (<cite>Princess Mononoke</cite>, <cite>Nausicaä of the Valley of the Wind</cite>). You can see recurring themes and devices across the body of his work because he has the skill (and the will) to manifest these things in his projects. For Cameron, it's the hubris of human achievement against the sheer power of nature. It's the white picket fence fantasy of family vs its messy reality. It's tactile blue-collar environments full of buttons and switches and knobs and hoses. 
+
+Despite there being wildly different technical contexts across all of Cameron's films, he maintains a consistent vision and voice. Technologically, <cite>Avatar</cite> is a blank canvas for Cameron. And yet, what he produces with the <cite>Avatar</cite> movies is the most "Cameron" stuff yet, synthesizing everything he's done.
 
 ## In Sum
 
-Approaching a movie with an ironic abandon isn't a bad thing. If that's what you need to try the <cite>Avatar</cite> films, go for it! It can be a great tool for self-forgetfulness. We need to forget ourselves to fully immerse in a truly imaginative story. When you do so with <cite>Avatar</cite>, I think you'll be surprised with how you come away from it.
+Approaching a movie with an ironic detachment isn't a bad thing. If that's what you need to try the <cite>Avatar</cite> films, go for it! It can be a great tool for self-forgetfulness. We need to forget ourselves to fully immerse in a truly imaginative story. 
 
-If I, or Michael Mann, or Bradley Cooper, or Guillermo Del Toro have inspired you to go back and watch these movies again, do so with new eyes. Let it wash over you.
+If I, or Michael Mann, or Bradley Cooper, or Guillermo Del Toro have inspired you to go back and watch these movies again, do so with new eyes. I think you'll be surprised with how you come away from it.
