@@ -18,9 +18,10 @@ layout: default
 <ul>
   {% assign posts = site.posts | where: "author", page.short_name %}
   {% for post in posts %}
-  {% unless post.hidden %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a> — {{ post.date | date_to_string }}
-    </li>
+    {% unless post.hidden %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a> — {{ post.date | date_to_string }}
+      </li>
+    {% endunless %}
   {% endfor %}
 </ul>

@@ -1,9 +1,9 @@
 ---
 published: true
-hidden: true
+hidden: false
 
 type: feature
-date: 2026-02-07
+date: 2026-02-28
 author: cale
 
 title: "The Appeal of Pandora"
