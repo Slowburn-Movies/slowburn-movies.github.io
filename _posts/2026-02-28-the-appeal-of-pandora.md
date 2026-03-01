@@ -11,6 +11,7 @@ subtitle: "What serious filmmakers see in Avatar that cinephiles miss"
 description: "Exploring why Hollywood filmmakers Michael Mann, Guillermo Del Toro, and Bradley Cooper love the Avatar films, despite cinephiles often sidelining it."
 
 reddit_link: https://www.reddit.com/r/Avatar/comments/1rhjj38/the_appeal_of_pandora_what_serious_filmmakers_see/
+instagram_link: https://www.instagram.com/p/DVUt7XtD5Wm/?igsh=czZmazZtaWtjN3l1
 
 image: /assets/images/avatar-family-photo.webp
 image_alt: "A flash photo of a family of skinny blue aliens smiling at the camera"
