@@ -11,6 +11,7 @@ release_year: 2026
 rating: 4
 
 letterboxd_link: https://letterboxd.com/jeffdelay/film/how-to-make-a-killing-2026/ 
+instagram_link: https://www.instagram.com/p/DVUwEb5kSUe/?igsh=MWxjeXFtam01Y3c4cw==
 view_link: https://a24films.com/films/how-to-make-a-killing
 
 image: /assets/images/how-to-make-a-killing.webp
