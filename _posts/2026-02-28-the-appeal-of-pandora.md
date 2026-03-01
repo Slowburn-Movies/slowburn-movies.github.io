@@ -7,7 +7,7 @@ date: 2026-02-28
 author: cale
 
 title: "The Appeal of Pandora"
-subtitle: "Why Hollywood Heavyweights can't quit Avatar"
+subtitle: "Hollywood veterans make the case for Avatar"
 description: "Exploring why Hollywood filmmakers Michael Mann, Guillermo Del Toro, and Bradley Cooper love the Avatar films, despite cinephiles often sidelining it."
 
 image: /assets/images/avatar-family-photo.webp
