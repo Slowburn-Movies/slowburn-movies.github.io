@@ -7,7 +7,7 @@ date: 2026-02-28
 author: cale
 
 title: "The Appeal of Pandora"
-subtitle: "Hollywood veterans make the case for Avatar"
+subtitle: "What serious filmmakers see in Avatar that cinephiles miss"
 description: "Exploring why Hollywood filmmakers Michael Mann, Guillermo Del Toro, and Bradley Cooper love the Avatar films, despite cinephiles often sidelining it."
 
 image: /assets/images/avatar-family-photo.webp
@@ -17,7 +17,7 @@ image_caption: "The Sully family from the Avatar movies."
 
 It's all too common for cinephiles to look down their noses at <cite>Avatar</cite>. I understand. They mentally put these movies in the same bucket as superhero blockbuster slop. However, in recent times, critically acclaimed filmmakers have come out of the woodwork praising not just the first <cite>Avatar</cite> film, but also the latest entry, <cite>Fire and Ash</cite>.
 
-For example, Michael Mann (<cite>Heat</cite>, <cite>The Insider</cite>, <cite>Collateral</cite>, <cite>The Last of the Mohicans</cite>) [recently named](https://variety.com/lists/directors-favorite-films-2025/avatar-fire-and-ash/) <cite>Avatar: Fire and Ash</cite> his favorite film of 2025. Mann said the following:
+For example, Michael Mann (<cite>Heat</cite>, <cite>The Insider</cite>, <cite>Collateral</cite>, <cite>The Last of the Mohicans</cite>) [recently named](https://variety.com/lists/directors-favorite-films-2025/avatar-fire-and-ash/) <cite>Avatar: Fire and Ash</cite> his *favorite film* of 2025. Mann said the following:
 
 > Jim began with a blank piece of paper. No writer-director I can think of has invented as large a three-dimensional world of his own imagining as has Jim. “Fire and Ash” on its own is an incredible achievement. There are two more installments to come. From some point in the future, when regarded historically, the whole of “Avatar” will be seen as the magnum opus it truly is.
 
