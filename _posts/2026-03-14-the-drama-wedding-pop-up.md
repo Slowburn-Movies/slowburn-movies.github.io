@@ -8,7 +8,7 @@ title: "The Drama: A24 Wedding Pop-Up"
 subtitle: "Zendaya and Alana Haim visit Las Vegas to promote The Drama"
 description: "A24 put on an event in Las Vegas at Chapel of the Bells to promote their new film The Drama (2026). Zendaya and Alana Haim visited."
 
-youtube_id: "Ac0uuGOKhF4"
+youtube_id: "FDH1v25M14w"
 
 image: /assets/images/the-drama-wedding-event.webp
 image_alt: "A crowd of people at standing outside of Chapel of the Bells wedding chapel in Las Vegas. The Strat tower is in the background. There is a merchandise tent on the left and a wedding party group towards the entrance."
