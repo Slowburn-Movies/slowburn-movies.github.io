@@ -42,15 +42,14 @@ After the credits rolled, Mark Duplass and Katie Aselton came out and discussed 
       <p><strong>Mark Duplass:</strong> Oh, wow! What a radical act, you all came to see a movie in a movie theater that you could have streamed online! This is rebellion. You guys are fucking awesome.</p>
     </div>
   </summary>
-  <!-- <div class="video-inline">
+  <div class="video-inline">
     <iframe
-      src="https://www.youtube.com/embed/YOUTUBE_ID"
-      title="The Puffy Chair Q&A – First 10 Minutes"
+      src="https://www.youtube.com/embed/xBVRe17t9LM"
       loading="lazy"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
       allowfullscreen>
     </iframe>
-  </div> -->
+  </div>
   <div class="transcript">
     <p><strong>Mike Plante:</strong> You know, they actually want to ask: Is this anyone’s [in the audience] first time you've seen <cite>The Puffy Chair</cite>?</p>
     <p><em>(most of the audience raises their hands “yes”)</em></p>
