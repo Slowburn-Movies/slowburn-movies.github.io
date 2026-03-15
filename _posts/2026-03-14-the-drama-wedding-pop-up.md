@@ -24,13 +24,13 @@ We arrived before the start time. It was a tense, but jovial atmosphere as like-
   <figcaption>Slowburn at The Drama event.</figcaption>
 </figure>
 
-Around 10:15am or so, a line of blacked out SUVs pulled into the parking lot. Alana Haim (<cite>Licorice Pizza</cite>, <cite>One Battle After Another</cite>) exited one car and entered the chapel. Following soon behind, Zendaya (<cite>Euphoria</cite>, <cite>Challengers</cite>, <cite>Dune</cite>) did the same. In a funny surprise, the crowd was essentially rendered speechless. No one was brave enough to make a peep as she glided by into the building. 
+Around 10:15am or so, a line of blacked out SUVs pulled into the parking lot. Alana Haim (<cite>Licorice Pizza</cite>, <cite>One Battle After Another</cite>) exited one car and entered the chapel. Following soon behind, Zendaya (<cite>Euphoria</cite>, <cite>Challengers</cite>, <cite>Dune</cite>) did the same. In a funny surprise, the crowd was essentially rendered speechless. No one was brave enough to make a peep as she effortlessly glided by, into the building. 
 
-They joined the wedding inside while the crowd outside mingled about. After the wedding, they came back out and took official photos. A few were brave enough to utter some I Love You's this time.
+Alana and Zendaya joined the wedding inside, acting as witnesses and helping to officiate in some capacity, while the crowd outside mingled about. After the wedding, they came back out and took official photos in front of the signage. The newlyweds appeared from the chapel and the actors cheered, the crowd joining in. Alana and Zendaya made their exit. A few were brave enough to utter some "I love you's" this time.
+
+<cite>The Drama</cite> releases on April 3rd of this year. 
 
 <figure>
   <img src="/assets/images/the-drama-poster.webp" alt="Robert Pattinson and Zendaya sitting together. Zendaya holding up her hand showing an engagement ring on it.">
   <figcaption>The Drama poster.</figcaption>
 </figure>
-
-<cite>The Drama</cite> releases on April 3rd of this year. 
