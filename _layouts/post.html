@@ -115,7 +115,7 @@ layout: default
   "alternativeHeadline": {{ page.subtitle | jsonify }},
   {% endif %}
   "description": {{ page.description | default: page.excerpt | strip_html | normalize_whitespace | jsonify }},
-  "datePublished": {{ page.date | date: "%Y-%m-%d" | jsonify }},
+  "datePublished": {{ page.date | date_to_xmlschema | jsonify }},
   {% if page.last_modified_at %}
   "dateModified": {{ page.last_modified_at | date: "%Y-%m-%d" | jsonify }},
   {% endif %}
