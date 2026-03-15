@@ -147,10 +147,10 @@ layout: default
     "@type": "VideoObject",
     "name": {{ page.title | jsonify }},
     "description": {{ page.description | default: page.excerpt | strip_html | jsonify }},
-    "thumbnailUrl": {{ page.image | absolute_url | jsonify }},
+    "thumbnailUrl": {{ "https://img.youtube.com/vi/" | append: page.youtube_id | append: "/maxresdefault.jpg" | jsonify }},
     "embedUrl": {{ "https://www.youtube.com/embed/" | append: page.youtube_id | jsonify }},
     "url": {{ "https://www.youtube.com/watch?v=" | append: page.youtube_id | jsonify }},
-    "uploadDate": {{ page.date | date: "%Y-%m-%d" | jsonify }}
+    "uploadDate": {{ page.date | date_to_xmlschema | jsonify }}
   }{% endif %}
 }
 </script>
