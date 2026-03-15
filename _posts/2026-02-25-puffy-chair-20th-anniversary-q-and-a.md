@@ -35,7 +35,7 @@ After the credits rolled, Mark Duplass and Katie Aselton came out and discussed 
 
 <details>
   <summary>
-    <span class="summary-btn">Read the transcript of the first 10 minutes of Q&A</span>
+    <span class="summary-btn">Read or watch the first 10 minutes of Q&A</span>
     
     <div class="transcript-preview">
       <p><strong>Katie Aselton:</strong> This is so cool!</p>
