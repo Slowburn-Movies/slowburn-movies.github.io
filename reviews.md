@@ -20,8 +20,8 @@ permalink: /reviews/
     {% for review in reviews %}
         {% unless review.hidden %}
             <tr>
-            <td><a href="{{ review.url | relative_url }}">{{ review.title }}</a></td>
-            <td>{{ review.director }}</td>
+            <td><cite><a href="{{ review.url | relative_url }}">{{ review.title }}</a></cite></td>
+            <td data-sort="{{ review.director | split: ' ' | last | downcase }}">{{ review.director }}</td>
             <td>{{ review.release_year }}</td>
             <td>{{ review.rating }}</td>
             <!--<td data-sort="{{ review.date | date: '%Y%m%d' }}">{{ review.date | date: "%b %d, %Y" }}</td>-->
