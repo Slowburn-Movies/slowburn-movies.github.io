@@ -7,6 +7,7 @@ author: jeff
 title: "How to Make a Killing"
 subtitle: "Fantastically paced and surprisingly witty comedic drama"
 release_year: 2026
+director: "John Patton Ford"
 
 rating: 4
 

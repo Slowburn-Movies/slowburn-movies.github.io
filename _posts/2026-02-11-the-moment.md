@@ -7,6 +7,7 @@ author: jeff
 title: "The Moment"
 subtitle: "One of the funniest (and certainly one of the best) satires of the music industry"
 release_year: 2026
+director: "Aidan Zamiri"
 
 rating: 3.5
 

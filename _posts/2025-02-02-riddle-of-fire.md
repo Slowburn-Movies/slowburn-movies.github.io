@@ -7,6 +7,7 @@ author: jeff
 title: "Riddle of Fire"
 subtitle: "Whimsical journey harkens back to the era of grittier family films"
 release_year: 2023
+director: "Weston Razooli"
 
 rating: 4
 

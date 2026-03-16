@@ -7,6 +7,7 @@ author: jeff
 title: "Two Sleepy People"
 subtitle: "Subversive romantic comedy that punches far above its weight"
 release_year: 2025
+director: "Baron Ryan"
 
 rating: 4
 

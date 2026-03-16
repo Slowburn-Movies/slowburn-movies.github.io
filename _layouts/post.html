@@ -142,7 +142,6 @@ layout: default
 <p><a href="{{ page.view_link }}">Watch {{ page.title }}</a></p>
 {% endif %}
 
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -170,7 +169,11 @@ layout: default
     "@type": "Movie",
     "name": {{ page.title | jsonify }}{% if page.release_year %},
     "datePublished": {{ page.release_year | jsonify }}{% endif %}{% if page.image %},
-    "image": {{ page.image | absolute_url | jsonify }}{% endif %}
+    "image": {{ page.image | absolute_url | jsonify }}{% endif %}{% if page.director %},
+    "director": {
+      "@type": "Person",
+      "name": {{ page.director | jsonify }}
+    }{% endif %}
   },
   {% if page.rating %}
   "reviewRating": {
@@ -191,4 +194,3 @@ layout: default
   }{% endif %}
 }
 </script>
-
