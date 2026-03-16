@@ -45,7 +45,7 @@ layout: default
 <div class="rating-card main-rating">
 
   <div class="opinion-author">Score</div>
-  <div class="opinion-score">{{ page.rating }} / 5 ★</div>
+  <div class="opinion-score">{{ page.rating }} · 5 ★</div>
 
   {% if page.verdict %}
   <div class="opinion-verdict">{{ page.verdict }}</div>
@@ -110,7 +110,7 @@ layout: default
 {% for rating in page.other_ratings %}
   <div class="rating-card second-opinion">
     <div class="opinion-author">{{ rating.author }}</div>
-    <div class="opinion-score">{{ rating.rating }} / 5 ★</div>
+    <div class="opinion-score">{{ rating.rating }} · 5 ★</div>
     <div class="opinion-verdict">“{{ rating.verdict }}”</div>
   </div>
 {% endfor %}
