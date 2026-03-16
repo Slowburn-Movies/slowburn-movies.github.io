@@ -6,7 +6,7 @@ date: 2026-03-12
 author: jeff
 
 title: "“Wuthering Heights”"
-subtitle: "Aesthetic maximalist at its best"
+subtitle: "A Fennel production through and through"
 release_year: 2026
 
 rating: 3.5
