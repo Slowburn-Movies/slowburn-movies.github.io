@@ -91,22 +91,29 @@ layout: default
   </p>
 {%- endif -%}
 
-{% if page.view_link and page.rating >= 3 %}
-<p><a href="{{ page.view_link }}">Watch {{ page.title }}</a></p>
-{% endif %}
+<hr/>
 
 {% if page.other_ratings %}
 <h3>Second opinions:</h3>
 
-<div class="second-opinions">
 {% for rating in page.other_ratings %}
-  <div class="opinion-card">
-    <div class="opinion-author">{{ rating.author }}</div>
-    <div class="opinion-rating">{{ rating.rating }} / 5 ★</div>
-    <div class="opinion-verdict">“{{ rating.verdict }}”</div>
+<div class="second-opinion">
+
+  <div class="second-opinion-meta">
+    <strong>{{ rating.author }}</strong>
+    <span class="second-opinion-rating">{{ rating.rating }} / 5 ★</span>
   </div>
-{% endfor %}
+
+  <blockquote>
+    {{ rating.verdict }}
+  </blockquote>
+
 </div>
+{% endfor %}
+{% endif %}
+
+{% if page.view_link and page.rating >= 3 %}
+<p><a href="{{ page.view_link }}">Watch {{ page.title }}</a></p>
 {% endif %}
 
 <script type="application/ld+json">

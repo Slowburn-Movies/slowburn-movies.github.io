@@ -484,32 +484,18 @@ blockquote {
 }
 
 /* --- SECOND OPINIONS --- */
-
-.second-opinions {
-  margin-top: 1rem;
+.second-opinion-meta {
+  margin-top: 1.5rem;
+  font-size: 0.95rem;
 }
 
-.opinion-card {
-  background: var(--badge-bg);
-  padding: 16px 18px;
-  border-radius: 6px;
-  max-width: 640px;
+.second-opinion-rating {
+  opacity: 0.8;
+  margin-left: 0.5rem;
 }
 
-.opinion-author {
-  font-weight: 600;
-  margin-bottom: 4px;
-}
-
-.opinion-rating {
-  font-size: 0.9rem;
-  opacity: 0.85;
-  margin-bottom: 10px;
-}
-
-.opinion-verdict {
-  line-height: 1.5;
-  font-style: italic;
+.second-opinion blockquote {
+  margin-top: 0.5rem;
 }
 
 /* --- 5. MOBILE FIXES --- */
