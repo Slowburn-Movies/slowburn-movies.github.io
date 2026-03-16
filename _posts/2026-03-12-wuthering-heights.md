@@ -1,6 +1,5 @@
 ---
 published: true
-hidden: true
 type: review
 date: 2026-03-12
 author: jeff
