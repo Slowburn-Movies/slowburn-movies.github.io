@@ -483,6 +483,35 @@ blockquote {
   margin: 2rem 0;
 }
 
+/* --- SECOND OPINIONS --- */
+
+.second-opinions {
+  margin-top: 1rem;
+}
+
+.opinion-card {
+  background: var(--badge-bg);
+  padding: 16px 18px;
+  border-radius: 6px;
+  max-width: 640px;
+}
+
+.opinion-author {
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+
+.opinion-rating {
+  font-size: 0.9rem;
+  opacity: 0.85;
+  margin-bottom: 10px;
+}
+
+.opinion-verdict {
+  line-height: 1.5;
+  font-style: italic;
+}
+
 /* --- 5. MOBILE FIXES --- */
 @media (max-width: 650px) {
   /* Font & Global Adjustments */

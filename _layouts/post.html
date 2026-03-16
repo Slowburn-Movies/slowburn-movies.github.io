@@ -97,13 +97,16 @@ layout: default
 
 {% if page.other_ratings %}
 <h3>Second opinions:</h3>
+
+<div class="second-opinions">
 {% for rating in page.other_ratings %}
-  <div style="background: var(--badge-bg); padding: 10px; display: inline-block;">
-    <strong> {{ rating.author }}</strong><br>
-    {{ rating.rating }} / 5 ★ <br>
-    "{{ rating.verdict }}"
+  <div class="opinion-card">
+    <div class="opinion-author">{{ rating.author }}</div>
+    <div class="opinion-rating">{{ rating.rating }} / 5 ★</div>
+    <div class="opinion-verdict">“{{ rating.verdict }}”</div>
   </div>
 {% endfor %}
+</div>
 {% endif %}
 
 <script type="application/ld+json">
