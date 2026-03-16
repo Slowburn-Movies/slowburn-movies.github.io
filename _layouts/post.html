@@ -58,7 +58,7 @@ layout: default
         {% endif %}
       {% endfor %}
     </div>
-    <span class="score-num">{{ page.rating }} ⁄ 5</span>
+    <span class="score-num"> {{ page.rating }}</span>
   </div>
 
   {% if page.verdict %}
@@ -94,7 +94,7 @@ layout: default
           {% endif %}
         {% endfor %}
       </div>
-      <span class="score-num">{{ item.rating }} ⁄ 5</span>
+      <span class="score-num"> {{ item.rating }}</span>
     </div>
 
     <div class="opinion-verdict">“{{ item.verdict }}”</div>
