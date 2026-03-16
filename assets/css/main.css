@@ -1,3 +1,8 @@
+:root {
+  --link-color: #5e8ed8;
+  --star-color: #e6c67a;
+}
+
 /* --- 1. GLOBAL & LAYOUT --- */
 html, body {
   margin: 0 auto;
