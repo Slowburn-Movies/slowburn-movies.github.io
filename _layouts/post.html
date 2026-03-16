@@ -43,14 +43,27 @@ layout: default
 
 {% if page.rating %}
 <div class="rating-card main-rating">
-
   <div class="opinion-author">Score</div>
-  <div class="opinion-score">{{ page.rating }}⁄5 ★</div>
+  
+  <div class="opinion-score">
+    <div class="star-rating">
+      {% for i in (1..5) %}
+        {% assign threshold = i | minus: 0.5 %}
+        {% if page.rating >= i %}
+          <span class="star full">★</span>
+        {% elsif page.rating == threshold %}
+          <span class="star half">★</span>
+        {% else %}
+          <span class="star">★</span>
+        {% endif %}
+      {% endfor %}
+    </div>
+    <span class="score-num">{{ page.rating }} ⁄ 5</span>
+  </div>
 
   {% if page.verdict %}
   <div class="opinion-verdict">{{ page.verdict }}</div>
   {% endif %}
-
 </div>
 {% endif %}
 
@@ -64,11 +77,27 @@ layout: default
 <h4>Second opinions:</h4>
 
 <div class="second-opinion-grid">
-{% for rating in page.other_ratings %}
+{% for item in page.other_ratings %}
   <div class="rating-card second-opinion">
-    <div class="opinion-author">{{ rating.author }}</div>
-    <div class="opinion-score">{{ rating.rating }} ⁄ 5 ★</div>
-    <div class="opinion-verdict">“{{ rating.verdict }}”</div>
+    <div class="opinion-author">{{ item.author }}</div>
+    
+    <div class="opinion-score">
+      <div class="star-rating">
+        {% for i in (1..5) %}
+          {% assign threshold = i | minus: 0.5 %}
+          {% if item.rating >= i %}
+            <span class="star full">★</span>
+          {% elsif item.rating == threshold %}
+            <span class="star half">★</span>
+          {% else %}
+            <span class="star">★</span>
+          {% endif %}
+        {% endfor %}
+      </div>
+      <span class="score-num">{{ item.rating }} ⁄ 5</span>
+    </div>
+
+    <div class="opinion-verdict">“{{ item.verdict }}”</div>
   </div>
 {% endfor %}
 </div>

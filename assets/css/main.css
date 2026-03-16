@@ -484,6 +484,36 @@ blockquote {
 }
 
 /* --- RATING AND SECOND OPINIONS --- */
+.star-rating {
+  display: inline-flex;
+  gap: 2px;
+  font-size: 1.1rem;
+}
+
+.star {
+  color: var(--bg-color); /* Use the badge background for "empty" star slots */
+}
+
+.star.full {
+  color: var(--text-color); /* Lit stars match your primary text */
+}
+
+.star.half {
+  position: relative;
+  display: inline-block;
+  color: var(--bg-color);
+}
+
+.star.half::after {
+  content: "★";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 50%;
+  overflow: hidden;
+  color: var(--text-color); /* The lit-up half */
+}
+
 .rating-card {
   background: var(--badge-bg);
   padding: 14px 16px;
