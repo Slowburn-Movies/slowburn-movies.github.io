@@ -97,6 +97,10 @@ layout: default
   </p>
 {%- endif -%}
 
+{% if page.view_link and page.rating >= 3 %}
+<p><a href="{{ page.view_link }}">Watch {{ page.title }}</a></p>
+{% endif %}
+
 <hr/>
 
 {% if page.other_ratings %}
@@ -107,16 +111,14 @@ layout: default
   <div class="rating-card second-opinion">
     <div class="opinion-author">{{ rating.author }}</div>
     <div class="opinion-score">{{ rating.rating }} / 5 ★</div>
-    <div class="opinion-verdict">{{ rating.verdict }}</div>
+    <div class="opinion-verdict">“{{ rating.verdict }}”</div>
   </div>
 {% endfor %}
 </div>
 
 {% endif %}
 
-{% if page.view_link and page.rating >= 3 %}
-<p><a href="{{ page.view_link }}">Watch {{ page.title }}</a></p>
-{% endif %}
+
 
 <script type="application/ld+json">
 {

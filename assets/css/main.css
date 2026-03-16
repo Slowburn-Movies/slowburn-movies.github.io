@@ -484,26 +484,29 @@ blockquote {
 }
 
 /* --- RATING AND SECOND OPINIONS --- */
-.second-opinion-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-  gap: 1rem;
-  margin-top: 1rem;
-}
-
 .rating-card {
   background: var(--badge-bg);
   padding: 14px 16px;
   border-radius: 6px;
   line-height: 1.5;
+  display: inline-block;
+  max-width: 420px;
 }
 
 .main-rating {
+  margin-bottom: 1.5rem;
   border-left: 4px solid var(--link-color);
 }
 
 .second-opinion {
   border-left: 2px solid var(--link-color);
+}
+
+.second-opinion-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-top: 1rem;
 }
 
 .opinion-author {
@@ -512,9 +515,9 @@ blockquote {
 }
 
 .opinion-score {
-  font-size: 0.9rem;
-  opacity: 0.8;
-  margin-bottom: 8px;
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-bottom: 6px;
 }
 
 .opinion-verdict {
