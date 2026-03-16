@@ -42,10 +42,16 @@ layout: default
 
 
 {% if page.rating %}
-  <div style="background: var(--badge-bg); padding: 10px; display: inline-block;">
-    <strong>Score:</strong> {{ page.rating }} / 5 ★ <br>
-    {% if page.verdict %}<strong>Verdict:</strong> {{ page.verdict }}{% endif %}
-  </div>
+<div class="rating-card main-rating">
+
+  <div class="opinion-author">Score</div>
+  <div class="opinion-score">{{ page.rating }} / 5 ★</div>
+
+  {% if page.verdict %}
+  <div class="opinion-verdict">{{ page.verdict }}</div>
+  {% endif %}
+
+</div>
 {% endif %}
 
 <article>
@@ -96,20 +102,16 @@ layout: default
 {% if page.other_ratings %}
 <h3>Second opinions:</h3>
 
+<div class="second-opinion-grid">
 {% for rating in page.other_ratings %}
-<div class="second-opinion">
-
-  <div class="second-opinion-meta">
-    <strong>{{ rating.author }}</strong>
-    <span class="second-opinion-rating">{{ rating.rating }} / 5 ★</span>
+  <div class="rating-card second-opinion">
+    <div class="opinion-author">{{ rating.author }}</div>
+    <div class="opinion-score">{{ rating.rating }} / 5 ★</div>
+    <div class="opinion-verdict">{{ rating.verdict }}</div>
   </div>
-
-  <blockquote>
-    {{ rating.verdict }}
-  </blockquote>
-
-</div>
 {% endfor %}
+</div>
+
 {% endif %}
 
 {% if page.view_link and page.rating >= 3 %}

@@ -483,19 +483,42 @@ blockquote {
   margin: 2rem 0;
 }
 
-/* --- SECOND OPINIONS --- */
-.second-opinion-meta {
-  margin-top: 1.5rem;
-  font-size: 0.95rem;
+/* --- RATING AND SECOND OPINIONS --- */
+.second-opinion-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1rem;
+  margin-top: 1rem;
 }
 
-.second-opinion-rating {
+.rating-card {
+  background: var(--badge-bg);
+  padding: 14px 16px;
+  border-radius: 6px;
+  line-height: 1.5;
+}
+
+.main-rating {
+  border-left: 4px solid var(--link-color);
+}
+
+.second-opinion {
+  border-left: 2px solid var(--link-color);
+}
+
+.opinion-author {
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+
+.opinion-score {
+  font-size: 0.9rem;
   opacity: 0.8;
-  margin-left: 0.5rem;
+  margin-bottom: 8px;
 }
 
-.second-opinion blockquote {
-  margin-top: 0.5rem;
+.opinion-verdict {
+  font-size: 0.95rem;
 }
 
 /* --- 5. MOBILE FIXES --- */
