@@ -12,7 +12,7 @@ rating: 3.5
 other_ratings:
   - author: "cale"
     rating: 4.5
-    verdict: "Having not read the book and not liking Saltburn, I was completely blown away. I felt genuine heartache and couldn't stop thinking about it. I have a new appreciation for Fennel as a highly intentional and thoughtful filmmaker."
+    verdict: "Having not read the book and disliking Saltburn, I was completely blown away. I felt genuine heartache and couldn't stop thinking about it. I have a new appreciation for Fennel as a highly intentional and thoughtful filmmaker."
 
 view_link: https://www.wutheringheightsfilm.com/
 
