@@ -1,6 +1,6 @@
 :root {
   --link-color: #5e8ed8;
-  --star-color: #e6c67a;
+  --star-color: #d4af37;
 }
 
 /* --- 1. GLOBAL & LAYOUT --- */
@@ -492,7 +492,7 @@ blockquote {
 .star-rating {
   display: inline-flex;
   gap: 2px;
-  font-size: 1.1rem;
+  font-size: 1.2rem;
 }
 
 .star {
@@ -517,12 +517,6 @@ blockquote {
   width: 50%;
   overflow: hidden;
   color: var(--star-color); /* The lit-up half */
-}
-
-.score-num {
-  font-size: 0.9rem;
-  color: var(--caption-color);
-  font-family: monospace; /* Optional: gives it a technical/film-log feel */
 }
 
 .rating-card {

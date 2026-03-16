@@ -40,6 +40,9 @@ layout: default
 {% assign author_data = site.contributors | where: "short_name", page.author | first %}
 <h5> — {% if author_data %}<a href="{{ author_data.url }}">{{ page.author }}</a>{% else %}{{ page.author }}{% endif %},{% endif %}{% if page.date %} published {{ page.date | date: "%b %d, %Y" }} {% endif %}</h5>
 
+<article>
+  {{ content }}
+</article>
 
 {% if page.rating %}
 <div class="rating-card main-rating">
@@ -58,7 +61,6 @@ layout: default
         {% endif %}
       {% endfor %}
     </div>
-    <span class="score-num"> {{ page.rating }}</span>
   </div>
 
   {% if page.verdict %}
@@ -66,10 +68,6 @@ layout: default
   {% endif %}
 </div>
 {% endif %}
-
-<article>
-  {{ content }}
-</article>
 
 <br>
 
@@ -94,7 +92,6 @@ layout: default
           {% endif %}
         {% endfor %}
       </div>
-      <span class="score-num"> {{ item.rating }}</span>
     </div>
 
     <div class="opinion-verdict">“{{ item.verdict }}”</div>
