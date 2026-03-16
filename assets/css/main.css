@@ -495,7 +495,7 @@ blockquote {
 }
 
 .star.full {
-  color: var(--text-color); /* Lit stars match your primary text */
+  color: var(--star-color); 
 }
 
 .star.half {
@@ -511,7 +511,13 @@ blockquote {
   top: 0;
   width: 50%;
   overflow: hidden;
-  color: var(--text-color); /* The lit-up half */
+  color: var(--star-color); /* The lit-up half */
+}
+
+.score-num {
+  font-size: 0.9rem;
+  color: var(--caption-color);
+  font-family: monospace; /* Optional: gives it a technical/film-log feel */
 }
 
 .rating-card {
