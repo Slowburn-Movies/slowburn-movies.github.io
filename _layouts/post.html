@@ -76,8 +76,16 @@ layout: default
 
 <div class="second-opinion-grid">
 {% for item in page.other_ratings %}
+  {% assign second_opinion_author = site.contributors | where: "short_name", item.author | first %}
+  
   <div class="rating-card second-opinion">
-    <div class="opinion-author">{{ item.author }}</div>
+    <div class="opinion-author">
+      {% if second_opinion_author %}
+        <a href="{{ second_opinion_author.url | relative_url }}">{{ item.author }}</a>
+      {% else %}
+        {{ item.author }}
+      {% endif %}
+    </div>
     
     <div class="opinion-score">
       <div class="star-rating">
