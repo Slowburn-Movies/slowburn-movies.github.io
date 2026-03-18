@@ -2,7 +2,7 @@
 published: true
 type: review
 date: 2026-03-12
-author: Jeff
+author: jeff
 
 title: "“Wuthering Heights”"
 subtitle: "A Fennell production through and through"
@@ -11,10 +11,10 @@ director: "Emerald Fennell"
 
 rating: 3.5
 other_ratings:
-  - author: "Cale"
+  - author: "cale"
     rating: 4.5
     verdict: "Having not read the book and disliking Saltburn, I was completely blown away. I felt genuine heartache and couldn't stop thinking about it. I have a new appreciation for Fennell as a highly intentional and thoughtful filmmaker."
-  - author: "Lauren"
+  - author: "lauren"
     rating: 3.5
     verdict: "...it was lacking the true depth of the novel it derives from. I really did enjoy the romance between Cathy and Heathcliff. The yearning was very spot on and it made me want to risk everything to be with Heathcliff. If this movie was just a freaked out period piece that took some inspiration from classic novels of its time, I think I would have appreciated it more."
 
