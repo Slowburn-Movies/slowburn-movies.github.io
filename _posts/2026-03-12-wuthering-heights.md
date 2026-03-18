@@ -2,7 +2,7 @@
 published: true
 type: review
 date: 2026-03-12
-author: jeff
+author: Jeff
 
 title: "“Wuthering Heights”"
 subtitle: "A Fennell production through and through"
@@ -11,9 +11,12 @@ director: "Emerald Fennell"
 
 rating: 3.5
 other_ratings:
-  - author: "cale"
+  - author: "Cale"
     rating: 4.5
     verdict: "Having not read the book and disliking Saltburn, I was completely blown away. I felt genuine heartache and couldn't stop thinking about it. I have a new appreciation for Fennell as a highly intentional and thoughtful filmmaker."
+  - author: "Lauren"
+    rating: 3.5
+    verdict: "...it was lacking the true depth of the novel it derives from. I really did enjoy the romance between Cathy and Heathcliff. The yearning was very spot on and it made me want to risk everything to be with Heathcliff. If this movie was just a freaked out period piece that took some inspiration from classic novels of its time, I think I would have appreciated it more."
 
 view_link: https://www.wutheringheightsfilm.com/
 
@@ -32,7 +35,7 @@ This focus on airy, maximalist aesthetics has been a big controversy for Fennell
 
 Complaints of Fennell being “posh” and not understanding working class issues have gotten extremely popular in the past few years, with many decrying her films as intentionally softening any true critiques of class. I personally don’t think that every film needs to be contextually deep, and <cite>Saltburn</cite> itself was enjoyable enough as a sort of beautifully crafted, airy ‘Ripley-lite’, but alas, I seem to be in the minority with this opinion.
 
-With <cite>“Wuthering Heights”</cite>, these critiques of Fennell have only gotten more pointed, sharp, and increasingly passionate. In large part, this is due to this film being a loose adaptation which mostly strays from the novel’s core themes and narrative structure. In doing so, for better or for worse, Fennell’s version of <cite>Wuthering Heights</cite> has essentially alienated most modern of the fans of the book.
+With <cite>“Wuthering Heights”</cite>, these critiques of Fennell have only gotten more pointed, sharp, and increasingly passionate. In large part, this is due to this film being a loose adaptation which mostly strays from the novel’s core themes and narrative structure. In doing so, for better or for worse, Fennell’s version of <cite>Wuthering Heights</cite> has essentially alienated most modern fans of the book.
 
 The largest critiques from the modern literary crowd seem to be based around the opinion that Fennell saw a romantic vision within <cite>Wuthering Heights</cite>, instead of focusing on the tumultuous, often abusive dynamic between its main characters, Heathcliff and Catherine. Perhaps it’s fair, given that this was marketed as an adaptation (and not simply “inspired by”), but I personally give a ton of creative and narrative leeway to adaptations, yet fans of the book seem to take any sort of artistic or narrative deviation as a crime against literature itself. Tough crowd.
 
