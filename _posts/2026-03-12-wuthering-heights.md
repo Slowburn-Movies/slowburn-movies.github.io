@@ -11,12 +11,12 @@ director: "Emerald Fennell"
 
 rating: 3.5
 other_ratings:
+  - author: "lauren"
+    rating: 3.5
+    verdict: "It was a beautifully, aesthetically shot movie, but it was lacking the true depth of the novel it derives from. I really did enjoy the romance between Cathy and Heathcliff. The yearning was very spot on and it made me want to risk everything to be with Heathcliff. If this movie was just a freaked out period piece that took some inspiration from classic novels of its time, I think I would have appreciated it more."
   - author: "cale"
     rating: 4.5
     verdict: "Having not read the book and disliking Saltburn, I was completely blown away. I felt genuine heartache and couldn't stop thinking about it. I have a new appreciation for Fennell as a highly intentional and thoughtful filmmaker."
-  - author: "lauren"
-    rating: 3.5
-    verdict: "...it was lacking the true depth of the novel it derives from. I really did enjoy the romance between Cathy and Heathcliff. The yearning was very spot on and it made me want to risk everything to be with Heathcliff. If this movie was just a freaked out period piece that took some inspiration from classic novels of its time, I think I would have appreciated it more."
 
 view_link: https://www.wutheringheightsfilm.com/
 
