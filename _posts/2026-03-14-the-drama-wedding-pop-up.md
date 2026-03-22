@@ -12,6 +12,8 @@ youtube_id: "FDH1v25M14w"
 
 image: /assets/images/the-drama-event-yt-thumb.webp
 image_alt: "A crowd of people gathered outside of Chapel of the Bells in Las Vegas, reacting to a celebrity that just walked by."
+
+reddit_link: https://www.reddit.com/r/A24/comments/1rwqrwo/the_drama_wedding_popup_event/
 ---
 
 A24 staged a pop-up event to promote <cite>The Drama</cite> in the eloping capital of the world. A couple of weeks ago, they [put up a website](https://web.archive.org/web/20260228160112/https://thedramaweddingchapel.com/) for people to apply to get married at the event.
