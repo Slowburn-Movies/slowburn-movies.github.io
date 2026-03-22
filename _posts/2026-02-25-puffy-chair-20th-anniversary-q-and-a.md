@@ -25,7 +25,7 @@ Collaborators like Greta Gerwig, and prospective film makers like the Safdie bro
 Now, 20 years later, we're sitting in a theater with about 100 other people in preparation to rewatch <cite>The Puffy Chair</cite>, which was lovingly re-released by [Ink Films](https://www.inkfilms.com) and shown at the [Beverly Theater](https://www.thebeverlytheater.com/) in downtown Las Vegas.
 
 <figure>
-  <img src="/assets/images/slowburn-at-the-puffy-chair.webp" alt="Slowburn contributor at sitting in a replica of the red puffy chair from the film, which is set up on a red carpet photo area in front of the theater.">
+  <img src="/assets/images/the-puffy-chair-q-and-a-slowburn.webp" alt="Slowburn contributor at sitting in a replica of the red puffy chair from the film, which is set up on a red carpet photo area in front of the theater.">
   <figcaption>Slowburn at The Puffy Chair event.</figcaption>
 </figure>
 

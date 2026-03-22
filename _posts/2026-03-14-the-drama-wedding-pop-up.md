@@ -9,6 +9,9 @@ subtitle: "Zendaya and Alana Haim visit Las Vegas to promote The Drama"
 description: "A24 put on an event in Las Vegas at Chapel of the Bells to promote their new film The Drama (2026). Zendaya and Alana Haim visited."
 
 youtube_id: "FDH1v25M14w"
+
+image: /assets/images/the-drama-event-yt-thumb.webp
+image_alt: "A crowd of people gathered outside of Chapel of the Bells in Las Vegas, reacting to a celebrity that just walked by."
 ---
 
 A24 staged a pop-up event to promote <cite>The Drama</cite> in the eloping capital of the world. A couple of weeks ago, they [put up a website](https://web.archive.org/web/20260228160112/https://thedramaweddingchapel.com/) for people to apply to get married at the event.
@@ -16,7 +19,7 @@ A24 staged a pop-up event to promote <cite>The Drama</cite> in the eloping capit
 We arrived before the start time. It was a tense, but jovial atmosphere as like-minded cinephiles took photos, bought exclusive merch, and waited to discover what was going to happen.
 
 <figure>
-  <img src="/assets/images/slowburn-at-wedding.webp" alt="Slowburn contributor standing in front of the sign for the wedding chapel pop up event.">
+  <img src="/assets/images/the-drama-event-slowburn.webp" alt="Slowburn contributor standing in front of the sign for the wedding chapel pop up event.">
   <figcaption>Slowburn at The Drama event.</figcaption>
 </figure>
 
