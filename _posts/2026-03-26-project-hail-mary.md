@@ -5,7 +5,7 @@ date: 2026-03-26
 author: jeff
 
 title: "Project Hail Mary"
-subtitle: "A rare crowd pleaser with artistic merit"
+subtitle: "Rare crowd pleaser with artistic merit"
 release_year: 2026
 director: "Phil Lord and Christopher Miller"
 
