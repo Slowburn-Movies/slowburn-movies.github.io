@@ -5,7 +5,7 @@ date: 2026-03-26
 author: jeff
 
 title: "Project Hail Mary"
-subtitle: "A Fennell production through and through"
+subtitle: "A rare crowd pleaser with artistic merit"
 release_year: 2026
 director: "Phil Lord and Christopher Miller"
 
@@ -19,7 +19,7 @@ image_alt: "Ryan Gosling in a space suit floating in front of a panel of buttons
 image_caption: "Ryan Gosling as Ryland Grace in Project Hail Mary."
 ---
 
-It’s already rare for a modern big-budget Hollywood production to adapt a book that results in a feature with a largely solitary character. It’s even more rare for that level of  production to forego the use of green screens and opt for an entirely practical set. For those reasons alone, I have to respect <cite>Project Hail Mary</cite> as something of an experimental oddity, regardless of any other aspect of the film. 
+It’s already rare for a modern big-budget Hollywood production to adapt a book that results in a feature with a largely solitary character. It’s even more rare for that level of  production to forego the use of green screens and opt for an entirely practical set. For those reasons alone, I have to respect <cite>Project Hail Mary</cite> as something of a Hail Mary itself, regardless of any other aspect of the film. 
 
 As a film of pure spectacle, it features beautiful, busy, and surprisingly experimental set design and cinematography. It’s no surprise that the unique cinematography is one of the main draws, as it shares its cinematographer (Greig Fraser) with the <cite>Dune</cite> films. Many shots feature countless, dizzying layers of lighting, glass, projections and aesthetically wild framing, especially in the earlier parts of the film when we are first being introduced to the spaceship. 
 
