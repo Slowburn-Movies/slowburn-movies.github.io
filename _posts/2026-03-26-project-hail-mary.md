@@ -15,6 +15,8 @@ view_link: https://www.amazon.com/salp/projecthailmary
 letterboxd_link: https://letterboxd.com/jeffdelay/film/project-hail-mary/
 instagram_link: https://www.instagram.com/p/DWX5JZZleKr/?igsh=MWRkMHhqdDZ6MjFodQ==
 
+youtube_id: ZJUYjwoiuZc
+
 image: /assets/images/project-hail-mary.webp
 image_alt: "Ryan Gosling in a space suit floating in front of a panel of buttons."
 image_caption: "Ryan Gosling as Ryland Grace in Project Hail Mary."
