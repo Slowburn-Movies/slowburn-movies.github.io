@@ -9,7 +9,8 @@ subtitle: "A Retrospective Analysis of the Mass Casualty Indie Film Genre"
 description: "In anticipation of the upcoming film Our Hero, Balthazar, we take a deep dive into the visual language and narrative structures of four influential films that all grapple with this tragic subject: Zero Day (2002) by Ben Coccio, Elephant (2003) by Gus Van Sant, Polytechnique (2009) by Denis Villeneuve, The Dirties (2013) by Matt Johnson"
 
 youtube_id: "-SlvXx1UGVg"
-
+image: /assets/images/an-oddly-artistic-cinematic-niche.webp
+image_alt: "The posters for the following movies lined up side-by-side: Zero Day (2002) by Ben Coccio, Elephant (2003) by Gus Van Sant, Polytechnique (2009) by Denis Villeneuve, The Dirties (2013) by Matt Johnson, Our Hero Balthazar (2026) by Oscar Boyson"
 ---
 
 With the new film <cite>Our hero, Balthazar</cite> currently making its debut in select NYC theaters, we thought it would be a good time to discuss other films in this rather niche and controversial micro-genre. What sub-genre, you ask? Well, it may be more subtly referred to as the “mass casualty” indie film, but more colloquially, they are simply referred to as school shooter films. 
