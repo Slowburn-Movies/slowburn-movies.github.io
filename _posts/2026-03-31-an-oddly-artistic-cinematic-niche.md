@@ -5,7 +5,7 @@ date: 2026-03-31
 author: jeff
 
 title: "An Oddly Artistic Cinematic Niche"
-subtitle: "The Mass Casualty Indie Film"
+subtitle: "A Retrospective Analysis of the Mass Casualty Indie Film Genre"
 description: "In anticipation of the upcoming film Our Hero, Balthazar, we take a deep dive into the visual language and narrative structures of four influential films that all grapple with this tragic subject: Zero Day (2002) by Ben Coccio, Elephant (2003) by Gus Van Sant, Polytechnique (2009) by Denis Villeneuve, The Dirties (2013) by Matt Johnson"
 
 youtube_id: "-SlvXx1UGVg"
