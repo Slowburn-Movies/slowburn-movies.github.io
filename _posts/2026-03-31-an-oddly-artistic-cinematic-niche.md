@@ -30,7 +30,7 @@ As the story ramps up, it’s clear they’ve made their decision to go through 
 
 Overall, though, I think the intimate nature of the rest of the film probably led to the sort of cult  romanticization of the main characters that we see online today,  which was certainly not a good thing. You can’t control the internet, though, and it’s pretty clear that the filmmakers didn’t think that the film would end up being such an aesthetic model for real life events and an obsessive cult fandom. Sadly, even as recently as this year, real life teens were unfortunately idolizing the film while attempting a copy cat event. Art imitating life, life imitating art. 
 
-Crew from <cite>Zero Day</cite> went on to make <cite>A Place Beyond the Pines</cite>, which is another fantastic, gritty meditation on violence and familial trauma. 
+The director of <cite>Zero Day</cite> went on to write <cite>The Place Beyond the Pines</cite>, which is another fantastic, gritty meditation on violence and familial trauma. 
 
 ## The Dirties
 
