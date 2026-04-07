@@ -10,10 +10,6 @@ release_year: 2026
 director: "Kristoffer Borgli"
 
 rating: 3.5
-other_ratings:
-  - author: "Cale"
-    rating: 4
-    verdict: "The script was so efficient and honed, you could have convinced me that this was based on a play. Every little detail was impactful upon further contemplation. It’s also impressive that despite the silliness of the plot, it’s eminently believable. Part of that is due to the amazing performances of Robert and Zendaya, but also no doubt due to Borgli's direction. If ever a movie like this were to be made, I doubt it could be better than this one."
 
 view_link: https://a24films.com/films/the-drama
 letterboxd_link: https://letterboxd.com/jeffdelay/film/the-drama/
