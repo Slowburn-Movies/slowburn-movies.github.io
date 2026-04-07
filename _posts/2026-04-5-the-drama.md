@@ -10,6 +10,10 @@ release_year: 2026
 director: "Kristoffer Borgli"
 
 rating: 3.5
+other_ratings:
+  - author: "Cale"
+    rating: 4
+    verdict: "The script felt so honed and efficient that you could easily convince me this was based on a play. The depth was in the details. Every mannerism or tick felt like it came from a place of deep character subtext, developed in rehearsal. Borgli seems to excel in creating embodied archetypes for his modern day fables. Just like Little Red Riding Hood, I only need to hear it once for it to stick with me. Fun, yes. Unrewatchable, maybe. Forgettable, definitely not."
 
 view_link: https://a24films.com/films/the-drama
 letterboxd_link: https://letterboxd.com/jeffdelay/film/the-drama/
@@ -53,7 +57,7 @@ The core of the film is its unpredictability, which is both a blessing and a cur
 
 Ironically, the movie isn’t all that edgy, anyway. If it wanted to truly lean into provocation, it has a long way to go compared to contemporaries who weave controversial themes directly into their characters and worldbuilding. Here, the controversy feels like the core, with the rest sort of loosely written up around it, rather than being *organically* built in to an already interesting story. 
 
-With more character depth, the themes (and especially the ending) would have felt much more *earned* and emotionally impactful. Ari Aster (who was a producer on <cite>The Drama</cite>) did this masterfully with <cite>Eddington</cite> and <cite>Beau is Afraid</cite>, which both ruminate on much more complex themes with much more depth. Even <cite>Bugonia</cite>, (made by a filmmaker *famous* for being emotionally obtuse and intentionally subversive) had more character depth and emotionally than <cite>The Drama</cite>— and it was certainly a much more fully-formed film overall. 
+With more character depth, the themes (and especially the ending) would have felt much more *earned* and emotionally impactful. Ari Aster (who was a producer on <cite>The Drama</cite>) did this masterfully with <cite>Eddington</cite> and <cite>Beau is Afraid</cite>, which both ruminate on much more complex themes with much more depth. Even <cite>Bugonia</cite>, (made by a filmmaker *famous* for being emotionally obtuse and intentionally subversive) had more character depth and emotionality than <cite>The Drama</cite>— and it was certainly a much more fully-formed film overall. 
 
 In the end, <cite>The Drama</cite> is tense, sometimes funny, sometimes awkward, sometimes sweet, but it never quite reaches the heights of its hype or potential. With a stronger emotional core or richer characterization, it could have been fantastic, possibly even a contender for best of the year so far. 
 
