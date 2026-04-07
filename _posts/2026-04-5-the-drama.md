@@ -30,6 +30,11 @@ The film centers on love— specifically, where the limits of love lie, and whet
 
 The dialogue and acting are the real standouts, and honestly, they carry the entire runtime. Much of the film takes place around dinner tables and in living rooms, with conversation doing most of the heavy lifting. Some scenes are so tense, so painfully awkward, that it becomes physically hard not to look away. That only works because the performances are so committed. Zendaya and Robert Pattinson, in particular, give everything to their performances— often literally with their blood, sweat, and tears. Pattinson and Zendaya had a palpable chemistry throughout the entire film, and their acting absolutely ***carried*** the film on their backs. 
 
+<figure>
+  <img src="/assets/images/the-drama-bts.webp" alt="Kristoffer Borgli speaking to Zendaya and Robert Pattinson, who are sitting down at a dinner table.">
+  <figcaption>Kristoffer Borgli directing Zendaya and Robert Pattinson</figcaption>
+</figure>
+
 The editing also helps build and maintain tension and anxiety consistently throughout the film. Past and future moments cut in unexpectedly, offering premonitions and fragments of the past that keep the audience unsettled. Once the twist hits, the film spirals into a mess of tension and unpredictability that makes it hard to guess what’s coming next. The cinematography itself was not necessarily notable, but the film did look fantastic in its color grading, and the camera work shifted between tight closeups and handheld shots that added to the tension and detail of each scene. 
 
 I personally love dialogue-heavy films, and even though the plot is thin, the humor and tension in the dialogue give the movie a chaotic energy. It’s an entertaining train wreck, driven almost entirely by top-tier acting.
