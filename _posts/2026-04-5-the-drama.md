@@ -13,7 +13,7 @@ rating: 3.5
 other_ratings:
   - author: "Cale"
     rating: 4
-    verdict: "The script felt so honed and efficient that you could easily convince me this was based on a play. The depth was in the details. Every mannerism or tick felt like it came from a place of deep character subtext, developed in rehearsal. Borgli seems to excel in creating embodied archetypes for his modern day fables. Just like Little Red Riding Hood, I only need to hear it once for it to stick with me. Fun, yes. Unrewatchable, maybe. Forgettable, definitely not."
+    verdict: "Borgli seems to excel in creating embodied archetypes for his modern day fables. Every mannerism or tick felt like it came from a place of deep character subtext, developed in rehearsal. Like Little Red Riding Hood, I don't need to hear it again, but this one will stick with me."
 
 view_link: https://a24films.com/films/the-drama
 letterboxd_link: https://letterboxd.com/jeffdelay/film/the-drama/
