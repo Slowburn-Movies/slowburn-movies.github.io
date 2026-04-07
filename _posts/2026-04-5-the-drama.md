@@ -5,7 +5,7 @@ date: 2026-04-5
 author: jeff
 
 title: "The Drama"
-subtitle: "An entertaining train wreck, driven almost entirely by top-tier acting"
+subtitle: "Entertaining, tense, and driven almost entirely by top-tier acting"
 release_year: 2026
 director: "Kristoffer Borgli"
 
@@ -18,8 +18,6 @@ other_ratings:
 view_link: https://a24films.com/films/the-drama
 letterboxd_link: https://letterboxd.com/jeffdelay/film/the-drama/
 instagram_link: https://www.instagram.com/p/DWX5JZZleKr/?igsh=MWRkMHhqdDZ6MjFodQ==
-
-youtube_id: ZJUYjwoiuZc
 
 image: /assets/images/the-drama.webp
 image_alt: "Zendaya and Robert Pattinson in The Drama, having wine, listening to people speak."
