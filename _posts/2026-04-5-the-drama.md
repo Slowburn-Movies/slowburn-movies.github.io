@@ -17,7 +17,7 @@ other_ratings:
 
 view_link: https://a24films.com/films/the-drama
 letterboxd_link: https://letterboxd.com/jeffdelay/film/the-drama/
-instagram_link: https://www.instagram.com/p/DWX5JZZleKr/?igsh=MWRkMHhqdDZ6MjFodQ==
+instagram_link: https://www.instagram.com/p/DW2aUPLj-Px/?igsh=MW1qOTY1aTEwNXFu
 
 image: /assets/images/the-drama.webp
 image_alt: "Zendaya and Robert Pattinson in The Drama, having wine, listening to people speak."
