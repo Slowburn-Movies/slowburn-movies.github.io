@@ -13,6 +13,7 @@ rating: 3.5
 
 view_link: https://www.facesofdeathmovie.com/
 letterboxd_link: https://letterboxd.com/jeffdelay/film/faces-of-death-2026/
+instagram_link: https://www.instagram.com/p/DXFtZrVD3HR/?img_index=5&igsh=NzE0ZTRvNjFueG1m
 
 image: /assets/images/faces-of-death.webp
 image_alt: "Barbie Ferrera facing the camera, watching a video."
