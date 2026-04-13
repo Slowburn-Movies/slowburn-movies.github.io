@@ -1,11 +1,11 @@
 ---
-published: false
+published: true
 type: review
 date: 2026-04-13
 author: jeff
 
 title: "Faces of Death"
-subtitle: ""
+subtitle: "Anyone who enjoys schlocky, cult, or classic horror will find something to love here"
 release_year: 2026
 director: "Daniel Goldhaber"
 
