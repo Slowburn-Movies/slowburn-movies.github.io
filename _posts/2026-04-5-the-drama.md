@@ -11,7 +11,7 @@ director: "Kristoffer Borgli"
 
 rating: 3.5
 other_ratings:
-  - author: "Cale"
+  - author: cale
     rating: 4
     verdict: "Borgli seems to excel in creating embodied archetypes for his modern day fables. Every mannerism or tick felt like it came from a place of deep character subtext, developed in rehearsal. Like Little Red Riding Hood, I don't need to hear it again, but this one will stick with me."
 
