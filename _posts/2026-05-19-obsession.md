@@ -21,7 +21,7 @@ instagram_link:
 
 image: /assets/images/obsession.webp
 image_alt: "Silhouette of Inde Navarette standing on the porch of a house at night, looking at a car with Michael Johnston in it."
-image_caption: ""
+image_caption: "Inde Navarrette standing ominously in Obsession."
 ---
 
 Considering the hype around this film, one could not be blamed for assuming <cite>Obsession</cite> would stand toe to toe with modern horror greats like <cite>Bring Her Back</cite>, <cite>Hereditary</cite> and <cite>Midsommar</cite>. Sadly, <cite>Obsession</cite> ended up being a relative disappointment in almost every way but its cinematography. Shockingly amateurish acting, coupled with a shallow script full of obvious moments, rare scares, and a premise based on a rather surface level critique of infatuation and male expectations in dating. <cite>Obsession</cite> has its moments of shock and entertainment, but they are mostly drowned out by mediocrity.
