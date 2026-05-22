@@ -17,7 +17,7 @@ other_ratings:
 
 view_link: https://www.blumhouse.com/film/obsession
 letterboxd_link: https://letterboxd.com/jeffdelay/film/obsession-2025-2/
-instagram_link: 
+instagram_link: https://www.instagram.com/p/DYpZGlKGyzw/?igsh=eGtjMXl0enZncmw2
 
 image: /assets/images/obsession.webp
 image_alt: "Silhouette of Inde Navarette standing on the porch of a house at night, looking at a car with Michael Johnston in it."
