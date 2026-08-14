@@ -3,6 +3,13 @@ description: Movie reviews and culture
 url: https://slowburn.mov
 instagram: slowburn_mov
 
+author:
+  name: Slowburn
+  url: https://slowburn.mov/about/
+
+plugins:
+  - jekyll-feed
+
 collections:
   contributors:
     output: true

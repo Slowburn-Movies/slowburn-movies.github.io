@@ -92,6 +92,15 @@ footer {
   font-size: 1rem;
 }
 
+.site-footer .rss-link {
+  font-family: 'Archivo', sans-serif;
+  font-weight: 500;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  text-decoration: none;
+}
+
 /* Container for title and subtitle */
 hgroup {
   margin-bottom: 2rem; /* Space between the whole header block and the video/image */
