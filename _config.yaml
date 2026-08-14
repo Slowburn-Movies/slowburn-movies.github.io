@@ -10,6 +10,10 @@ author:
 plugins:
   - jekyll-feed
 
+feed:
+  icon: /favicon-48.png
+  logo: /assets/images/slowburn-brand-text-black.webp
+
 collections:
   contributors:
     output: true
