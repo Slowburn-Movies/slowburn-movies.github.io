@@ -5,7 +5,7 @@ date: 2026-08-31
 author: jeff
 
 title: Teenage Sex and Death at Camp Miasma
-subtitle: "Moments of shock and entertainment drowned out by mediocrity"
+subtitle: "Wholly unique and intensely personal"
 release_year: 2026
 director: "Jane Schoenbrun"
 
