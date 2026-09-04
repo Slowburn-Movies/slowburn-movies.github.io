@@ -13,7 +13,7 @@ rating: 3.5
 
 view_link: https://mubi.com/en/campmiasma
 letterboxd_link: https://letterboxd.com/jeffdelay/film/teenage-sex-and-death-at-camp-miasma/
-instagram_link: 
+instagram_link: https://www.instagram.com/p/Dc4iz7Vj0hr/?igsi=MW5ydTlsbjczbXVnNg==
 
 image: /assets/images/TSADACM.webp
 image_alt: "Hannah Einbinder and Gillian Anderson in a red-lit room, looking two different directions."
