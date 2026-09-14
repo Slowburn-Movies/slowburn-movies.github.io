@@ -9,6 +9,7 @@ author:
 
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 feed:
   icon: /favicon-48.png
