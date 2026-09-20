@@ -12,7 +12,7 @@ director: "Zach Cregger"
 rating: 3.5
 
 view_link: https://residentevil.movie/
-letterboxd_link: 
+letterboxd_link: https://letterboxd.com/7beersintibet/film/resident-evil-2026/
 instagram_link: 
 
 image: /assets/images/resident-evil.webp
