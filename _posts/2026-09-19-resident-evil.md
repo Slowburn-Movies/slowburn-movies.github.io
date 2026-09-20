@@ -20,7 +20,7 @@ image_alt: "Austin Abrams holding a gun, carrying a medical courier bag in a sno
 image_caption: "Austin Abrams in Resident Evil."
 ---
 
-Zach Cregger is intimately familiar with the video game experience. He knows about receiving (and immediately disregarding) instructions from NPCs. He knows about starting an optional side-quest and "nope"-ing out when you realize it's not worth it. And he, most importantly, knows that snow levels are the best. 
+Zach Cregger is intimately familiar with the video game experience. He knows about receiving (and immediately disregarding) instructions from NPCs. He knows about starting an optional side-quest and "nope"-ing out when you realize it's not worth it. And he, most importantly, knows that snow levels are always the best. 
 
 <cite>Resident Evil</cite> is a reboot of the franchise that asks nothing of its audience other than "be ready to have fun". The story also serves as a prequel to the universe that tees up future films for a home run. For that reason, it did earn the prestigious, eponymous title. Everyone that had a great time watching this will no doubt see any future installment that follows and builds upon this (simple) foundation.
 
@@ -36,4 +36,4 @@ Paul Walter Hauser shows up at the midpoint and provides a well-earned respite f
 
 Is the humor too much at times? For a standalone prequel that reintroduces the universe of <cite>Resident Evil</cite> to a wider audience, it works! However, if future sequels ever expand on this initial outbreak, they may have difficulty portraying some of these characters in a more serious light. An avoidable problem with some finagling.
 
-The second half of the movie is like the latter half of a video game. Unfortunately, I only rarely finish video games once I get to the middle point. Likewise this movie didn’t hold my interest once the character was sufficiently "leveled up". Ironically, the video games that I finish are the ones with strong stories and characters that draw me in. There is certainly a lesson in there; and I think Cregger knows it already. But regardless, this was a fun ride and definitely worth the price of admission.
+The second half of the movie is like the latter half of a video game. Unfortunately, I only rarely finish video games once I get to the middle point. Likewise this movie didn’t hold my interest once the character was sufficiently "leveled up". Ironically, the video games that I finish are the ones with strong stories and characters that draw me in. There is certainly a lesson in there; and I think Cregger knows it already. But regardless, this was a wild ride and definitely worth the price of admission.
