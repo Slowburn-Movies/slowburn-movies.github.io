@@ -5,7 +5,7 @@ date: 2026-09-19
 author: cale
 
 title: Resident Evil
-subtitle: "Snow levels are the best"
+subtitle: "Snow levels are always the best"
 release_year: 2026
 director: "Zach Cregger"
 
