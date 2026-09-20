@@ -30,7 +30,7 @@ Cregger re-united with Ryan and Hays Holladay from <cite>Weapons</cite> for the 
 
 Several tense action sequences felt like a natural evolution of Cregger's previous work. We see the problem solving from <cite>Barbarian</cite>, the chaotic escapes from <cite>Weapons</cite>, and this time even the humor from <cite>The Whitest Kids U' Know</cite>.
 
-Austin Abrams plays a millennial Joe Six-Pack (of Liquid Death, probably). Most of the laughs of the film are provided by Abrams’ pro choice and, presumptively, pro gun-control character being thrown into a world of violating individual autonomy and shooting people in the face. I would praise Abrams' performance here, but it doesn't even feel like a performance. That may be the highest praise I could possibly give.
+Austin Abrams plays a millennial Joe Six-Pack (of Liquid Death, probably). Most of the laughs of the film are provided by Abrams’ pro choice and, presumptively, pro gun-control character being thrown into a world of violating individual autonomy and shooting people in the face. I would praise Abrams' performance here, but it doesn't even feel like a performance. For an actor, that may be the highest praise I could possibly give.
 
 Paul Walter Hauser shows up at the midpoint and provides a well-earned respite from the action. I am a big PWH fan, but I'm not sure if the casting was correct on this one. Abrams was already playing the bumbling fool. A "straight man" against Abrams may have played stronger, and better for this side character as well. 
 
