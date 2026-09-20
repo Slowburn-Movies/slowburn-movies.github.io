@@ -20,7 +20,7 @@ image_alt: "Austin Abrams holding a gun, carrying a medical courier bag in a sno
 image_caption: "Austin Abrams in Resident Evil."
 ---
 
-Zach Cregger is intimately familiar with the video game experience. He knows about receiving (and immedietely disregarding) instructions from NPCs. He knows about starting an optional side-quest and "nope"-ing out when you realize it's not worth it. And he, most importantly, knows that snow levels are the best. 
+Zach Cregger is intimately familiar with the video game experience. He knows about receiving (and immediately disregarding) instructions from NPCs. He knows about starting an optional side-quest and "nope"-ing out when you realize it's not worth it. And he, most importantly, knows that snow levels are the best. 
 
 <cite>Resident Evil</cite> is a reboot of the franchise that asks nothing of its audience other than "be ready to have fun". For that reason (and others that I won't go into), it also serves as a prequel to the universe that tees up future films for a home run. For that reason, it did earn the prestigious, eponymous title. Everyone that had a great time watching this will no doubt see any future installment that follows and builds upon this (simple) foundation.
 
