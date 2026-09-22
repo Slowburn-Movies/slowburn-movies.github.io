@@ -10,10 +10,14 @@ release_year: 2026
 director: "Zach Cregger"
 
 rating: 3.5
+other_ratings:
+  - author: "jeff"
+    rating: 3.5
+    verdict: "Avid, self-serious fans of the franchise that were hoping for lore-accurate worldbuilding and (at the very least) subtle introductions to beloved <cite>RE</cite> characters will likely be the only ones disappointed by this film.<br/>Everyone else (especially those who tired of or actively avoided the other dozen half-cooked <cite>RE</cite> films) will have a fantastic time at the cinema. Self-aware, genre satirizing and silly comedy is abound here, and is reminiscent of Cregger’s sketch comedy days. It absolutely works in breaking up the high tension, jump scares and isolated nature of the script, but it also just suits Austin Abrams’ acting style perfectly. It’s a roller coaster ride, and Cregger isn’t trying to make it high art, but he absolutely commits to the job and delivers many white knuckling scenes and some of the best movie monsters in recent memory.<br>Where <cite>Weapons</cite> felt undercooked due to juggling too many storylines, the decision to make <cite>RE</cite> centered around a single character and storyline makes the experience much stronger. Cregger still doesn’t appear to have many strengths in character building, but he makes up for that in spades through environmental storytelling and excellent pacing."
 
 view_link: https://residentevil.movie/
 letterboxd_link: https://letterboxd.com/7beersintibet/film/resident-evil-2026/
-instagram_link: 
+instagram_link: https://www.instagram.com/p/DdmDGlAG7iE/?stkn=ejFneHhzZWpyZ3l1 
 
 image: /assets/images/resident-evil.webp
 image_alt: "Austin Abrams holding a gun, carrying a medical courier bag in a snowy city."
