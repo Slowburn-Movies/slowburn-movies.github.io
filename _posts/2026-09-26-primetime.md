@@ -5,7 +5,7 @@ date: 2026-09-26
 author: jeff
 
 title: Primetime
-subtitle: "Snow levels are always the best"
+subtitle: "Entertaining, funny, and slightly unhinged"
 release_year: 2026
 director: "Lance Oppenheim"
 
