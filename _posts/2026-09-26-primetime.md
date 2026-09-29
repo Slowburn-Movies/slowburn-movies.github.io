@@ -13,7 +13,7 @@ rating: 4
 
 view_link: https://primetimethemovie.com/
 letterboxd_link: https://letterboxd.com/jeffdelay/film/primetime-2026/
-instagram_link: 
+instagram_link: https://www.instagram.com/p/Dd4yp2lgT99/?img_index=1&stkn=Nzk2d2F5NHNvanVn 
 
 image: /assets/images/primetime.webp
 image_alt: "Robert Pattinson as Chris Hansen, behind a rainy pane of glass."
