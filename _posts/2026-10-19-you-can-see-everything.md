@@ -9,7 +9,7 @@ subtitle: "Perception is truly reality"
 release_year: 2026
 director: "Lance Oppenheim"
 
-rating: 4
+rating: 4.5
 
 view_link: https://a24films.com/films/you-can-see-everything
 letterboxd_link: 
